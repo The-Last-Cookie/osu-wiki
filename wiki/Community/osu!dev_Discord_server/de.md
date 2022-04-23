@@ -12,7 +12,7 @@ Der dauerhafte Einladungslink lautet <https://discord.gg/ppy>.
 
 ## Verifizierung
 
-Neue Mitglieder des Servers haben normalerweise nicht die Erlaubnis Nachrichten zu senden. Im `#arrival`-Kanal kann man sich mit einem kurzen Überblick über seine Intentionen vorstellen. Ein Mitglied des osu!-Teams wird dann eine Rolle hinzufügen, um die Beschränkung aufzuheben.
+Neue Mitglieder des Servers haben normalerweise nicht die Erlaubnis Nachrichten zu senden. Im Kanal `#arrival` kann man sich mit einem kurzen Überblick über seine Intentionen vorstellen. Ein Mitglied des osu!-Teams wird dann eine Rolle hinzufügen, um die Beschränkung aufzuheben.
 
 ## Projekte
 

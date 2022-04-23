@@ -1,6 +1,6 @@
 # Chatkonsole
 
-Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat`-Tabs (unten rechts) geöffnet werden.
+Fast überall in osu! kann die Chatkonsole durch das Betätigen der Taste `F8` oder durch das Klicken des Tabs `Show Chat` (unten rechts) geöffnet werden.
 
 ![Chatkonsole im Hauptmenü](img/Chatconsole1.png "Chatkonsole im Hauptmenü")
 
@@ -18,15 +18,15 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 | **Türkis** | [peppy](https://osu.ppy.sh/users/2), der Ersteller von osu! |
 | **Pink** | [BanchoBot](/wiki/BanchoBot) |
 
-- Klicke auf den `Show Ticker`-Tab, um die neusten Nachrichten am unteren Bildschirmrand anzuzeigen, selbst wenn die Chatkonsole nicht sichtbar ist.
-- Klicke auf den `Auto-Hide`-Tab, um die Chatkonsole während des Spielens automatisch zu schließen. Die Konsole kann dann nur während des Intros bzw. Outros oder in Pausen offen sein.
-- Klicke auf den `Hide Chat`-Tab (oder drücke `F8` erneut), um die Chatkonsole zu schließen.
+- Klicke auf den Tab `Show Ticker`, um die neusten Nachrichten am unteren Bildschirmrand anzuzeigen, selbst wenn die Chatkonsole nicht sichtbar ist.
+- Klicke auf den Tab `Auto-Hide`, um die Chatkonsole während des Spielens automatisch zu schließen. Die Konsole kann dann nur während des Intros bzw. Outros oder in Pausen offen sein.
+- Klicke auf den Tab `Hide Chat` (oder drücke `F8` erneut), um die Chatkonsole zu schließen.
 
 ## Erweiterte Chatkonsole
 
 *Die [osu!academy](/wiki/Community/Video_series/osu!academy) (englisch) hat dieses Thema in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) zusammen mit dem [Mehrspielermodus](/wiki/Gameplay/Multiplayer) behandelt.*
 
-Fast überall in osu! kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users`-Tabs (unten rechts) die Chatkonsole erweitert werden. Als Zusatz zu der Chatkonsole wird dann ein Fenster voller Panels von eingeloggten Nutzern eingeblendet, auf dem man auch die momentane Aktivität der Nutzer sehen kann.
+Fast überall in osu! kann mit dem Betätigen der Taste `F9` oder durch das Klicken des Tabs `Online Users` (unten rechts) die Chatkonsole erweitert werden. Als Zusatz zu der Chatkonsole wird dann ein Fenster voller Panels von eingeloggten Nutzern eingeblendet, auf dem man auch die momentane Aktivität der Nutzer sehen kann.
 
 ![Erweiterte Chatkonsole](img/Chat_Console-Extended.png "Erweiterte Chatkonsole")
 
@@ -39,13 +39,13 @@ Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Ma
   - `Friends`: Nur deine Freunde werden angezeigt.
   - `Nearby`: Nur Spieler in deiner Nähe werden angezeigt.
   - `Country`: Alle Spieler aus deinem Land werden angezeigt.
-- Die `Lock Panels`-Checkbox erlaubt es, die Panels einzufrieren. Das Ein-/Ausloggen von Nutzern und das Umsortieren bzw. Filtern werden dann ignoriert.
+- Die Checkbox `Lock Panels` erlaubt es, die Panels einzufrieren. Das Ein-/Ausloggen von Nutzern und das Umsortieren bzw. Filtern werden dann ignoriert.
 - Die Reihenfolge der Panels lässt sich durch die Tabs `Name`, `Rank`, `Location` und `Time Zone` regeln.
   - `Name`: Die Panels werden alphabetisch nach dem Namen des Spielers sortiert.
   - `Rank`: Die Ränge der Spieler bestimmen die Reihenfolge der Panels (bester Spieler an 1. Stelle).
   - `Location`: Die Panels werden alphabetisch nach dem Namen des Herkunftslandes des Spielers sortiert.
   - `Time Zone`: Die Zeitzone der Spieler bestimmt die Reihenfolge der Panels.
-- `World Map`-Tab: Zeigt eine Weltkarte an, auf der man den Standort der aktiven Spieler sehen kann.
+- Tab `World Map`: Zeigt eine Weltkarte an, auf der man den Standort der aktiven Spieler sehen kann.
 
 | Panel-Farben | Erklärung |
 | :-- | :-- |

@@ -44,7 +44,7 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
 2. Such' dir ein Lied aus, das du gerne spielen würdest.
 3. Klicke auf das "Herunterladen"-Icon, um die Beatmap auf deinem Computer zu speichern.
 4. Finde und öffne die Datei (die Dateiendung ist `.osz`).
-   - Alternativ kannst du die Datei auch im `Songs`-Verzeichnis deiner osu!-Installation ablegen.
+   - Alternativ kannst du die Datei auch im Verzeichnis `Songs` deiner osu!-Installation ablegen.
 5. Den Rest wird osu! automatisch für dich erledigen.
    - Falls du die neue Beatmap aus irgendeinem Grund nicht sehen kannst, drücke `F5` im Einzelspielermodus, um alle Beatmaps erneut zu verarbeiten.
 
@@ -71,7 +71,7 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
      2. osu! wird den Rest von alleine erledigen.
    - Wenn der Skin komprimiert ist (z.B. `.7z`, `.rar`, `.zip`):
      1. Entpacke das Archiv.
-     2. Verschiebe den entpackten Ordner in das `Skins`-Verzeichnis deiner osu!-Installation.
+     2. Verschiebe den entpackten Ordner in das Verzeichnis `Skins` deiner osu!-Installation.
      3. Wenn osu! geöffnet ist, wird der Skin nach dem Drücken von `Strg` + `Alt` + `Shift` + `S` erscheinen.
      4. Begib dich in osu! in die [Optionen](/wiki/Client/Options) und suche nach `Skin`.
      5. Scrolle runter zur Option `Skin auswählen` und wähle deinen neuen Skin aus.

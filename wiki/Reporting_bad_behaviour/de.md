@@ -93,7 +93,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 #### Benutzerprofil
 
-1. Scrolle zu der `Ranks`-Sektion oder `Historical` für aktuelle Plays und gehe auf den Score.
+1. Scrolle zu der Sektion `Ranks` oder `Historical` für aktuelle Plays und gehe auf den Score.
 2. Drücke den Button mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Report Score`.
 3. Wähle die Kategorie und füge Details hinzu (optional).
 

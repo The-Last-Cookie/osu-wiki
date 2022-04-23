@@ -8,7 +8,7 @@ Da osu! ein rhythmusbasiertes Spiel ist, sollte das von dir gewählte Lied einen
 
 ## Der Einstieg
 
-Um eine neue Beatmap zu erstellen, begib dich zuerst in den "Edit"-Modus und ziehe dann eine Audiodatei in das osu!-Fenster. Alternativ kannst du die Audiodatei auch in dein `Songs`-Verzeichnis verschieben. Nun sollte sich der "Edit"-Bildschirm öffnen und eine leere Beatmap mit deinem Lied bereits markiert sein. Falls dein Lied nicht vorhanden ist, drücke `F5`, um alle Beatmaps neu zu laden (nun sollte deine Beatmap erscheinen). Klicke auf die Map, um den [Beatmapeditor](/wiki/Client/Beatmap_editor) und den `Song Setup`-Dialog zu öffnen.
+Um eine neue Beatmap zu erstellen, begib dich zuerst in den "Edit"-Modus und ziehe dann eine Audiodatei in das osu!-Fenster. Alternativ kannst du die Audiodatei auch in das Verzeichnis `Songs` verschieben. Nun sollte sich der "Edit"-Bildschirm öffnen und eine leere Beatmap mit deinem Lied bereits markiert sein. Falls dein Lied nicht vorhanden ist, drücke `F5`, um alle Beatmaps neu zu laden (nun sollte deine Beatmap erscheinen). Klicke auf die Map, um den [Beatmapeditor](/wiki/Client/Beatmap_editor) und den `Song Setup`-Dialog zu öffnen.
 
 ### Song Setup
 
