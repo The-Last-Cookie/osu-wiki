@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
   1. [MY FIRST STORY - Fukagyaku Replace (Broccoly) [Weakness]](https://osu.ppy.sh/beatmapsets/383270#osu/837946)
   2. [Deadlock - A New Era (Drummer) [Tragedy]](https://osu.ppy.sh/beatmapsets/792017#osu/1661389)
   3. [Camellia - shadows of cats (Arbane) [felidae]](https://osu.ppy.sh/beatmapsets/464366#osu/994310)
-  4. Suzuki Konomi - Cyber Thunder Cider (Nattu) \[Niat's Cider\]
+  4. Suzuki Konomi—Cyber Thunder Cider (Nattu) \[Niat's Cider\]
   5. [Rossini & MC F 40 - Guillaume Tell (Sushi971) [Heavy]](https://osu.ppy.sh/beatmapsets/11742#osu/44714)
   6. [FujuniseikouyuuP - Invasion of stray cat (val0108) [Stray0108]](https://osu.ppy.sh/beatmapsets/256947#osu/588523)
 - Hidden

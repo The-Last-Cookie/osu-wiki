@@ -94,12 +94,12 @@ This competition has come to an end and resulted in the following podium:
   4. [Hatsune Miku - Falldown (soulfear) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/17118#fruits/61155)
 - Hidden
   1. [Nakamura Meiko - Scarlet Faith (Tsukuyomi) \[Insane\]](https://osu.ppy.sh/beatmapsets/144223#mania/417260)
-  2. Agnes Monica - Tak Ada Logika (Hinsvar) \[Rain\]\*
+  2. Agnes Monica—Tak Ada Logika (Hinsvar) \[Rain\]\*
   3. [Varien - The Scarlet Dawn (ExGon) \[Platter\]](https://osu.ppy.sh/beatmapsets/171202#fruits/414185)
   4. [nano - Nevereverland (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/149570#fruits/439454)
 - FreeMod
   1. [Melinda - Cinta Satu Malam (Toka-) \[Rain\]](https://osu.ppy.sh/beatmapsets/162163#fruits/395984)
-  2. kyou1110 - Japan Breakcore Arsenal (zeroclover) \[Insane\]\*
+  2. kyou1110—Japan Breakcore Arsenal (zeroclover) \[Insane\]\*
   3. [CLIFF EDGE feat. Nakamura Maiko - Endless Tears (Rakuen) \[AIRakuen's Extra\]](https://osu.ppy.sh/beatmapsets/123489#fruits/315356)
   4. [Black Sun Empire - Dawn Of A Dark Day (Receptor Remix) (Natteke) \[Marathon\]](https://osu.ppy.sh/beatmapsets/87353#fruits/238648)
   5. [Rita - Princess Blood (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/182009#fruits/436663)
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Rabpit - Saika -Ver.B- (Azmato) \[7omoa's Insane\]](https://osu.ppy.sh/beatmapsets/115114#fruits/313887)
   4. [aioi feat. KAMATA JUNKO - New World (shikyu) \[Hard\]](https://osu.ppy.sh/beatmapsets/85391#fruits/234680)
 - DoubleTime
-  1. Rabpit - Saika (Kandai-sa) \[Platter\]\*
+  1. Rabpit—Saika (Kandai-sa) \[Platter\]\*
   2. [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#fruits/73699)
   3. [xi - Parousia (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/37333#fruits/120121)
   4. [sakuzyo - Black Lair (-kevincela-) \[Another\]](https://osu.ppy.sh/beatmapsets/93287#fruits/251792)

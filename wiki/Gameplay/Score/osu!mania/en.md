@@ -25,7 +25,7 @@ Score = BaseScore + BonusScore
 BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
 
 BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
+Bonus = Bonus before this hit + HitBonus—HitPunishment / ModDivider
 Bonus is limited to [0, 100], initially 100.
 
 MaxScore = 1 000 000

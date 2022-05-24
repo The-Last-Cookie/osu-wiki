@@ -88,19 +88,19 @@ The Taiko World Cup 2011 was run by various community members.
 ### Finals
 
 - FreeMod
-  1. Akitaka Toyama - The Carnivorous Carnival (lepidopodus) \[Oni for TWC\]
+  1. Akitaka Toyama—The Carnivorous Carnival (lepidopodus) \[Oni for TWC\]
   2. [Akitaka Toyama - Yozakura Shanikusai (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/29952#taiko/99165)
   3. [Amuro vs Killer - Mei (yeahyeahyeahhh) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25605#taiko/87775)
-  4. Ayako Saso - Kamikaze Remix (lepidopodus) \[Oni for TWC\]
+  4. Ayako Saso—Kamikaze Remix (lepidopodus) \[Oni for TWC\]
   5. [beatMARIO - Night of Knights (DJPop) \[DONS\]](https://osu.ppy.sh/beatmapsets/15920#taiko/58061)
   6. [DragonForce - Through The Fire And Flames (Lesjuh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/20237#taiko/72404)
   7. [Linda AI-CUE - Kita Saitama2000 (zelos) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/26296#taiko/88821)
   8. [Linda AI-CUE - Man Ka Imu-Ichi no Juu (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/26095#taiko/88245)
-  9. ribbon rooms - mint tears (lepidopodus) \[Oni for TWC\]
+  9. ribbon rooms—mint tears (lepidopodus) \[Oni for TWC\]
   10. [sampling masters MEGA - Rotter Tarmination (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/17351#taiko/61917)
   11. [Taiko no Tatsujin - Haya Saitama2000 (Zekira) \[Oni\]](https://osu.ppy.sh/beatmapsets/9917#taiko/39076)
   12. [Taiko no Tatusjin - Hataraku2000 (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/13342#taiko/51845)
-  13. Zeami - Ryougen no Mai (lepidopodus) \[Oni for TWC\]
+  13. Zeami—Ryougen no Mai (lepidopodus) \[Oni for TWC\]
   14. [Zeami feat. Ayane - Senpuu no Mai (AC ver.) (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/21691#taiko/75184)
 - Tiebreaker
   1. **[Linda-AI-CUE - Shimedore2000 (Zekira) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28318#taiko/94475)**
@@ -112,8 +112,8 @@ The Taiko World Cup 2011 was run by various community members.
   2. [Demetori - Jehovah's YaHVeH (happy30) \[Taiko\]](https://osu.ppy.sh/beatmapsets/9641#taiko/45895)
   3. [Jonathan Underdown - IN THE ZONE (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/23502#taiko/80425)
   4. [Len - U.N. Owen was her? (Louis Cyphre) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/22699#taiko/78390)
-  5. Linda AI-CUE - Soroban2000 (lepidopodus) \[Oni for TWC\]
-  6. LindaAI-CUE - X-DAY2000 (arien666) \[Taiko Oni\]
+  5. Linda AI-CUE—Soroban2000 (lepidopodus) \[Oni for TWC\]
+  6. LindaAI-CUE—X-DAY2000 (arien666) \[Taiko Oni\]
   7. [M2U - Blythe (MoonFragrance) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/19874#taiko/69725)
   8. [Makou - Fermion (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/beatmapsets/20723#taiko/72946)
   9. [Maximum the Hormone - What's Up, People? (Louis Cyphre) \[Aru's 666 Taiko\]](https://osu.ppy.sh/beatmapsets/13320#taiko/89363)

@@ -785,7 +785,7 @@ Sunday, 13 December 2020:
 4. In the Group Stage, all teams from each group will face each other. The **best 2 teams** get our of their group.
 5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    1. Most matches won.
-   2. Highest (number of beatmaps won - number of maps lost) score.
+   2. Highest (number of beatmaps won—number of maps lost) score.
    3. Most beatmaps won.
    4. Winner of the match played previously between the tied teams.
 6. In Group Stage, "Win by Default" will be treated as win by 5:0, +1.0 score difference ratio.
@@ -859,7 +859,7 @@ Sunday, 13 December 2020:
 5. The mappool will be made by a special team of mappoolers.
 6. The event will be a 4 vs 4 match with the following rules:
    - Best-of-15 format (First to 8 points).
-   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be - played with any mods combination. Some of them might be impossible to - put a mod on though!
+   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be—played with any mods combination. Some of them might be impossible to—put a mod on though!
    - No bans.
    - Map selection is the same as a normal match.
    - Same rules as a normal match for disconnections.

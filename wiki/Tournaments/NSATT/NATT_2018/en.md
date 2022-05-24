@@ -122,7 +122,7 @@ This competition has come to an end and resulted in the following podium:
   4. [xi - Mirage Garden (Mono Kuma) \[Mono Taiko\]](https://osu.ppy.sh/beatmapsets/89851#taiko/244082)
   5. [Fleshgod Apocalypse - The Fool (LZD) \[Stamina Thief\]](https://osu.ppy.sh/beatmapsets/442451#taiko/965433)
 - Hidden
-  1. Reol - YoiYoi Kokon (steven1) \[Phylum (NATT ver.)\]
+  1. Reol—YoiYoi Kokon (steven1) \[Phylum (NATT ver.)\]
   2. [Igorrr - Cicadidae (nyouso) \[Nyouso's Taiko\]](https://osu.ppy.sh/beatmapsets/182507/#taiko/437655)
 - HardRock
   1. [weyheyhey !! - Loving The Girl Who Hates Me (Jaye) \[Bella\]](https://osu.ppy.sh/beatmapsets/438651#taiko/1164383)

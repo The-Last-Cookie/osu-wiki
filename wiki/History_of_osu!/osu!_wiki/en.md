@@ -4,7 +4,7 @@ outdated: true
 
 # History of the osu! wiki
 
-## MediaWiki (2011 - 2017)
+## MediaWiki (2011—2017)
 
 ![](img/ow_MW.jpg "Full page screenshot of osu! wiki in MediaWiki, taken on 2017-02-17")
 
@@ -21,7 +21,7 @@ outdated: true
 | 2016-08-30 | osu! wiki running on MediaWiki is being deprecated in favour of the GitHub repository version. The current osu! wiki will stay until the GitHub version is ready to be deployed with all the pages and images ported. |
 | 2017-06 | osu! wiki running on MediaWiki is officially deprecated. The link now points to the new osu-web interface using the osu! wiki resources made in the GitHub repository. [A temporary backup of the osu! wiki without the MediaWiki functionality can be found here.](https://osu.ppy.sh/old-wiki/Main_Page) |
 
-## GitHub repository (2016 - present)
+## GitHub repository (2016—present)
 
 | Date | Description |
 | :-- | :-- |

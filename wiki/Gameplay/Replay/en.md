@@ -96,7 +96,7 @@ Exported replay will have an `.osr` file extension with a clean filename format 
 
 ```
 Format : {LocalPlayerName} - {Artist} - {Title} [{Difficulty}] ({YYYY-MM-DD}) {GameMode}
-Example: dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS] (2013-08-12) OsuMania
+Example: dummytest1—Loituma—Ievan Polkka [SPINNER-MADNESS] (2013-08-12) OsuMania
 ```
 
 Do note that an exported replay file will **not** work if the **difficulty/beatmap linked to the replay file was missing/not found**.
@@ -110,8 +110,8 @@ A white, hovering text from right-to-left, will be shown above the comments but 
 The format is shown below unless stated otherwise:-
 
 ```
-Format : REPLAY MODE - Watching {PlayerName} play {ArtistName} - {BeatmapName} [{Difficulty}]
-Example: REPLAY MODE - Watching osu! play Peter Lambert - osu!tutorial [Gameplay Basics]
+Format : REPLAY MODE—Watching {PlayerName} play {ArtistName} - {BeatmapName} [{Difficulty}]
+Example: REPLAY MODE—Watching osu! play Peter Lambert—osu!tutorial [Gameplay Basics]
 ```
 
 ### Local (Solo)
@@ -191,8 +191,8 @@ A white, hovering text from right-to-left will be shown on top when watching a s
 The format and example is shown below:-
 
 ```
-Format : SPECTATOR MODE - Watching {PlayerName} play {ArtistName} - {BeatmapName} [{Difficulty}]
-Example: SPECTATOR MODE - Watching peppy play Peter Lambert - osu!tutorial [Gameplay Basics]
+Format : SPECTATOR MODE—Watching {PlayerName} play {ArtistName} - {BeatmapName} [{Difficulty}]
+Example: SPECTATOR MODE—Watching peppy play Peter Lambert—osu!tutorial [Gameplay Basics]
 ```
 
 ### Auto

@@ -8,7 +8,7 @@ In the most basic form, all you need is a [bézier curve](https://en.wikipedia.o
 
 From [Ephemeral](https://osu.ppy.sh/users/102335),
 
-> always align slider endpoints to the smallest possible value - that is, if you drag them any further backwards, the slider will shorten. the point will centre itself in the slider end and will make attaining passable curves much easier to accomplish.
+> always align slider endpoints to the smallest possible value—that is, if you drag them any further backwards, the slider will shorten. the point will centre itself in the slider end and will make attaining passable curves much easier to accomplish.
 
   Also, doing this makes reverse selection on sliders not fuck them up. 
   Which is a good thing.
@@ -75,11 +75,11 @@ Courtesy of mm201.
 The number of control points you want depends on the angle covered by your arc:
 
 - 0 degrees: 2 points.
-- 0 degrees - 20 degrees: 3 points.
-- 20 degrees - 170 degrees: 4 points.
-- 170 degrees - 200 degrees: 5 points.
-- 200 degrees - 300 degrees: 6 points.
-- 300 degrees - 350 degrees: 7 points.
+- 0 degrees—20 degrees: 3 points.
+- 20 degrees—170 degrees: 4 points.
+- 170 degrees—200 degrees: 5 points.
+- 200 degrees—300 degrees: 6 points.
+- 300 degrees—350 degrees: 7 points.
 
 None of this is really exact, just a general idea.
 Similar to waves, the further the control point is from the start/end in order, the further away from the curve it goes.

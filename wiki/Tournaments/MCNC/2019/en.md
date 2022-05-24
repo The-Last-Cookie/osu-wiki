@@ -113,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
   2. [lapix - Carry me away (Couil) \[4K SV CHALLENGE\]](https://osu.ppy.sh/beatmapsets/602070#mania/1271753)
   3. [sky_delta - Precursor (Daughter-) \[antecedent\]](https://osu.ppy.sh/beatmapsets/857564#mania/1791811)
   4. [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
-  5. Camelia - The King Of Lions (\[OSC\]Agami) \[Jungle Warfare\]
+  5. Camelia—The King Of Lions (\[OSC\]Agami) \[Jungle Warfare\]
   6. [Inferi - Those Who From the Heavens Came (XeoStyle) \[Investiture of the Gods\]](https://osu.ppy.sh/beatmapsets/413901#mania/897408)
   7. [DJKurara - Steady Rock Kiss On Me (drunkenstein) \[Happiness\]](https://osu.ppy.sh/beatmapsets/801349#mania/1682118)
   8. [a\_hisa - Smoked Turkey Rag (\[Illustions\]) \[tournament?\]](https://osu.ppy.sh/beatmapsets/1001416#mania/2096435)
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
   12. [KopophobiA & Ajataa - Lunar Eclipse (\[Crz\]Zetsfy) \[Firanzia\]](https://osu.ppy.sh/beatmapsets/910844#mania/1900586)
   13. [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/beatmapsets/715933#mania/1512722)
   14. Quarks (kradness&Camellia) - Intro + Dualive (Evening) \[backpropogation\]
-  15. Camellia - NEURO-CLOUD-9 (Evening) \[GAUSSIAN (EVE.NING'S FLIP) x1.05\]
+  15. Camellia—NEURO-CLOUD-9 (Evening) \[GAUSSIAN (EVE.NING'S FLIP) x1.05\]
 - Tiebreaker
   1. **Unlucky Morpheus - Sono Tamashii Ni Yasuragi Wo \~ Dignity of Spirit (Evening) \[forever and never\]**
 
@@ -135,10 +135,10 @@ This competition has come to an end and resulted in the following podium:
   1. [Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
   2. [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/beatmapsets/488126#mania/1040762)
   3. [U1 overground - Dopamine (juankristal) \[Polyethylene Oxide\]](https://osu.ppy.sh/beatmapsets/695124#mania/1472944)
-  4. SOUND HOLIC - WANNA BE CRAZY PRINCESS -  (\[OSC\]Amagai) \[/L/unatic Pri/N/cess\]
+  4. SOUND HOLIC—WANNA BE CRAZY PRINCESS -  (\[OSC\]Amagai) \[/L/unatic Pri/N/cess\]
   5. [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tail's vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
   6. [Kobaryo - The Lightning Sword (AutotelicBrown) \[Ayumu's ascension\]](https://osu.ppy.sh/beatmapsets/748493#mania/1576797)
-  7. Fleshgod Apocalypse - The Fool (Couil) \[Mixleading Grace (new)\]
+  7. Fleshgod Apocalypse—The Fool (Couil) \[Mixleading Grace (new)\]
   8. [4k - SHD+ Package (1234567890) \[Tuk Tuk Boshi (Jump Hand+)\]](https://osu.ppy.sh/beatmapsets/383328#mania/838065)
   9. [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmapsets/667301#mania/1412004)
   10. [Terminal 11 - That's Gonna Be (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/980403#mania/2051696)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
   6. [UNDEAD CORPORATION - Everything will freeze (riktoi) \[Benumb\]](https://osu.ppy.sh/beatmapsets/709795#mania/1500546)
   7. [SP-# - tinnitus (stupud man) \[Guil's Inundation\]](https://osu.ppy.sh/beatmapsets/766340#mania/1636326)
   8. [ATC - Around the World (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmapsets/844198#mania/1766006)
-  9. The Brig & Umperia - Siren (Daybreak) \[Minty's Beginner\]
+  9. The Brig & Umperia—Siren (Daybreak) \[Minty's Beginner\]
   10. [Terminal 11 - Miserable Bastard (Gekido-) \[Despair\]](https://osu.ppy.sh/beatmapsets/789976#mania/1657803)
   11. [nanobii - Rainbow Road (STAMINA KILLER CUT) (190-225BPM) (Worms) \[225BPM 4K Handstream\]](https://osu.ppy.sh/beatmapsets/994634#mania/2079642)
   12. [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmapsets/805341#mania/1690577)
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
-  1. Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]
+  1. Frums—Wavetapper (qqqant) \[Stage 1: Memory Factory\]
   2. [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
   3. [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmapsets/464358#mania/994291)
   4. [PROTODOME - Greatest Hat (Gekido-) \[chalLeNge\]](https://osu.ppy.sh/beatmapsets/840500#mania/1759313)
@@ -203,10 +203,10 @@ This competition has come to an end and resulted in the following podium:
   4. [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) \[puxtu's Lunatic\]](https://osu.ppy.sh/beatmapsets/447784#mania/968811)
   5. [ARM - Saita, Kimi no Egao (Julie) \[I can Fly\]](https://osu.ppy.sh/beatmapsets/451029#mania/967569)
   6. [Various Artists - Chordial Blitz (DourGent) \[Venetian Drums - Sheenoboo\]](https://osu.ppy.sh/beatmapsets/809684#mania/1703314)
-  7. Joywave - Yolomania Selections (Daybreak) \[1.1x\]
+  7. Joywave—Yolomania Selections (Daybreak) \[1.1x\]
   8. [BilliumMoto - life flashes before weeb eyes (Hydria) \[Tech\]](https://osu.ppy.sh/beatmapsets/975351#mania/2041466)
-  9. void - Just Hold On (LovelySerenade) \[Flawless Diversion (challenge)\]
-  10. Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]
+  9. void—Just Hold On (LovelySerenade) \[Flawless Diversion (challenge)\]
+  10. Rengoku Teien—Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]
   11. [Mick Gordon - Rip and tear (Herkkupala) \[Revenant\]](https://osu.ppy.sh/beatmapsets/943380#mania/1970086)
 - Tiebreaker
   1. **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Koneko's Celestial // 4K\]](https://osu.ppy.sh/beatmapsets/556549#mania/1253374)**

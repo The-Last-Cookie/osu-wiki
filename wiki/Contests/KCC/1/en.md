@@ -48,17 +48,17 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 
 ### Instrumental
 
-- cYsmix - Moonlight Sonata (3:24) / 128bpm
-- Frums - Turnstile Jumper (2:37) / 321bpm
-- onumi - DESIRE (2:28) / 209bpm
-- Sakuzyo - First Dance (3:12) / 116bpm
+- cYsmix—Moonlight Sonata (3:24) / 128bpm
+- Frums—Turnstile Jumper (2:37) / 321bpm
+- onumi—DESIRE (2:28) / 209bpm
+- Sakuzyo—First Dance (3:12) / 116bpm
 - **Zekk - Kaleidoscope (2:11) / 155bpm**
 
 ### Vocal
 
-- Alice Schach and the Magic Orchestra - Chocolate Missile (2:57) / 175bpm
-- HyuN - Last Paradise (feat. Serentium) (2:42) / 89bpm
-- Memme - Geurida (2:45) / 180bpm
+- Alice Schach and the Magic Orchestra—Chocolate Missile (2:57) / 175bpm
+- HyuN—Last Paradise (feat. Serentium) (2:42) / 89bpm
+- Memme—Geurida (2:45) / 180bpm
 - mk feat.橘花音 - Awaking Beat-From the next generation- (3:51) / 178bpm
 - **YUC'e - Sengoku HOP (3:25) / 110bpm**
 

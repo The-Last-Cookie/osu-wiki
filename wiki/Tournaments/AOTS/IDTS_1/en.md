@@ -143,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Nizikawa - F.K.S (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/298187#taiko/673168)
   3. [NU-KO - Pochiko no Shiawase na Nichijou (TKS) \[TK's Oni\]](https://osu.ppy.sh/beatmapsets/298187#taiko/673168)
   4. [Hatsune Miku - Electric Love (t+pazolite Overcute Remix) (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/50373#taiko/1153370)
-  5. kors k as teranoid - Bad Maniacs (Backfire) \[Backfire's Inner Oni\]
+  5. kors k as teranoid—Bad Maniacs (Backfire) \[Backfire's Inner Oni\]
   6. [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d) \[No Regret\]](https://osu.ppy.sh/beatmapsets/523315#taiko/1111087)
 - Hidden
   1. [Krewella - Come And Get It (Razihel Remix) (hikikochan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/417377#taiko/903809)
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Camellia - Routing (MMzz) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/375111#taiko/821900)
   2. [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- (Nanatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/406622#taiko/920489)
   3. [Nekomata Master - Silence (Tasha) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/127126#taiko/342675)
-  4. NeLiME vs PRESti - Gatorix (Nardoxyribonucleic) \[Nardo's Muzukashii\]
+  4. NeLiME vs PRESti—Gatorix (Nardoxyribonucleic) \[Nardo's Muzukashii\]
   5. [xi - Wish upon Twin Stars (JUDYDANNY) \[JuDa's Muzukashii\]](https://osu.ppy.sh/beatmapsets/353259#taiko/805872)
   6. [Vau Boy - Video Game Girl (ft. viewtifulday) (Gero) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/331778#taiko/734844)
 - Hidden

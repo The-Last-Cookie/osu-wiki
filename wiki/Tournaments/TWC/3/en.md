@@ -108,20 +108,20 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (106 MB)](http://www.mediafire.com/file/55u3kl139pr04i8/TWC+-+Final+Mappool+pack.zip)**
 
 - NoMod
-  1. Cres - End Time (choco00) \[Nyan's Taiko (TWC Ver.)\]
-  2. xi - Akasha (Nyan) \[Nyan's Taiko+H (TWC Ver.)\]
+  1. Cres—End Time (choco00) \[Nyan's Taiko (TWC Ver.)\]
+  2. xi—Akasha (Nyan) \[Nyan's Taiko+H (TWC Ver.)\]
   3. [t+pazolite - Luv\*Lab\*Poison 22ate! (Saten) \[Taikosaki\]](https://osu.ppy.sh/beatmapsets/30058#taiko/99759)
-  4. K@me - Athlon -Speed Dragon- (POONwing) \[Inner Oni\]
+  4. K@me—Athlon -Speed Dragon- (POONwing) \[Inner Oni\]
   5. [t+pazolite - Stardust Lullaby (Strawberry) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/58016#taiko/176450)
   6. [Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]](https://osu.ppy.sh/beatmapsets/47550#taiko/174345)
   7. [goreshit - Satori De Pon! (\[CSGA\]Ar3sgice) \[Taikocalypse X (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/46502#taiko/146126)
   8. [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55560#taiko/168807)
-  9. xi - FREEDOM DiVE (Short Ver.) (-Chata-) \[Firce's Taiko Inner Oni\]
-  10. Iku Akume - Slashmaid (Censored Version) (Firce777) \[Firce's Taiko\]
-  11. ALiCE'S EMOTiON - Foughten Field (t+pazolite Remix) (Bass) \[Taikocalypse (TWC Ver.)\]
+  9. xi—FREEDOM DiVE (Short Ver.) (-Chata-) \[Firce's Taiko Inner Oni\]
+  10. Iku Akume—Slashmaid (Censored Version) (Firce777) \[Firce's Taiko\]
+  11. ALiCE'S EMOTiON—Foughten Field (t+pazolite Remix) (Bass) \[Taikocalypse (TWC Ver.)\]
 - Hidden
   1. [guna with team kyukkyu - subconsciousness (Charles445) \[Backfire's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/45205#taiko/146760)
-  2. cranky - Rei Mai ToukyouRikaDaigaku YOSAKOI So Ran (POONwing) \[Oni\]
+  2. cranky—Rei Mai ToukyouRikaDaigaku YOSAKOI So Ran (POONwing) \[Oni\]
 - HardRock
   1. [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Love's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/43248#taiko/136526)
   2. [Levaslater - NNRT (Reisen Udongein) \[Taiko DS\]](https://osu.ppy.sh/beatmapsets/47330#taiko/152961)
@@ -135,16 +135,16 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [Ryu - Plan 8 (wantuole) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/76825#taiko/216131)
-  2. Renard - Smoke Tower (giO-) \[Taikocalypse\]
+  2. Renard—Smoke Tower (giO-) \[Taikocalypse\]
   3. [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25828#taiko/125530)
   4. [weyheyhey !! - I'm Your Daddy (Loctav) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/59859#taiko/179233)
   5. [Memme - BSPower Explosion (AngelHoney) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44967#taiko/141942)
   6. [Lon - Yuru Fuwa Jukai Girl (Garven) \[Tasha's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/49686#taiko/165988)
-  7. t+pazolite - VOX Diamond (OnosakiHito) \[Taiko Oni\]
+  7. t+pazolite—VOX Diamond (OnosakiHito) \[Taiko Oni\]
   8. [Igorrr - Mastication Numerique (grumd) \[Loctav's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/54182#taiko/165342)
   9. [Hatsune Miku - Atama no Taisou (val0108) \[Love's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/40344#taiko/131291)
   10. [Renard - Why Am I So Angry (Blue Dragon) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/31133#taiko/260832)
-  11. t+pazolite - Kick-ass Kung-fu Carnival (Zapy) \[Backfire's Taikocalypse (TWC ver.)\]
+  11. t+pazolite—Kick-ass Kung-fu Carnival (Zapy) \[Backfire's Taikocalypse (TWC ver.)\]
 - Hidden
   1. [Ken Nakagawa - Tsuioku no Michishirube \~ Sono Ni (Dusty) \[Fiya's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42158#taiko/167317)
   2. [The Quick Brown Fox - Shut Down Everything (OnosakiHito) \[Ono's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/150548#taiko/371442)
@@ -166,16 +166,16 @@ This competition has come to an end and resulted in the following podium:
   4. [Ryu\* Vs. L.E.D. - PARADISE LOST (ignorethis) \[Taiko\]](https://osu.ppy.sh/beatmapsets/38043#taiko/122471)
   5. [Acme Iku - chaosmaid (demo) (mochi) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/38720#taiko/124599)
   6. [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko\]](https://osu.ppy.sh/beatmapsets/16990#taiko/95812)
-  7. dj Taka - Hollywood Galaxy (lepidopodus) \[lepidon! - Taiko Oni\]
+  7. dj Taka—Hollywood Galaxy (lepidopodus) \[lepidon! - Taiko Oni\]
   8. [Beridzebeth - Seijin no Tou (Strawberry) \[Firce777's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/66968#taiko/212475)
 - Hidden
   1. [Subplaid - Jeg onskerikke a skade deg (grumd) \[Rocke's Taiko\]](https://osu.ppy.sh/beatmapsets/42817#taiko/138230)
   2. [Kola Kid - can't hide your love (Kert) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/39732#taiko/133083)
 - HardRock
   1. [P\*Light - Poppin' Shower (Reisen Udongein) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42527#taiko/134337)
-  2. xi - youma yakou (danny19940914) \[Danny's Taiko Oni\]
+  2. xi—youma yakou (danny19940914) \[Danny's Taiko Oni\]
 - DoubleTime
-  1. Pendulum - The Vulture (La Cataline) \[Taikolor (TWC Ver.)\]
+  1. Pendulum—The Vulture (La Cataline) \[Taikolor (TWC Ver.)\]
   2. [fripSide - fortissimo-from insanity affection- (Short Ver.) (Melophobia) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44106#taiko/139625)
 - Tiebreaker
   1. **[t+pazolite - to Luv me, I \*\*\* for u. (reprise) (pekos) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/42741#taiko/135070)**
@@ -193,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
   8. [Xelia - Illumiscape (Kanna) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/43960#taiko/160239)
 - Hidden
   1. [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](https://puu.sh/28gKz)
-  2. kors k as teranoid - Bad Maniacs (La Cataline) \[lepidon! - Taiko Oni\]
+  2. kors k as teranoid—Bad Maniacs (La Cataline) \[lepidon! - Taiko Oni\]
 - HardRock
   1. [Croove & Paul Bazooka - Enemy Storm (Dark Jungle Mix) (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30229#taiko/124413)
   2. [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](https://puu.sh/28h1RZ)
@@ -215,7 +215,7 @@ This competition has come to an end and resulted in the following podium:
   7. [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/beatmapsets/31367#taiko/121335)
   8. [KOTOKO - Oboetete Ii yo (cRyo\[iceeicee\]) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/53791#taiko/177822)
 - Hidden
-  1. AU - Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]
+  1. AU—Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]
   2. [Saiya - Remote Control (Garven) \[inaba's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/53857#taiko/173361)
 - HardRock
   1. [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Car's Taiko\]](https://osu.ppy.sh/beatmapsets/36569#taiko/118718)
@@ -253,7 +253,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [Silver Forest - Prayer (Elly-chan) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32214#taiko/188456)
-  2. AU - Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]
+  2. AU—Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]
   3. [Envy - Heaven (Charles445) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42038#taiko/135499)
   4. [Nudarai - Nuclear Fusion (Sandpig) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25557#taiko/87205)
   5. [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/beatmapsets/31367#taiko/121335)

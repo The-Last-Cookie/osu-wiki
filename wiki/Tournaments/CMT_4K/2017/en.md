@@ -99,7 +99,7 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
   1. [Various Artist - Jungdongjin's 5th LN Pack (Jungdongjin) \[nanahira -Tsukitourou\]](https://osu.ppy.sh/beatmapsets/617068#mania/1301846)
   2. [LeaF - Shitsubou Choco (arcwinolivirus) \[4K LN 'Imperial Chocolate\]](https://osu.ppy.sh/beatmapsets/602887#mania/1273424)
   3. [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (shuniki) \[ShuChan!!\]](https://osu.ppy.sh/beatmapsets/550148#mania/1165250)
-  4. Zekk - Swampgator \[Alligator VIP\]
+  4. Zekk—Swampgator \[Alligator VIP\]
   5. [Camellia - Backbeat Maniac (Evening) \[Rewind VIP\]](https://osu.ppy.sh/beatmapsets/586848#mania/1242696)
   6. [((LMB)) - Buntan \~Falling in "B" mix\~ (Tidek) \[%UN%D3%Ri%0Y\]](https://osu.ppy.sh/beatmapsets/569225#mania/1206728)
   7. [DJKurara - Japanese Transformation (XeoStyle) \[Extra\]](https://osu.ppy.sh/beatmapsets/520438#mania/1105693)
@@ -107,7 +107,7 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
   9. [xi - Let's madness (Imperial Wolf) \[R U Ready?\]](https://osu.ppy.sh/beatmapsets/527017#mania/1118209)
   10. [xi - FREEDOM DiVE (razlteh) \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/173612#mania/473228)
   11. [YZYX - Powerflux (Shoegazer) \[Challenge\]](https://osu.ppy.sh/beatmapsets/390410#mania/850891)
-  12. Vixenvy - I'm sorry we really suck. \[for the best\]
+  12. Vixenvy—I'm sorry we really suck. \[for the best\]
   13. [UNDEAD CORPORATION - Everything Will Freeze (Meggumi) \[Time Freeze\]](https://osu.ppy.sh/beatmapsets/298452#mania/673308)
   14. [Camellia - EMPIRE OF FLAME (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/415934#mania/901134)
   15. [Yu_Asahina - Trickstarz (hi19hi19) \[STEPMANIA\]](https://osu.ppy.sh/beatmapsets/349432#mania/770548)
@@ -120,7 +120,7 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
 [Download the mappack here!](https://1drv.ms/users/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
 
 - FreeMod
-  1. Mick Gordon - Cyberdemon \[Lazarus\]
+  1. Mick Gordon—Cyberdemon \[Lazarus\]
   2. [Hitori Tori - perthed again (yambabom remix) (TheToaphster) \[Difficulty 3\]](https://osu.ppy.sh/beatmapsets/569392#mania/1207006)
   3. [LeaF - MEPHISTO (arcwinolivirus) \[4K LN Massacre\]](https://osu.ppy.sh/beatmapsets/535700#mania/1134593)
   4. [yanaginagi - landscape (shuniki) \[ShuChan!!\]](https://osu.ppy.sh/beatmapsets/541027#mania/1147214)
@@ -128,10 +128,10 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
   6. [a\_hisa - Cheshire's dance (TheToaphster) \[LN Dancing\]](https://osu.ppy.sh/beatmapsets/555278#mania/1175264)
   7. [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (XeoStyle) \[Octodad Twerk Theme\]](https://osu.ppy.sh/beatmapsets/486138#mania/1036648)
   8. [Kaneko Chiharu - iLLness LiLin (Fresh Chicken) \[jAkAd's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/587269#mania/1245015)
-  9. xi - Solar Storm \[Extra\[old\]\]
+  9. xi—Solar Storm \[Extra\[old\]\]
   10. [m108 - \* Crow Solace \* (Wh1teh) \[Meme Solace\]](https://osu.ppy.sh/beatmapsets/562722#mania/1201027)
   11. [Fallujah - Sapphire (Shoegazer) \[Cerulean\]](https://osu.ppy.sh/beatmapsets/452446#mania/970464)
-  12. Nizikawa - Drop That (Ghettoblaster) v1.1 \[break-even\]
+  12. Nizikawa—Drop That (Ghettoblaster) v1.1 \[break-even\]
   13. Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet \[BAN SDVX\]
   14. [xi - Aparajita (Ichigaki) \[Ambitious King\]](https://osu.ppy.sh/beatmapsets/568882#mania/1206343)
   15. [gmtn vs. kozato (fw. LUZE) - squartatrice (Un-known) \[VonSeckendorff\]](https://osu.ppy.sh/beatmapsets/414744#mania/898932)
@@ -152,7 +152,7 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
   6. [Nekomata L.E.D. Master+ - Chrono Diver -PENDULUMs- (Skalim) \[Rage!!\]](https://osu.ppy.sh/beatmapsets/382076#mania/835621)
   7. [Ryu\* Vs. Sota - Go Ahead!! (Spy) \[Legendaria\]](https://osu.ppy.sh/beatmapsets/572415#mania/1212926)
   8. [xi - Aragami (snover) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/342316#mania/757103)
-  9. Omnipotenx - PEACE BREAKER \[NEGATIVE LEVEL 6\]
+  9. Omnipotenx—PEACE BREAKER \[NEGATIVE LEVEL 6\]
   10. [Demetori - Wind God Girl (Tamoiru) \[14\]](https://osu.ppy.sh/beatmapsets/591478#mania/1306105)
   11. [Gram - Sigmund (-[Apple]-) \[Karasu's Leggendaria\]](https://osu.ppy.sh/beatmapsets/635051#mania/1347575)
   12. [Iced Blade feat. Rita - Sora no Kodou (short ver.) (arcwinolivirus) \[4K Liberation\]](https://osu.ppy.sh/beatmapsets/437682#mania/942355)

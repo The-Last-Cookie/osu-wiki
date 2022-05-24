@@ -1,4 +1,4 @@
-# Aus/NZ osu!standard Tournament 6 - Summer
+# Aus/NZ osu!standard Tournament 6—Summer
 
 ![ANZT 6S logo](img/logo.png)
 
@@ -241,7 +241,7 @@ All individual match results can be found on the spreadsheet linked above.
   1. [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) [Insane]](https://osu.ppy.sh/beatmapsets/16990#osu/60743)
   2. [yanaginagi - Mitsuba no Musubime(Sanaas remix) (Sharlo) [iyacat's Clover]](https://osu.ppy.sh/beatmapsets/401523#osu/942418)
 - HardRock
-  1. TatshMusicCircle - Raikou -3rd Desire- (Kite) \[Lunatic\]
+  1. TatshMusicCircle—Raikou -3rd Desire- (Kite) \[Lunatic\]
   2. [Machico - TOMORROW (Little) [Meg's Expert]](https://osu.ppy.sh/beatmapsets/550035#osu/1180619)
 - DoubleTime
   1. [sasakure.UK feat. Hatsune Miku - \*Hello,Planet. (Faust) [SOLO MISSION]](https://osu.ppy.sh/beatmapsets/38950#osu/124522)

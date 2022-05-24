@@ -112,7 +112,7 @@ Notes:
 ### Semifinals
 
 - NoMod
-  1. Agnes Monica - Tak Ada Logika (Hinsvar) \[Rain\] (A)
+  1. Agnes Monica—Tak Ada Logika (Hinsvar) \[Rain\] (A)
   2. [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/31119#fruits/105143)
   3. [MiddleIsland - Roze (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmapsets/65994#fruits/203906)
   4. [nano - No pain, No game (xsrsbsns) \[Insane\]](https://osu.ppy.sh/beatmapsets/60785#fruits/185761)

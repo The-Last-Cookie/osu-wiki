@@ -30,7 +30,7 @@ If you encountered any problems while using the GitHub tool or you want to overw
 2. In `Workflows`, look for `Sync from osu! upstream`.
 3. Click `Run workflow` and fill in the options:
 
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow—Run Workflow")
 
 - **Use workflow from**: name of the branch you want to sync. By default, it is set to `master`.
 - **Overwrite any changes in the target repository**:
@@ -42,7 +42,7 @@ If you encountered any problems while using the GitHub tool or you want to overw
 
 4. Click the `Run Workflow` button and wait for the workflow to complete. If you're curious about how the tool works, click on the `Sync from osu! upstream` workflow task.
 
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+![](img/github-actions-workflow-overview.png "GitHub Actions Workflow—Workflow Overview")
 
 ## Making edits
 

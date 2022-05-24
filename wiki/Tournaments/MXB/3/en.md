@@ -263,7 +263,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in three matches. The two best-performing players in each group will advance to the bracket stage.
 - A player's performance in the group is determined through these metrics, arranged from highest priority to lowest: 
   1. Number of matches won.
-  2. Number of rounds won - numbers of round lost.
+  2. Number of rounds won—numbers of round lost.
   3. Number of losses by default (lower is better).
   4. Higher qualification seed.
 - The two worst-performing players of each group will be eliminated from the tournament.

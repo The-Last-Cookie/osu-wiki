@@ -118,13 +118,13 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 **[Download the mappack here! (201 MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
-  1. Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]
+  1. Aquellex—Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]
   2. [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome…? (Sillyp) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/1191781#mania/2483411)
   3. [Camellia - INSANE INFLAME (Evening) \[FINAL IGNITION \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1188925#mania/2477432)
   4. [Camellia - SECRET BOSS (Kamuy) \[CATASTROPHE\]](https://osu.ppy.sh/beatmapsets/1102116#mania/2302409)
   5. [DJ SHARPNEL - Shihen (\[Crz\]MemoryI) \[Challenge x1.25\]](https://osu.ppy.sh/beatmapsets/1188298#mania/2476268)
-  6. Frums - Pictured as Perfect and Plus (\[Crz\]Noire) \[mint's Daze // 4K 1.1x\]
-  7. Hige Driver - Ukigumo (\[Crz\]xz1z1z) \[DDMythical's Challenge\]
+  6. Frums—Pictured as Perfect and Plus (\[Crz\]Noire) \[mint's Daze // 4K 1.1x\]
+  7. Hige Driver—Ukigumo (\[Crz\]xz1z1z) \[DDMythical's Challenge\]
   8. [Hino Isuka - Dreamin' attraction!!(Extended) (Daikyi) \[Fanatical Allure!!\]](https://osu.ppy.sh/beatmapsets/456887#mania/978989)
   9. [Imperial Circus Dead Decadence - Gekiai no Yobigoe ga Dekiai no Kyougoe wo Kurau (MintApril) \[RE=SINSE-\[..\]/-c\]](https://osu.ppy.sh/beatmapsets/722071#mania/1525505)
   10. [Ke-ji feat. Nanahira - Ange du Blanc Pur (eZmmR) \[Je prie au nom de " Nanahira ".\]](https://osu.ppy.sh/beatmapsets/1038916#mania/2171704)
@@ -175,7 +175,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
   9. [Street - Sakura Fubuki (Ata Remix) (Todestrieb) \[Bloom\]](https://osu.ppy.sh/beatmapsets/608292#mania/1284684)
   10. [Team Grimoire - Caliburne \~Story of the Legendary sword\~ (\[Crz\]Satori) \[LN\]](https://osu.ppy.sh/beatmapsets/1130685#mania/2361834)
   11. [The Flashbulb - Stinger (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/970202#mania/2030336)
-  12. The H.K.Mushrooms - Qianwan (\[Crz\]xz1z1z) \[Charoi's Beginner\]
+  12. The H.K.Mushrooms—Qianwan (\[Crz\]xz1z1z) \[Charoi's Beginner\]
   13. [Various Artist - Jungdongjin's 7th 4k LN Pack (Jungdongjin) \[FELT - Pulse\]](https://osu.ppy.sh/beatmapsets/625374#mania/1319488)
 - Tiebreaker
   1. **[Gram - Sigmund (tpz Overheat Remix) / Ending (Wadu) \[Wrath of Ragnarok\]](https://osu.ppy.sh/beatmapsets/784443#mania/1646980)**

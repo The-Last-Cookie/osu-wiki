@@ -1,4 +1,4 @@
-# Aus/NZ osu!standard Tournament 5 - Winter
+# Aus/NZ osu!standard Tournament 5—Winter
 
 ![ANZT 5W logo](img/logo.jpg)
 
@@ -144,7 +144,7 @@ All individual match results can be found on the Challonge page linked above.
 
 - NoMod
   1. [Kano - Ama no Jaku (Realazy) [Divulgence]](https://osu.ppy.sh/beatmapsets/754383#osu/1588264)
-  2. nora2r - ULTRA B+K (Nanashima Asami) \[ULTRA Collab\]
+  2. nora2r—ULTRA B+K (Nanashima Asami) \[ULTRA Collab\]
   3. [Jun.A - The Fairy's Adventurous Tale (KanbeKotori) [Extra]](https://osu.ppy.sh/beatmapsets/26480#osu/89229)
   4. [L.E.D.-G - SOUND OF GIALLARHORN (Priti) [eXtreme]](https://osu.ppy.sh/beatmapsets/155457#osu/397503)
   5. [Nanahoshi Kangengakudan - No,39 (pkk) [No Sankyuu]](https://osu.ppy.sh/beatmapsets/531488#osu/1126317)

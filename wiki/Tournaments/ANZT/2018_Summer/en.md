@@ -1,4 +1,4 @@
-# Aus/NZ osu!standard Tournament 5 - Summer
+# Aus/NZ osu!standard Tournament 5—Summer
 
 ![ANZT 5S logo](img/logo.jpg)
 

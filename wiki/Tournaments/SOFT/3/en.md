@@ -107,12 +107,12 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   1. [Nero's Day at Disneyland - Beautiful Beachfront Properties (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmapsets/616437#mania/1300054)
   2. [Shiraishi - Murderous True Millennium Queen (Gekido-) \[retsaM NL eurT\]](https://osu.ppy.sh/beatmapsets/768950#mania/1617005)
-  3. trapman featuring CreeperWorks - minefield surfing (Kamikaze) \[UJ's 4K SPEEDTRAP\]
+  3. trapman featuring CreeperWorks—minefield surfing (Kamikaze) \[UJ's 4K SPEEDTRAP\]
   4. [Camellia - Tornado (inteliser) \[Devastation\]](https://osu.ppy.sh/beatmapsets/619276#mania/1305297)
   5. [LeaF - Shitsubou Choco (arcwinolivirus) \[4K LN 'Imperial Chocolate'\]](https://osu.ppy.sh/beatmapsets/602887#mania/1273424)
   6. [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/768951#mania/1617006)
   7. [KikuoHana - Hibi Darake No Me (Gekido-) \[Stabbing\]](https://osu.ppy.sh/beatmapsets/748212#mania/1576294)
-  8. Necrosy - Drown Into Perdition (Gekido-) \[hi19hi19's Challenge\]
+  8. Necrosy—Drown Into Perdition (Gekido-) \[hi19hi19's Challenge\]
   9. [fripSide - infinite synthesis (\_underjoy) \[LN UNIVERSE\]](https://osu.ppy.sh/beatmapsets/738325#mania/1586625)
   10. [YZYX - Dysnomia(ShortVer.) (TheToaphster) \[Oblivion\]](https://osu.ppy.sh/beatmapsets/768221#mania/1615634)
   11. [Bring Me The Horizon - Can You Feel My Heart (Guilhermeziat) \[Anguish\]](https://osu.ppy.sh/beatmapsets/742531#mania/1566116)
@@ -129,7 +129,7 @@ This competition has come to an end and resulted in the following podium:
 
 - FreeMod
   1. [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmapsets/667301#mania/1412004)
-  2. Kano - Uchouten Vivace (Trixta) \[Extatic Vivace!\]
+  2. Kano—Uchouten Vivace (Trixta) \[Extatic Vivace!\]
   3. [DJ CHUCKY - Abyss Of The Darkness (AutotelicBrown) \[Ayumu's abyss\]](https://osu.ppy.sh/beatmapsets/657834#mania/1393350)
   4. [Dan Terminus - Margaritifer (XeoStyle) \[Phobos\]](https://osu.ppy.sh/beatmapsets/747211#mania/1574526)
   5. [Toromaru - Enigma (TheToaphster) \[Maestro\]](https://osu.ppy.sh/beatmapsets/641435#mania/1360128)
@@ -183,7 +183,7 @@ This competition has come to an end and resulted in the following podium:
   9. [wa. - Cerenkov Radiation (Elekton) \[fluorescent\]](https://osu.ppy.sh/beatmapsets/736101#mania/1553587)
   10. [tarolabo X Gatsu Shizuku Rouman Eizou Seisaku Kurabu - Chikyuu Tou Devo^shon (Tidek) \[Final Tower\]](https://osu.ppy.sh/beatmapsets/668154#mania/1413635)
   11. [Hommarju - Rock It (Mage) \[aLNother\]](https://osu.ppy.sh/beatmapsets/725793#mania/1532410)
-  12. sakuraburst - anticrystal (Couil) \[dusk\]
+  12. sakuraburst—anticrystal (Couil) \[dusk\]
   13. [The Ghost of 3.13 - She's Haunting Me (Shoegazer) \[Revenant\]](https://osu.ppy.sh/beatmapsets/502043#mania/1068479)
 - Tiebreaker
   1. **[Ruby My Dear - Dreaming Tree (Chrubble) \[Lucid\]](https://osu.ppy.sh/beatmapsets/741398#mania/1564113)**
@@ -193,9 +193,9 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (61 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAOdenGUahjytRNtGp2a7A0a/Ro16.rar?dl=0)**
 
 - FreeMod
-  1. fartwad - Stereo Sayan 3D (Valedict) \[hi19hi19's Hard\]
+  1. fartwad—Stereo Sayan 3D (Valedict) \[hi19hi19's Hard\]
   2. [Vertical Gizmo - Nigro (Xay) \[Choof's 4k\]](https://osu.ppy.sh/beatmapsets/430223#mania/928093)
-  3. Nobuo Uematsu - Someday the Dream Will End (Halogen-) \[Final Farewell\]
+  3. Nobuo Uematsu—Someday the Dream Will End (Halogen-) \[Final Farewell\]
   4. [Suimega - 365 UNITED STARS (Xay) \[Xay's 4K\]](https://osu.ppy.sh/beatmapsets/586255#mania/1241644)
   5. [Assertive Fluttershy - Sorairo Days (IcyWorld) \[Hard\]](https://osu.ppy.sh/beatmapsets/740579#mania/1562379)
   6. [Morimori Atsushi - MilK (Raveille) \[MiLN\]](https://osu.ppy.sh/beatmapsets/722950#mania/1526104)
@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 
 - FreeMod
   1. [Sir.Vixx - Whore (Xay) \[Insane\]](https://osu.ppy.sh/beatmapsets/585874#mania/1240925)
-  2. Girls' Generation - Gee (Couil) \[Easy LNs\]
+  2. Girls' Generation—Gee (Couil) \[Easy LNs\]
   3. [senya - Tsuzurenu Mori no Shoujo (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/704155#mania/1489611)
   4. [Kozato - 45nen no Yukizakura (Amayukki) \[\_UJ's Sakura\]](https://osu.ppy.sh/beatmapsets/368848#mania/820516)
   5. [goreshit - o'er the flood (Shoegazer) \[deluge\]](https://osu.ppy.sh/beatmapsets/497750#mania/1552320)
@@ -236,7 +236,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Vospi - Reverence (Side) \[Hard\]](https://osu.ppy.sh/beatmapsets/456709#mania/1006357)
   4. [REOL - YoiYoi Kokon (Couil) \[Challenge: EASY\]](https://osu.ppy.sh/beatmapsets/676191#mania/1434529)
   5. [So Sus + Konka - Acorn (TheToaphster) \[Hard\]](https://osu.ppy.sh/beatmapsets/639057#mania/1540124)
-  6. w_tre - Shannon's Theorem (hi19hi19) \[Medium\]
+  6. w_tre—Shannon's Theorem (hi19hi19) \[Medium\]
   7. [Sakuraburst - Serotonin (Tantei B) \[Transmission Problem \[SV\]\]](https://osu.ppy.sh/beatmapsets/651935#mania/1382422)
   8. [LukHash - GHOST TOWN (SitekX) \[4k Hard\]](https://osu.ppy.sh/beatmapsets/697526#mania/1477490)
   9. [Phlogiston - Night Jam (Shoegazer) \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)

@@ -233,7 +233,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### December
 
 - **2015-12-27:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were implemented for BN applications.
-  - These tests required users to answer a multiple choice form and mod a problem-filled beatmap. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
+  - These tests required users to answer a multiple choice form and mod a problem-filled beatmap. <!-- date used is when the "BN Examinations—Answer Keys" document was created. first test was published a month or so later -->
 
 **1934 beatmaps** were ranked in 2015. This was the first year of growth after 4 years of consecutive stagnation.
 

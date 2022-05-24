@@ -66,7 +66,7 @@ For yellow long notes, 300 is given per hit in the small one while 600 per hit i
 For shaker notes, each shake gives 300 and finishing the shaker gives score twice as much as a GREAT of the current combo.
 
 A typical value of *n* (4.5-5 star difficulties in old 5 star ratings system) is 80, which gives a maximum score of 1,100/2,200 at 100 combo and later combos.
-For 4 - 4.5 star difficulties, *n* is equal to 64 in which the maximum score per hit is 940/1,880.
+For 4—4.5 star difficulties, *n* is equal to 64 in which the maximum score per hit is 940/1,880.
 In the hardest case, *n* is equal to 96 in which the maximum score per hit is 1,260/2,520.
 There are lower value of *n* for even easier difficulties.
 
@@ -145,7 +145,7 @@ Score = BaseScore + BonusScore
 BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
 
 BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
+Bonus = Bonus before this hit + HitBonus—HitPunishment / ModDivider
 Bonus is limited to [0, 100], initially 100.
 
 MaxScore = 1 000 000

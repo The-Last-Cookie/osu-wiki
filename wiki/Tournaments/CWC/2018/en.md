@@ -144,7 +144,7 @@ The osu!catch World Cup 2018 was run by various community members.
 - DoubleTime
   1. [Nitro Fun & Hyper Potions - Checkpoint \(WildOne94\) \[Rain Collab\]](https://osu.ppy.sh/beatmapsets/474216#fruits/1036560)
   2. [Italobrothers - Stamp On The Ground \(Natsume\) \[hichman's CTB\]](https://osu.ppy.sh/beatmapsets/51977#fruits/160002)
-  3. Shawn Mendes - Stitches \(VINXIS\) \[Needle and the Thread\]
+  3. Shawn Mendes—Stitches \(VINXIS\) \[Needle and the Thread\]
 - Tiebreaker
   1. **[Mizuki Nana - VIRGIN CODE \(-wwwww\) \[HELiOS\]](https://osu.ppy.sh/beatmapsets/744654#fruits/1570019)**
 

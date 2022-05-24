@@ -480,7 +480,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 4. In the Group Stage all the teams from each group will face each other. The **best 2 teams** get out of their group.
 5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    1. Most matches won.
-   2. Highest (number of beatmaps won - number of maps lost) score.
+   2. Highest (number of beatmaps won—number of maps lost) score.
    3. Most beatmaps won.
    4. Winner of the match played previously between the tied teams.
 6. In Group stage, 'Win by default' will be considered as win by 5:0, +1.0 score difference ratio.

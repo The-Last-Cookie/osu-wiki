@@ -39,25 +39,25 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 
 **layer**:
 
-- 0 - Background
-- 1 - Fail
-- 2 - Pass
-- 3 - Foreground
+- 0—Background
+- 1—Fail
+- 2—Pass
+- 3—Foreground
 
 *Note: Background and Foreground are always visible.*
 
 **origin**:
 
-- 0 - TopLeft
-- 1 - Centre
-- 2 - CentreLeft
-- 3 - TopRight
-- 4 - BottomCentre
-- 5 - TopCentre
-- 6 - Custom (same effect as TopLeft, but should not be used)
-- 7 - CentreRight
-- 8 - BottomLeft
-- 9 - BottomRight
+- 0—TopLeft
+- 1—Centre
+- 2—CentreLeft
+- 3—TopRight
+- 4—BottomCentre
+- 5—TopCentre
+- 6—Custom (same effect as TopLeft, but should not be used)
+- 7—CentreRight
+- 8—BottomLeft
+- 9—BottomRight
 
 All Rotations and Size changes (Including Vector Scaling) are affected by origin.
 
@@ -69,21 +69,21 @@ For each of the event types below, the initial value(s) of that event will assum
 
 **event type**:
 
-- F - fade
-- M - move
-- S - scale
-- V - vector scale (width and height separately)
-- R - rotate
-- C - colour
-- L - loop
-- T - Event-triggered loop
-- P - Parameters
+- F—fade
+- M—move
+- S—scale
+- V—vector scale (width and height separately)
+- R—rotate
+- C—colour
+- L—loop
+- T—Event-triggered loop
+- P—Parameters
 
 **easing**:
 
-- 0 - none
-- 1 - start fast and slow down
-- 2 - start slow and speed up
+- 0—none
+- 1—start fast and slow down
+- 2—start slow and speed up
 
 **starttime, endtime**: the times in milliseconds between which the event will be animated
 
@@ -133,7 +133,7 @@ sprites with (255,255,255) will be their original colour. sprites with (0,0,0) w
 
 `_P,[...],p`
 
-**p**: the effect parameter to apply H - horizontal flip V - vertical flip A - additive-blend colour (as opposed to alpha-blend)
+**p**: the effect parameter to apply H—horizontal flip V—vertical flip A—additive-blend colour (as opposed to alpha-blend)
 
 using the shorthand below with parameters is possible. the applied parameters will take effect during the duration specified only.
 
@@ -159,7 +159,7 @@ becomes
 
 `_M,0,1000,,320,240,320,240`
 
-Please note the blank space in the endtime field - this is \[b\]required\[/b\].
+Please note the blank space in the endtime field—this is \[b\]required\[/b\].
 
 ***shorthand3***: This notation can be used when the start and end values of the event are the same.
 

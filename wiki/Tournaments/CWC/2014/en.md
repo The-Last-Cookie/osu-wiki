@@ -154,7 +154,7 @@ This competition has come to an end and resulted in the following podium:
   1. [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/beatmapsets/134990#fruits/338326)
   2. [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/86983#fruits/237848)
   3. [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#fruits/182001)
-  4. void - Club Ibuki in Break All (Drafura) \[Etoile\]
+  4. void—Club Ibuki in Break All (Drafura) \[Etoile\]
   5. [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#fruits/214248)
   6. [Giga-P - Okochama Sensou (tutuhaha) \[Extra\]](https://osu.ppy.sh/beatmapsets/131818#fruits/356818)
 - Hidden

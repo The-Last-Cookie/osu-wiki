@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   1. [Hatsuki Yura - Yuki no Hana (GoldenWolf -METAL MIX-) (Xenok) \[Snow\]](https://osu.ppy.sh/beatmapsets/720424#osu/1521024)
   2. [MY FIRST STORY - Itazura Fiction (pishifat) \[pishi's Insane\]](https://osu.ppy.sh/beatmapsets/477343#osu/1025587)
-  3. Camellia - Chirality (Miura) \[Miura's Expert\]
+  3. Camellia—Chirality (Miura) \[Miura's Expert\]
 - DoubleTime
   1. [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/55945#osu/169450)
   2. [cYsmix - Dovregubben's Hall (Spaghetti) \[Insane\]](https://osu.ppy.sh/beatmapsets/362451#osu/822869)
@@ -568,7 +568,7 @@ Sunday, 25 February 2018:
 
 ### Tournament rules
 
-1. There will be 6 mappools in total - Group stage, Round of 32, Round of 16, Quarter-Finals, Semi-Finals and Finals.
+1. There will be 6 mappools in total—Group stage, Round of 32, Round of 16, Quarter-Finals, Semi-Finals and Finals.
 2. Mappool sizes will progressively get bigger each round after Ro16. Starting with a 4/2/2/2/2/3 format.
 3. Group stage will be round-robin, followed by a double elimination bracket.
 4. Maps will be no longer than 2 minutes drain time.
@@ -606,10 +606,10 @@ Sunday, 25 February 2018:
 2. At the time of the match, referees will invite the captain into the lobby. If for any reason the team captain cannot make it to a match, please have a team member inform a referee before the match starts.
 3. If a team is not present for the match 10 minutes after the scheduled time, that team will forfeit the match. If neither team makes it, `!roll` will determine who wins or loses
    - Though we allow you to be late for 10 minutes, if there are no valid excuses or explanation to referees then penalties will take place for these following times:
-     - 3 minutes late - opponent’s warmup is skipped.
-     - 5 minutes late - first picks and bans go to team that is already present.
-     - 7 minutes late - one point goes to the team which is present.
-     - 10 minutes late - late team forfeits (subject to referee's leniency).
+     - 3 minutes late—opponent’s warmup is skipped.
+     - 5 minutes late—first picks and bans go to team that is already present.
+     - 7 minutes late—one point goes to the team which is present.
+     - 10 minutes late—late team forfeits (subject to referee's leniency).
 4. At the start of the match, both captains will roll using the `!roll` command. The higher roll gets to both ban and pick first. Warmups can either be chosen by roll or another method decided in the lobby
    - There will be no warmups in group stage. Warmups in later stages are strictly limited to 2 minutes maximum drain time.
 5. 1 ban per team up to RO16, 2 bans from Quarterfinals onwards.

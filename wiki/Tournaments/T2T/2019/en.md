@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
   1. [sana - Packet Hero (Fuccho) [Broccoly's Extra]](https://osu.ppy.sh/beatmapsets/404910#osu/944864)
   2. [DM Ashura - deltaMAX (rustbell) [Challenge]](https://osu.ppy.sh/beatmapsets/18315#osu/106965)
   3. [Getty vs. DJ DiA - DropZ-Line- (Realazy) [Sing's Master]](https://osu.ppy.sh/beatmapsets/727049#osu/1674139)
-  4. xi - xi TAG compilation (Riviclia) \[FREEDOM DIVE\]
+  4. xi—xi TAG compilation (Riviclia) \[FREEDOM DIVE\]
   5. [System of a Down - Vicinity of Obscenity (Larto) [Impossible]](https://osu.ppy.sh/beatmapsets/13768#osu/50712)
   6. [Two Door Cinema Club - Undercover Martyn (Topoi) [topoi's Last Time]](https://osu.ppy.sh/beatmapsets/734705#osu/1551121)
 - Hidden
@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
   3. [The Prodigy - Smack My Bitch Up (whymeman) [Ass Kicking]](https://osu.ppy.sh/beatmapsets/24949#osu/89171)
 - DoubleTime
   1. [Nightcore - Ravers Fantasy (LoweH) [Lizbeth's Fantasy]](https://osu.ppy.sh/beatmapsets/11558#osu/57382)
-  2. RIP SLYME - Super Shooter (galvenize) \[Super Collab (T2T Edit)\]
+  2. RIP SLYME—Super Shooter (galvenize) \[Super Collab (T2T Edit)\]
   3. [Meramipop - Star Breaker (Rizia) [Suta]](https://osu.ppy.sh/beatmapsets/296116#osu/665006)
   4. [ITO KASHITARO - Hyakka Ryouran (appleeaterx) [Expert]](https://osu.ppy.sh/beatmapsets/617188#osu/1301421)
 - FreeMod
@@ -153,7 +153,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [Carpenter Brut - Anarchy Road (Voyen) [2070]](https://osu.ppy.sh/beatmapsets/345086#osu/762207)
-  2. UNDEAD CORPORATION - Kasha no Sakebu Yori ni (Xexxar) \[idke's Combustion\]
+  2. UNDEAD CORPORATION—Kasha no Sakebu Yori ni (Xexxar) \[idke's Combustion\]
   3. [lapix - Labyrinth (Akali) [Who's the fucking gangster?]](https://osu.ppy.sh/beatmapsets/615878#osu/1299008)
   4. [Seiryu - Ultramarine (RLC) [fanzhen's Extra]](https://osu.ppy.sh/beatmapsets/107377#osu/281390)
   5. [Tanya Degurechaff (CV: Yuki Aoi) - Los! Los! Los! (DJPop) [TAG2]](https://osu.ppy.sh/beatmapsets/875387#osu/1829402)

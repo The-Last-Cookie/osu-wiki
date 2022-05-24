@@ -17,7 +17,7 @@ To participate as a speaker in a future iteration of the event, or recommend som
 
 ## Event information
 
-- **The event will last 3 days total**, from May 20 - 22, 2022.
+- **The event will last 3 days total**, from May 20—22, 2022.
 - **The speaker will use a Discord stage channel** in the [osu!dev Discord server](https://discord.gg/ppy) to give their talk.
 - **Talks will be less than 18 minutes long.** This is the maximum allowed length, not a goal to aim for—even a 3-minute talk can have massive impact.
 - The stories shared do not necessarily have to be about osu!, but because this is an osu!-related event, speakers are recommended to try connecting their story or the lesson behind it to osu! in some way.

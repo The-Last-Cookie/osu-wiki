@@ -140,7 +140,7 @@ The osu!catch World Cup 2016 was run by various community members.
 **[Download the mappack here! (88 MB)](https://www.mediafire.com/download/keom45knuegmccd/CWC_2016_Semifinals.rar)**
 
 - NoMod
-  1. Yooh - LegenD. (Flask) \[Len's OverdosE.\]
+  1. Yooh—LegenD. (Flask) \[Len's OverdosE.\]
   2. [Nekomata Master - Avalon no oka (Intensity) \[oveRdose\]](https://osu.ppy.sh/beatmapsets/218623#fruits/512401)
   3. [ginkiha - eastward (Deif) \[Oriental\]](https://osu.ppy.sh/beatmapsets/365365#fruits/801911)
   4. [Suzumu - Kakumeisei : Ousama densenbyo (Spectator) \[Kingdom\]](https://osu.ppy.sh/beatmapsets/331453#fruits/734255)
@@ -203,7 +203,7 @@ The osu!catch World Cup 2016 was run by various community members.
   3. [Sawai Miku - Colorful. (Anime Ver.) (Zoe) \[Mawaru~\]](https://osu.ppy.sh/beatmapsets/403287#fruits/877065)
   4. [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
   5. [Yousei Teikoku - Astral Dogma (Ashasaki) \[Hyperion's Rain\]](https://osu.ppy.sh/beatmapsets/379698#fruits/848022)
-  6. xi vs sakuzyo - STORIA (Cut Ver.) (CLSW) \[SHD\]
+  6. xi vs sakuzyo—STORIA (Cut Ver.) (CLSW) \[SHD\]
 - Hidden
   1. [sakuzyo - Altale (toybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/228815#fruits/724582)
   2. [Akiko Shikata - Katayoku no Tori (Deif) \[Rain\]](https://osu.ppy.sh/beatmapsets/317968#fruits/708226)

@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   1. [Roselia - R (Doormat) [Rosenlied]](https://osu.ppy.sh/beatmapsets/820180#osu/1719416)
   2. [LeaF - MEPHISTO (Starfy) [Mephistopheles]](https://osu.ppy.sh/beatmapsets/714024#osu/1509096)
-  3. Reol - Yakusoku no Ao (Fatfan Kolek) \[Chaoz's Extra\]<!-- Map deleted by owner -->
+  3. Reol—Yakusoku no Ao (Fatfan Kolek) \[Chaoz's Extra\]<!-- Map deleted by owner -->
   4. [Camellia feat. Nanahira - NANI THE FUCK!! (Mir) [???????]](https://osu.ppy.sh/beatmapsets/1021743#osu/2137778)
   5. [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) [Dance]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
   6. [kamome sano - citrus (nika mika) [moecho's lemonade]](https://osu.ppy.sh/beatmapsets/529789#osu/1411721)

@@ -25,8 +25,8 @@ Schedules may be delayed.
 
 Contestants are offered two songs to choose from. Only these two songs may be mapped for the contest.
 
-1. HyuN - Absolute
-2. Cranky - R176
+1. HyuN—Absolute
+2. Cranky—R176
 
 You can download the .osz file for the provided songs at [here](https://drive.google.com/drive/folders/1RGEL2DPoO1Cl1zSnQtKprRB-C-4ZEMxo?usp=sharing).
 

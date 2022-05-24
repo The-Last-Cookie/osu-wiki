@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [Mimori Suzuko - Light for Knight (\_kotachi\_) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
-  2. PSYQUI - Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I'm gonna miss you\]
+  2. PSYQUI—Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I'm gonna miss you\]
   3. [LeaF - Wizdomiot (Asahina Momoko) [Lunatic]](https://osu.ppy.sh/beatmapsets/336099#osu/743896)
   4. [MiddleIsland - Aquaphobia EP (Cassu2) [1]](https://osu.ppy.sh/beatmapsets/622998#osu/1313190)
   5. [Primary - in the Garden (Kyuukai) [Endless Sky]](https://osu.ppy.sh/beatmapsets/629217#osu/1328177)

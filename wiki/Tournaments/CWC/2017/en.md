@@ -214,7 +214,7 @@ The osu!catch World Cup 2017 was run by various community members.
   6. [Rise Against - The Good Left Undone (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/351431#fruits/795712)
 - Hidden
   1. [Oskar Schuster - Fjarlaegur (Cypix Remix) (Jusenkyo) \[Hyperion's Rain\]](https://osu.ppy.sh/beatmapsets/477718#fruits/1023582)
-  2. Kaneko Chiharu - iLLness LiLin (Fresh Chicken) \[tasuke's C.EXHAUST\]
+  2. Kaneko Chiharu—iLLness LiLin (Fresh Chicken) \[tasuke's C.EXHAUST\]
   3. [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#fruits/153418)
 - HardRock
   1. [Eiko Shimamiya - Higurashi no Naku Koro ni (TV size) (Betsuto) \[Platter\]](https://osu.ppy.sh/beatmapsets/112770#fruits/292827)

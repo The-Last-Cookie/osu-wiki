@@ -52,7 +52,7 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 >
 > ...
 >
-> Going forward, we will also be releasing a Code of Conduct regarding Mapping and Modding affairs. This will ensure that there will be a base level of respect in the talks surrounding these issues, as they have been prone to problems in the past. Ultimately, all parties involved in the ranking/mapping process have the same ultimate goal - to get cool stuff ranked and available for play as quickly as possible with as little issue as possible.
+> Going forward, we will also be releasing a Code of Conduct regarding Mapping and Modding affairs. This will ensure that there will be a base level of respect in the talks surrounding these issues, as they have been prone to problems in the past. Ultimately, all parties involved in the ranking/mapping process have the same ultimate goal—to get cool stuff ranked and available for play as quickly as possible with as little issue as possible.
 
 —Loctav, "Changes to the Quality Assurance Team" [[14]][r]
 

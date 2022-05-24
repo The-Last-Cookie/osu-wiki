@@ -109,9 +109,9 @@ All users listed below were added on 2018-03-19.
 
 - [Sanyi](https://osu.ppy.sh/users/7496029) - resignation (2018-04-17)
 - [ezek](https://osu.ppy.sh/users/7496029) - resignation (2018-04-17)
-- Kisses - account restriction (2018-04-22)
+- Kisses—account restriction (2018-04-22)
 - [Hareimu](https://osu.ppy.sh/users/4138746) - resignation (2018-04-24)
-- Sotarks - account restriction (2018-04-30)
+- Sotarks—account restriction (2018-04-30)
 
 ### Beatmap Nominator additions
 

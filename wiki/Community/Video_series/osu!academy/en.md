@@ -53,7 +53,7 @@ The main series of osu!academy serves as a general introduction to the broad wor
 | 33 | [Advanced Editor Tips](https://www.youtube.com/watch?v=_-Xke2bqzok) | [ztrot](https://osu.ppy.sh/users/6347) showcases some important editor tips that will greatly improve your mapping process. |
 | 34 | [Reporting Bugs](https://www.youtube.com/watch?v=Opsfa2wR1RY) | [Tasha](https://osu.ppy.sh/users/1031958) goes over available release streams in osu!, and explains how to report bugs using the Help forum. |
 
-## Academy Bytes - Mapping Techniques
+## Academy Bytes—Mapping Techniques
 
 **[Academy Bytes](https://www.youtube.com/playlist?list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r)** is a series of short videos made by [ztrot](https://osu.ppy.sh/users/6347) explaining the arrangement and usage of useful and commonly used mapping techniques.
 
