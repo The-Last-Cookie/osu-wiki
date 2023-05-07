@@ -1,6 +1,6 @@
 # Melden von schlechtem Verhalten
 
-osu! hat [ein Team von Moderatoren](/wiki/People/Global_Moderation_Team), die sich dem Sauberhalten und dem Schutz der Community verschrieben haben. Wenn dir regelbrechendes Verhalten oder anstößiger Inhalt auffällt, dann melde es über eine der unten beschriebenen Methoden. Alternativ darfst du auch eine der Moderatoren direkt ansprechen, sofern deine Meldung nicht in einem angemessenen Zeitraum bearbeitet wurde—mache dies nur als letzte Möglichkeit.
+osu! hat [ein Team von Moderatoren](/wiki/People/Global_Moderation_Team), die sich dem Sauberhalten und dem Schutz der Community verschrieben haben. Wenn dir regelbrechendes Verhalten oder anstößiger Inhalt auffällt, dann melde es über eine der unten beschriebenen Methoden. Alternativ darfst du auch eine der Moderatoren direkt ansprechen, sofern deine Meldung nicht in einem angemessenen Zeitraum bearbeitet wurde — mache dies nur als letzte Möglichkeit.
 
 Versehentliche Meldungen werden ignoriert. Benutzer, die absichtlich invalide Meldungen senden, laufen Gefahr [stumm geschaltet](/wiki/Silence) zu werden.
 
@@ -94,7 +94,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 #### Benutzerprofil
 
-1. Scrolle zu der `Ranks`-Sektion oder `Historical` für aktuelle Plays und gehe auf den Score.
+1. Scrolle zu der Sektion `Ranks` oder `Historical` für aktuelle Plays und gehe auf den Score.
 2. Drücke den Button mit den drei vertikalen Punkten auf der rechten Seite des Scores und wähle `Report Score`.
 3. Wähle die Kategorie und füge Details hinzu (optional).
 
