@@ -1,10 +1,14 @@
+---
+no_native_review: true
+---
+
 # Schrift
 
 *Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*
 
 Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die englische Version dieser Seite für die Schriftstandards für englische Artikel.
 
-Alle deutschen Artikel müssen Standarddeutsch verwenden.
+Alle deutschen Artikel müssen Bundesdeutsches Hochdeutsch verwenden.
 
 ## Inhaltsparität
 
@@ -20,13 +24,15 @@ Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
 
 ## Sprachregister
 
-Es gibt zwei Sprachregister im Wiki: neutral und informell.
+Es gibt drei Sprachregister im Wiki: formell, neutral und informell.
 
 Standardmäßig wird das neutrale Register verwendet.
 
 Das informelle Register wird speziell für eine kleine Handvoll von Artikeln benutzt. Einige Beispiele mit diesem Register sind das [FAQ](/wiki/FAQ) und das [Hilfecenter](/wiki/Help_centre).
 
-Alle Regeln der Artikelgestaltungskriterien müssen für beide Register befolgt werden. Ausnahmen für jedes Register werden dokumentiert.
+Für rechtliche Artikel (z. B. die [Datenschutzerklärung](/wiki/Legal/Privacy)) wird das formelle Register verwendet.
+
+Alle Regeln der Artikelgestaltungskriterien müssen für jedes Register befolgt werden. Ausnahmen der Register werden dokumentiert.
 
 ## Großschreibung
 
@@ -121,7 +127,7 @@ Registered-Trade-Mark-Symbole dürfen nicht hinter der Marke stehen.
 
 Die Formate in [Wikipedia:Datumskonventionen](https://de.wikipedia.org/wiki/Wikipedia:Datumskonventionen) sind alles akzeptierte Formate für Daten. Datenformate sollten konsistent innerhalb eines Artikels sein.
 
-Das Datenformat `YYYY-MM-DD` sollte nur in Tabellen benutzt werden.
+In Tabellen sollte nur das Datenformat `TT.MM.JJJJ` verwendet werden. Für Datenbereiche in Tabellen gilt das Format `TT.MM.JJJJ bis TT.MM.JJJJ`.
 
 ### Zeitformatierung
 
@@ -168,53 +174,21 @@ Gutes Beispiel:
 25. Oktober 2016 (11:45 UTC)
 ```
 
-## Spielmodi
-
-Spielmodi müssen wie folgt geschrieben werden:
-
-- `osu!`
-- `osu!taiko`
-- `osu!catch`
-- `osu!mania`
-
-Verweise auf die alten Namen der Spielmodi (also `Catch the Beat`, `Taiko` und `Mania`) dürfen auch in ihrer eigenen Schreibweise benutzt werden, sofern es thematisch um die alten Namen geht.
-
 ## osu!
 
-Der Name des Spiels, osu!, darf nicht großgeschrieben werden oder kursiv sein. Offizielle osu!-Marken dürfen keine Leerzeichen enthalten. Beispiele sind:
+Wenn das Spiel selbst oder eines der damit verbundenen Projekte oder Begriffe genannt wird, dann folge den [Richtlinien zur Markenidentität](/wiki/Brand_identity_guidelines#osu!). Verwende die Eigennamen der Spielmodi, wie beispielsweise `osu!taiko`, außer es ist in einem historischen Kontext.
 
-- `osu!academy`
-- `osu!api`
-- `osu!catch`
-- `osu!direct`
-- `osu!keyboard`
-- `osu!mania`
-- `osu!store`
-- `osu!stream`
-- `osu!supporter`
-- `osu!tablet`
-- `osu!taiko`
-- `osu!talk`
-- `osu!tourney`
+### Benutzertitel
 
 Benutzertitel, die `osu!` als Teil des Titels enthalten, müssen großgeschrieben werden. Beispiele sind:
 
 - `osu! Alumni`
 - `osu! Champion`
 
-Für alle anderen Begriffe muss osu! als einzelnes Nomen behandelt werden. Das bedeutet, es wird ein Bindestrich zwischen osu! und dem Namen, welcher modifiziert wird, gesetzt. Beispiele sind:
+### osu! in einem Satz
 
-- `osu!-Turniere`
-- `osu!-Community`
-- `osu!-Chat`
-- `osu!-Client`
-- `osu!-Wiki`
-
----
-
-`osu!` sollte nicht an einem Satzende stehen. Sofern das der Fall ist, sollte ein Punkt (`.`) oder Fragezeichen hinten angehängt werden, also `osu!.` oder `osu!?`.
-
-Hinter `osu!` darf kein Ausrufezeichen folgen (also `osu!!`). Der Satz muss umformuliert werden, damit das nicht vorkommt.
+- `osu!` sollte nicht an einem Satzende stehen. Sofern das der Fall ist, sollte ein Punkt (`.`) oder Fragezeichen hinten angehängt werden, also `osu!.` oder `osu!?`.
+- Hinter `osu!` darf kein Ausrufezeichen folgen (also `osu!!`). Der Satz muss umformuliert werden, damit das nicht vorkommt.
 
 ## Terminologie
 
@@ -322,17 +296,25 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nominieren.
 
 ## Perspektive
 
-`Spieler`, `Benutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `es`, `sein` und `ihm` darf benutzt werden, wenn benötigt.
+Alle Artikel sind im generischen Maskulinum gehalten. Geschlechtergerechter Sprachgebrauch ("Gendersprache") ist nicht erwünscht, da die Barrierefreiheit für sehbehinderte Menschen und Menschen mit einer Lese- und Rechtschreibstörung (LRS) eingeschränkt werden würde.
 
-`du` und `dein` sollte vermieden werden. `Ich` darf nicht vorkommen. `wir`, `er` oder `sein` und `sie` oder `ihr` darf ebenfalls nicht vorkommen (siehe weiter oben für andere Begriffe).
+`Spieler`, `Benutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird.
 
----
+Die persönlichen Fürwörter `er`, `sie` und `es` dürfen benutzt werden, wenn benötigt.
 
-[Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings sollte `Ich` trotzdem vermieden werden.
+Wörter für die informelle Anrede mit `du`, `dein`, `ihr`, `euch`, `euer` und weitere Formen sollten vermieden werden. `Ich` darf nicht vorkommen. 1. Person Plural (`wir`) darf ebenfalls nicht vorkommen.
+
+Die höfliche Anrede mit `Sie`, `Ihnen` und weitere Formen ist für [rechtliche Artikel](#sprachregister) erlaubt.
+
+[Artikel mit informellen Registern](#sprachregister) dürfen Pronomen der informellen Anrede verwenden. Allerdings sollte die Verwendung einheitlich im gesamten Text erfolgen.
 
 ## Grammatik und Syntax
 
 Artikel sollten einfache deutsche Grammatik verwenden.
+
+### Auslassungszeichen
+
+Hochkommata für die Auslassung von Buchstaben (z. B. geht's anstatt geht es oder versuch') dürfen nicht verwendet werden.
 
 ### Zahlen
 
@@ -344,17 +326,29 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 
 [Artikel mit informellen Registern](#sprachregister) sollten Semikolons (`;`) nicht verwenden.
 
-### Geviertstrich
+### Gedankenstriche
 
-Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. Diese Regel trifft nicht auf [Blockzitate](#blockzitate) zu.
+Verweis auf [einen Artikel zur Verwendung von Gedankenstrichen von texterclub](https://www.texterclub.de/rechtschreibung-gedankenstrich/). Bei der Interpunktion eines Satzes müssen Geviertstriche mit einem Leerzeichen davor und dahinter (" — ") benutzt werden, keine Halbgeviertstriche mit Leerzeichen (" – "). Bindestriche ("-") dürfen nicht an Stelle von Geviertstrichen verwendet werden.
+
+### Zitate
+
+Übersetzt aus dem englischen [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside):
+
+> Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
+
+Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
 
 ### Blockzitate
 
-Verweis auf [Wikipedias Artikel zum Format für Zitate](https://de.wikipedia.org/wiki/Wikipedia:Zitate#Beispiele).
+Wenn Text von jemandem zitiert wird, sollte die zitierte Person nach dem [Blockzitat](/wiki/Article_styling_criteria/Formatting#blockzitate) mit einem Geviertstrich (`—`) und einem Leerzeichen angegeben werden. Sofern das Originalzitat nicht aus dem Deutschen stammt, spezifiziere die Sprache in Klammern.
 
-Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
+```markdown
+> bitte habt Spaß am Spiel
 
-Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
+— rrtyui (aus dem {Sprache} übersetzt)
+```
+
+Im Allgemeinen sollte die Quelle des Zitats über diesem spezifiziert werden. Siehe die [obere Sektion](#zitate) für ein Beispiel. Beim Zitieren eines schriftlichen Artikels oder anderweitig, und nicht unbedingt einer spezifischen Person, muss der Autor nicht unter dem Blockzitat angegeben werden.
 
 ## Aussprache
 

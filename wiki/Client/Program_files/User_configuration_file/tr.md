@@ -36,7 +36,7 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `ScreenshotFormat` | Metin | Ekran görüntüsü formatı |
 | `MenuSnow` | 0 veya 1 | Kar |
 | `MenuParallax` | 0 veya 1 | Paralaks |
-| `ShowMenuTips` | 0 veya 1 | Menü ipuçları |
+| `ShowMenuTips` | 0 veya 1 | [Menü ipuçları](/wiki/Client/Menu_tips) |
 | `MenuVoice` | 0 veya 1 | Arayüz sesleri |
 | `MenuMusic` | 0 veya 1 | osu! müzik teması |
 | `SeasonalBackgrounds` | Metin | Mevsimsel arkaplanlar |
@@ -83,9 +83,9 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `EditorStacking` | 0 veya 1 | Yığın haline getirme |
 | `Ticker` | 0 veya 1 | Kayan yazı bandı (sohbet) |
 | `AutoChatHide` | 0 veya 1 | Sohbeti oyun sırasında otomatik olarak gizle |
-| `ChatHighlightName` | 0 veya 1 | Biri ismini söylediğinde bildirim göster |
+| `ChatHighlightName` | 0 veya 1 | Biri ismini [söylediğinde](/wiki/Client/Interface/Chat_console/Highlight) bildirim göster |
 | `ChatMessageNotification` | 0 veya 1 | Sohbet mesajları bildirimlerini göster |
-| `ChatAudibleHighlight` | 0 veya 1 | Biri senin adını söylediğinde ses ile bildir |
+| `ChatAudibleHighlight` | 0 veya 1 | Biri senin adını [söylediğinde](/wiki/Client/Interface/Chat_console/Highlight) ses ile bildir |
 | `DisplayCityLocation` | 0 veya 1 | Bulunduğun şehri diğerleri ile paylaş |
 | `ShowSpectators` | 0 veya 1 | Oyun sırasında izleyici listesini göster |
 | `AutoSendNowPlaying` | 0 veya 1 | Haritaların linklerini otomatik olarak seyircilerle paylaş |
@@ -102,7 +102,7 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `LogPrivateMessages` | 0 veya 1 | Özel mesajları otomatik olarak kronolojik sırayla kaydet |
 | `BlockNonFriendPM` | 0 veya 1 | Arkadaşlara ekli olmayanlardan gelen mesajları engelle |
 | `IgnoreList` | Boşluk ile ayrılmış metin listesi | Engellenmiş kişi listesi |
-| `HighlightWords` | Boşluk ile ayrılmış metin listesi | Highlight'lanmış kelimeler |
+| `HighlightWords` | Boşluk ile ayrılmış metin listesi | [Highlight](/wiki/Client/Interface/Chat_console/Highlight)'lanmış kelimeler |
 
 ### Tuş düzeni
 
@@ -198,8 +198,8 @@ Daha fazla osu!mania düzeni seçenekleri mevcut temanın [skin.ini](/wiki/Skinn
 
 | Seçenek | Değer türü | Açıklama |
 | :-- | :-- | :-- |
-| `EditorGridSize` | Tam sayı | Izgara boyutunun [osu! pixels](/wiki/osupixel) karşılığı |
-| `EditorGridSizeDesign` | Tam sayı | Dizayn ızgara boyutunun [osu! pixels](/wiki/osupixel) karşılığı |
+| `EditorGridSize` | Tam sayı | Izgara boyutunun [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) karşılığı |
+| `EditorGridSizeDesign` | Tam sayı | Dizayn ızgara boyutunun [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) karşılığı |
 | `EditorDim` | 0 veya 1 | Test oyunundayken arkaplanı karart |
 | `EditorGrid` | 0 veya 1 | Açı yakalamayı etkinleştir |
 | `EditorBeatDivisor` | Tam sayı | Son kullanılan nota ızgara bölücü |
@@ -260,14 +260,14 @@ Daha fazla osu!mania düzeni seçenekleri mevcut temanın [skin.ini](/wiki/Skinn
 | `ConfirmExit` | 0 veya 1 | Oyundan çıkmadan önce osu!'nun onay isteyip istememesi |
 | `CustomFrameLimit` | Tam sayı | Oyun içerisinde üçüncü bir FPS sınırlayıcı ayarlama |
 | `Display` | Tam sayı | osu!'nun açılması gereken monitör dizini |
-| `EditorTip` | Tam sayı | Gösterilecek bir sonraki düzenleyici ipucunun dizini |
+| `EditorTip` | Tam sayı | Gösterilecek bir sonraki [düzenleyici ipucunun](/wiki/Client/Menu_tips#editor) dizini |
 | `GuideTips` | Metin | Daha önce gösterilen rehber ipuçlarının bir daha gösterilmemesi için onları takip eder |
 | `HighResolution` | 0 veya 1 | HD tema element desteğini zorlar |
 | `IgnoreBarline` | 0 veya 1 | osu!mania ölçü çizgilerinin gözükmesi/gizlenmesi |
 | `LastVersion` | Metin | Mevcut istemci sürümü |
 | `LastVersionPermissionsFailed` | Metin | Bir güncellemeyi tamamlamak için bilgisayar yönetici izinleri gerektiren son istemci sürümü |
 | `LowResolution` | 0 veya 1 | SD tema elementlerini kullanmaya zorlar (`HighResolution` seçeneğini geçersiz kılar) |
-| `MenuTip` | Tam sayı | Gösterilecek bir sonraki menü ipucunun dizini |
+| `MenuTip` | Tam sayı | Gösterilecek bir sonraki [menü ipucunun](/wiki/Client/Menu_tips#main-menu) dizini |
 | `MyPcSucks` | 0 veya 1 | Bütün süslü grafik ayarlarını devre dışı bırakır |
 | `OverrideRefreshRate` | 0 veya 1 | `RefreshRate` seçeneğinin kullanıp kullanılmaması |
 | `RefreshRate` | Tam sayı | Özel yenileme hızı |

@@ -8,7 +8,7 @@ tags:
 
 ![PERAK osu! Tournament logo](img/logo.jpg)
 
-The **PERAK osu! Tournament** was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) which was being held as a part of the [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the first iteration of the PERAK osu! Tournament.
+The **PERAK osu! Tournament** (***POT***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405) and ::{ flag=ID }:: [Larzz](https://osu.ppy.sh/users/10483670) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the first iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
@@ -35,14 +35,14 @@ The PERAK osu! Tournament was run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) |
-| Mappool selector | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) |
-| Playtester | ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
-| Streamer | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
-| Commentator | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
-| Referee | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Romizzz](https://osu.ppy.sh/users/6154769) |
-| Graphic designer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
-| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [Larzz](https://osu.ppy.sh/users/10483670) |
+| Mappool selector | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [Larzz](https://osu.ppy.sh/users/10483670) |
+| Playtester | ::{ flag=ID }:: [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| Streamer | ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| Commentator | ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) |
+| Referee | ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053), ::{ flag=ID }:: [Romizzz](https://osu.ppy.sh/users/6154769) |
+| Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
@@ -54,22 +54,22 @@ The PERAK osu! Tournament was run by various Indonesian osu! community members.
 
 ## Participants
 
-Listed below are players who qualified into the Round of 12 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 19 registered players in total.
+Listed below are players who managed to qualify into the Round of 12 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 19 registered players in total.
 
-| Seed No. | Player | Avg. Map Rank |
-| :-- | :-- | :-- |
-| 1 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | 1.6 |
-| 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
-| 3 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 4.1 |
-| 4 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | 5.7 |
-| 5 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | 5.9 |
-| 6 | ![][flag_ID] [cuna](https://osu.ppy.sh/users/14505580) | 7.3 |
-| 7 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | 7.6 |
-| 8 | ![][flag_ID] [naruto-sasuke](https://osu.ppy.sh/users/4072413) | 7.9 |
-| 9 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | 8.0 |
-| 10 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 9.1 |
-| 11 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | 10.2 |
-| 12 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | 10.3 |
+| Seed | Player | Avg. map rank |
+| :-: | :-- | :-- |
+| 1 | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | 1.6 |
+| 2 | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
+| 3 | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) | 4.1 |
+| 4 | ::{ flag=ID }:: [DigiM](https://osu.ppy.sh/users/2659328) | 5.7 |
+| 5 | ::{ flag=ID }:: [StingRay](https://osu.ppy.sh/users/2215822) | 5.9 |
+| 6 | ::{ flag=ID }:: [cuna](https://osu.ppy.sh/users/14505580) | 7.3 |
+| 7 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | 7.6 |
+| 8 | ::{ flag=ID }:: [naruto-sasuke](https://osu.ppy.sh/users/4072413) | 7.9 |
+| 9 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | 8.0 |
+| 10 | ::{ flag=ID }:: [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 9.1 |
+| 11 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | 10.2 |
+| 12 | ::{ flag=ID }:: [ana\_kunn](https://osu.ppy.sh/users/2868409) | 10.3 |
 
 ## Podium
 
@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 
 ## Mappools
 
@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
   5. [FujuniseikouyuuP - FREEDMAN (val0108) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/108529#osu/283705) 
   6. [OSTER project - Piano x Forte (DeviousPanda) \[Fortissimo\]](https://osu.ppy.sh/beatmapsets/1296249#osu/2689460)
 - Hidden
-  1. [Wotamin - Gigantic O.T.N  (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#osu/223397)
+  1. [Wotamin - Gigantic O.T.N (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#osu/223397)
   2. [BUTAOTOME - Towa no Maigo (Icekalt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2239337)
   3. [scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#osu/201731)
 - HardRock
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
   2. [James Landino - Hide And Seek (Mirash) \[RLC's Hard\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036905)
 - DoubleTime
   1. [DJ Fresh (feat. Ellie Goulding) - Flashlight (Radio Edit) (Frey) \[Advanced\]](https://osu.ppy.sh/beatmapsets/274035#osu/672345)
-  2. [Ohashi Ayaka - Daisuki. (Yuuma) \[Hard\]](https://osu.ppy.sh/beatmapsets/1122530#osu/2345776)  
+  2. [Ohashi Ayaka - Daisuki. (Yuuma) \[Hard\]](https://osu.ppy.sh/beatmapsets/1122530#osu/2345776)
 - Tiebreaker
   1. **[Demetori - Wind God Girl (lkp) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/20949#osu/82245)**
 
@@ -198,14 +198,14 @@ Sunday, 28 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Victim\_Crasher](https://osu.ppy.sh/users/2084869) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/79301199) |
+| Lower | [Victim\_Crasher](https://osu.ppy.sh/users/2084869) ::{ flag=ID }:: | 4 | **7** | ::{ flag=ID }:: **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/79301199) |
 
 Sunday, 4 April 2021, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [Lindaine](https://osu.ppy.sh/users/4572717) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/79843882) |
-| Grand Final (Bracket Reset) | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **7** | 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | [#1](https://osu.ppy.sh/community/matches/79930736) |
+| Grand Final | [Lindaine](https://osu.ppy.sh/users/4572717) ::{ flag=ID }:: | 4 | **7** | ::{ flag=ID }:: **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/79843882) |
+| Grand Final (Bracket Reset) | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) | [#1](https://osu.ppy.sh/community/matches/79930736) |
 
 ### Finals (week 1)
 
@@ -213,20 +213,20 @@ Friday, 19 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [StingRay](https://osu.ppy.sh/users/2215822) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[cuna](https://osu.ppy.sh/users/78462242)** | [#1](https://osu.ppy.sh/community/matches/78462242) |
-| Lower | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/78458122) |
+| Lower | [StingRay](https://osu.ppy.sh/users/2215822) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[cuna](https://osu.ppy.sh/users/78462242)** | [#1](https://osu.ppy.sh/community/matches/78462242) |
+| Lower | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/78458122) |
 
 Saturday, 20 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [cuna](https://osu.ppy.sh/users/78462242) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/78462242) |
+| Lower | [cuna](https://osu.ppy.sh/users/78462242) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/78462242) |
 
 Sunday, 21 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Victim\_Crasher](https://osu.ppy.sh/users/2084869) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Lindaine](https://osu.ppy.sh/users/4572717)** | [#1](https://osu.ppy.sh/community/matches/78646519) |
+| Upper | [Victim\_Crasher](https://osu.ppy.sh/users/2084869) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Lindaine](https://osu.ppy.sh/users/4572717)** | [#1](https://osu.ppy.sh/community/matches/78646519) |
 
 ### Semifinals
 
@@ -234,15 +234,15 @@ Sunday, 14 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | [#1](https://osu.ppy.sh/community/matches/78055535) |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/78047446) |
-| Lower | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/78059749) |
+| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) | [#1](https://osu.ppy.sh/community/matches/78055535) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/78047446) |
+| Lower | **[cuna](https://osu.ppy.sh/users/14505580)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/78059749) |
 
 Monday, 15 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[DigiM](https://osu.ppy.sh/users/2659328)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/78050310) |
+| Lower | **[DigiM](https://osu.ppy.sh/users/2659328)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/78050310) |
 
 ### Quarterfinals
 
@@ -250,34 +250,34 @@ Friday, 5 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [cuna](https://osu.ppy.sh/users/14505580) | [#1](https://osu.ppy.sh/community/matches/77278333) |
+| Upper | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [cuna](https://osu.ppy.sh/users/14505580) | [#1](https://osu.ppy.sh/community/matches/77278333) |
 
 Saturday, 6 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/77368933) |
+| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/77368933) |
 
 Sunday, 7 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[StingRay](https://osu.ppy.sh/users/2215822)** | [#1](https://osu.ppy.sh/community/matches/77455381) |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/77451609) |
+| Upper | [DigiM](https://osu.ppy.sh/users/2659328) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[StingRay](https://osu.ppy.sh/users/2215822)** | [#1](https://osu.ppy.sh/community/matches/77455381) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/77451609) |
 
 Wednesday, 10 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[DigiM](https://osu.ppy.sh/users/2659328)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/77683525) |
-| Lower | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [naruto-sasuke](https://osu.ppy.sh/users/4072413) | [#1](https://osu.ppy.sh/community/matches/77686417) |
+| Lower | **[DigiM](https://osu.ppy.sh/users/2659328)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/77683525) |
+| Lower | **[cuna](https://osu.ppy.sh/users/14505580)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [naruto-sasuke](https://osu.ppy.sh/users/4072413) | [#1](https://osu.ppy.sh/community/matches/77686417) |
 
 Thursday, 11 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[larrypult](https://osu.ppy.sh/users/12255948)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | [#1](https://osu.ppy.sh/community/matches/77764333) |
-| Lower | **[nasje](https://osu.ppy.sh/users/7579498)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77753957) |
+| Lower | **[larrypult](https://osu.ppy.sh/users/12255948)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [ana\_kunn](https://osu.ppy.sh/users/2868409) | [#1](https://osu.ppy.sh/community/matches/77764333) |
+| Lower | **[nasje](https://osu.ppy.sh/users/7579498)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77753957) |
 
 ### Round of 12
 
@@ -285,20 +285,20 @@ Friday, 26 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [naruto-sasuke](https://osu.ppy.sh/users/4072413) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/77245889) |
-| Upper | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77270247) |
+| Upper | [naruto-sasuke](https://osu.ppy.sh/users/4072413) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/77245889) |
+| Upper | **[cuna](https://osu.ppy.sh/users/14505580)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77270247) |
 
 Saturday, 27 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[larrypult](https://osu.ppy.sh/users/12255948)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/77363288) |
+| Upper | **[larrypult](https://osu.ppy.sh/users/12255948)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/77363288) |
 
 Sunday, 28 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[StingRay](https://osu.ppy.sh/users/2215822)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | [#1](https://osu.ppy.sh/community/matches/77448647) |
+| Upper | **[StingRay](https://osu.ppy.sh/users/2215822)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [ana\_kunn](https://osu.ppy.sh/users/2868409) | [#1](https://osu.ppy.sh/community/matches/77448647) |
 
 ## Ruleset
 
@@ -306,7 +306,7 @@ Sunday, 28 February 2021:
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#ganti-jadwal` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any players who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#ganti-jadwal` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -314,12 +314,12 @@ Sunday, 28 February 2021:
 8. If a player disconnects, it will be treated as if they failed the beatmap.
    - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
-   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
+   - In case the disconnected player fails to report back after the maximum allowance of 15 minutes pass, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from the PERAK Games League altogether.
-    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
+    - Usage of any tools or programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
 
@@ -327,7 +327,7 @@ Sunday, 28 February 2021:
    - In order to be eligible to play in the tournament, a player must be able to attest their status as a registered student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) by showing a valid [EMAS UI credential](http://emas.ui.ac.id) to the Tournament Management.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration Phase has ended.
-4. Testplayers, referees, and map selectors may not participate as players in this tournament.
+4. Test players, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Qualifier rules
 
@@ -344,8 +344,8 @@ Sunday, 28 February 2021:
 1. The 12 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as follows:
-   - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
-   - Players who lose in the Lower Bracket will be eliminated from the tournament.
+   - Players who lose in the upper bracket can still play again on the lower bracket.
+   - Players who lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final match, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 12 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
@@ -367,5 +367,3 @@ Sunday, 28 February 2021:
 4. In case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Playing the tiebreaker map with a mod in hand however is *not* mandatory as going with NoMod on the tiebreaker is also permitted.
    - Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

@@ -8,7 +8,7 @@ Dernière mise à jour : 8 mars 2021. [Voir l'historique](https://github.com/ppy
 
 **ppy Pty Ltd** vous offre un service, qui est conditionné par votre acceptation, sans aucune modification, des termes, conditions et avis suivants.
 
-En visitant et/ou en utilisant les services offerts par ce site ([https://osu.ppy.sh](https://osu.ppy.sh/home)), le client de jeu osu! (tel qu'il se trouve sur [https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)) ou tout autre service affilié (ci-après dénommé "**osu!**"), vous reconnaissez que vous vous conformez entièrement aux conditions générales énumérées ici.
+En visitant et/ou en utilisant les services offerts par ce site (<https://osu.ppy.sh>), le client de jeu osu! (tel qu'il se trouve sur <https://osu.ppy.sh/home/download>) ou tout autre service affilié (ci-après dénommé "**osu!**"), vous reconnaissez que vous vous conformez entièrement aux conditions générales énumérées ici.
 
 En tant que condition d'utilisation de ce site web, vous garantissez que vous n'utiliserez pas ce site web, ou tout contenu obtenu à partir de ce site web, à des fins illégales ou interdites par ces conditions.
 
@@ -84,8 +84,8 @@ osu! se réserve le droit de supprimer le contenu et les soumissions des utilisa
 
 osu! contient un certain nombre d'équipes de volontaires à un moment donné qui proviennent directement de la communauté. Certaines équipes ont besoin de permissions et d'accès supplémentaires afin de faciliter l'aspect communautaire du jeu. Ces équipes sont les suivantes :
 
-- [Les Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
-- [Les Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)
+- [Les Global Moderation Team](/wiki/People/Global_Moderation_Team)
+- [Les Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
 
 Aucun utilisateur âgé de moins de 18 ans ne peut devenir membre de l'une des équipes énumérées ci-dessus.
 
@@ -101,7 +101,7 @@ Lorsqu'une telle action est nécessaire pour se conformer aux exigences légales
 
 Lorsque cette action est nécessaire pour protéger et défendre les droits ou la propriété d'osu!.
 
-Lorsqu'une telle action est nécessaire pour faire respecter les termes et conditions de service de osu!.
+Lorsqu'une telle action est nécessaire pour faire respecter les termes et conditions de service d'osu!.
 
 osu! peut utiliser des cookies dans le cadre du processus de suivi, mais les cookies ne seront pas utilisés pour vous identifier personnellement sans votre consentement préalable.
 Si l'utilisateur décide de participer au forum, avec son consentement, un cookie sera émis pour garder la trace du nom d'utilisateur et du mot de passe pour une période de 1 an.

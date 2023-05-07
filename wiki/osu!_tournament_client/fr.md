@@ -1,27 +1,27 @@
 # osu! tournament client
 
-Le **osu! tournament client** est le client officiel qui superpose à [osu!tourney](/wiki/osu!tourney) des scènes et des informations supplémentaires relatives à un tournoi osu! lors d'une diffusion en direct.
+L'**osu! tournament client** est le client officiel qui superpose à [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) des scènes et des informations supplémentaires relatives à un tournoi osu! lors d'une diffusion en direct.
 
 Les utilisateurs rencontrant des problèmes avec le client peuvent [créer un issue sur GitHub](https://github.com/ppy/osu/issues) ou envoyer un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Configuration
 
-Pour lancer le osu! tournament client, vous devez spécifier un argument de lancement à l'exécutable osu!(lazer). Pour ce faire, créez un nouveau raccourci sur le bureau et définissez son emplacement à `%LOCALAPPDATA%/osulazer/osu !.exe --tournament`. Ce raccourci spécifique lancera osu!(lazer) en mode client de tournoi.
+Pour lancer l'osu! tournament client, vous devez spécifier un argument de lancement à l'exécutable [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Pour ce faire, créez un nouveau raccourci sur le bureau et définissez son emplacement à `%LOCALAPPDATA%/osulazer/osu !.exe --tournament`. Ce raccourci spécifique lancera osu!(lazer) en mode client de tournoi.
 
-Puisque le osu! tournament client n'est qu'une superposition pour osu!tourney, il faudra le configurer aussi. Réglez la sortie dans osu!tourney sur `Cutting Edge (Experimental)` et créez un fichier vide appelé `ipc.txt` dans le dossier d'installation de osu!tourney. Après cela, suivez le [guide d'installation de osu!tourney](/wiki/osu!tourney/Setup).
+Puisque l'osu! tournament client n'est qu'une superposition pour osu!tourney, il faudra le configurer aussi. Réglez la sortie dans osu!tourney sur `Cutting Edge (Experimental)` et créez un fichier vide appelé `ipc.txt` dans le dossier d'installation d'osu!tourney. Après cela, suivez le [guide d'installation d'osu!tourney](/wiki/osu!_tournament_client/osu!tourney/Setup).
 
-Ouvrez le osu! tournament client et vous verrez cet écran de configuration :
+Ouvrez l'osu! tournament client et vous verrez cet écran de configuration :
 
-![Écran de configuration de osu! tournament client](img/setup-screen.png)
+![Écran de configuration d'osu! tournament client](img/setup-screen.png)
 
 - Assurez-vous que la `Source IPC actuelle` correspond à l'emplacement de l'instance osu!tourney que vous allez utiliser.
 - Connectez-vous à osu!(lazer) en cliquant sur `Change Login`.
 - Définissez le ruleset approprié à l'aide du menu déroulant.
-- Changez la hauteur pour qu'elle corresponde à `Height`, définie dans le fichier `tournament.cfg` de osu!tourney.
+- Changez la hauteur pour qu'elle corresponde à `Height`, définie dans le fichier `tournament.cfg` d'osu!tourney.
 
 ## Gestion des tournois
 
-Les configurations de tournois pour osu!(lazer) sont stockées dans `%APPDATA%/osu/tournaments`. Au premier démarrage du client, un répertoire appelé `default` est créé dans ce dossier. Un utilisateur peut maintenir plusieurs configurations de tournois et passer de l'une à l'autre si nécessaire pour obtenir les personnalisations appropriées.
+Les configurations de tournois pour [osu!(lazer)](/wiki/Client/Release_stream/Lazer) sont stockées dans `%APPDATA%/osu/tournaments`. Au premier démarrage du client, un répertoire appelé `default` est créé dans ce dossier. Un utilisateur peut maintenir plusieurs configurations de tournois et passer de l'une à l'autre si nécessaire pour obtenir les personnalisations appropriées.
 
 Pour créer une nouvelle configuration de tournoi, créez un nouveau répertoire dans le répertoire `tournaments` avec le nom de votre tournoi.
 
@@ -41,10 +41,6 @@ Le client du tournoi osu!(lazer) peut être personnalisé en lui fournissant des
 Par défaut, le client du tournoi osu!(lazer) fournit des drapeaux intégrés pour les pays du monde. Ceux-ci peuvent être référencés par leurs [codes pays ISO 3166 Alpha-2](https://www.iso.org/fr/iso-3166-country-codes.html) dans l'éditeur d'équipe.
 
 Pour les drapeaux personnalisés, les fichiers `.jpg` et `.png` sont acceptés. Les images de drapeaux doivent être d'au moins 140x94, en conservant un rapport d'aspect proche de cette spécification pour de meilleurs résultats.
-
-Ce drapeau de l'Australie est un exemple de drapeau utilisant les spécifications correctes :
-
-![][flag_AU]
 
 Les drapeaux doivent être placés dans`<your-tournament>/Flags`. Les drapeaux peuvent ensuite être référencés dans l'éditeur d'équipe par leur nom de fichier sans l'extension de fichier.
 
@@ -78,5 +74,3 @@ Les fichiers vidéo doivent être placés dans le dossier `<your-tournament>/Vid
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"

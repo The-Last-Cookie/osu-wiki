@@ -14,7 +14,7 @@ Cette section concerne votre compte, les paramètres de langues et les mises à 
 
 ### Connexion
 
-Si vous n'êtes pas connecté au client, le menu des options s'ouvrira automatiquement au démarrage, vous invitant à vous connecter. Vous pouvez ignorer cette demande en appuyant sur `Esc`, en cliquant sur le bouton retour, ou en naviguant vers l'écran de sélection des beatmaps. Si vous ne vous connectez pas, le client vous marquera comme "Invité" et vous ne pourrez pas récupérer les scores en ligne, envoyer des scores ou jouer en [multijoueur](/wiki/Gameplay/Multiplayer).
+Si vous n'êtes pas connecté au client, le menu des options s'ouvrira automatiquement au démarrage, vous invitant à vous connecter. Vous pouvez ignorer cette demande en appuyant sur `Esc`, en cliquant sur le bouton retour, ou en naviguant vers l'écran de sélection des beatmaps. Si vous ne vous connectez pas, le client vous marquera comme "Invité" et vous ne pourrez pas récupérer les scores en ligne, envoyer des scores ou jouer en [multijoueur](/wiki/Client/Interface/Multiplayer).
 
 Si vous êtes un invité, ces options seront affichées :
 
@@ -92,8 +92,7 @@ Cette section concerne l'apparence de votre client, les sections de l'interface 
 
 ---
 
-*Remarque : lorsque le client n'est pas la fenêtre active, la limite de FPS est automatiquement abaissée à 30 fps.*
-
+*Remarque : lorsque le client n'est pas la fenêtre active, la limite de FPS est automatiquement abaissée à 30 fps.*\
 *Attention aux utilisateurs d'ordinateurs portables : l'utilisation de `Illimité (en jeu)` peut provoquer une surchauffe de votre ordinateur portable !*
 
 Si vous ouvrez la liste déroulante pour `Images par seconde :`, vous serez présenté avec ces options :
@@ -348,9 +347,9 @@ Cette section concerne le tchat, les spectateurs, le multi, et osu!direct.
 | :-- | :-- | :-- | :-- |
 | `Nouveau messages du chat en bas de l'écran` | Affiche le message de tchat le plus récent en bas de l'écran. Le message qui s'affiche provient du channel que vous regardez actuellement. | Case à cocher | `Désactivé` |
 | `Rétracter le chat pendant les parties` | Si le tchat est ouvert pendant les pauses ou les menus du jeu, le client le cache automatiquement lorsque le jeu reprend. | Case à cocher | `Activé` |
-| `Notifier si mon nom est mentionné` | Lorsque quelqu'un mentionne votre nom d'utilisateur dans le tchat, une notification apparaît. | Case à cocher | `Activé` |
+| `Notifier si mon nom est mentionné` | Lorsque quelqu'un [mentionne](/wiki/Client/Interface/Chat_console/Highlight) votre nom d'utilisateur dans le tchat, une notification apparaît. | Case à cocher | `Activé` |
 | `Notifier à l'arrivée de nouveaux messages` | Affiche une notification, lorsque de nouveaux messages de tchat arrivent. | Case à cocher | `Activé` |
-| `Jouer un son si mon nom est mentionné` | Lorsque quelqu'un mentionne votre nom d'utilisateur dans le tchat, un son est émis. | Case à cocher | `Activé` |
+| `Jouer un son si mon nom est mentionné` | Lorsque quelqu'un [mentionne](/wiki/Client/Interface/Chat_console/Highlight) votre nom d'utilisateur dans le tchat, un son est émis. | Case à cocher | `Activé` |
 | `Permettre aux joueurs de voir ma ville` | Partage l'emplacement de votre ville dans votre carte d'utilisateur (notez que votre pays est déjà partagé). | Case à cocher | `Désactivé` |
 | `Liste de mes spectateurs pendant les parties` | Affiche une liste des spectateurs actuels à gauche de l'écran pendant le jeu. | Case à cocher | `Activé` |
 | `Envoi automatique de liens vers les beatmaps aux spectateurs` | Envoie la beatmap en cours de lecture au canal `#spectator` lorsque vous avez des spectateurs. | Case à cocher | `Activé` |
@@ -377,7 +376,7 @@ Cette section concerne le tchat, les spectateurs, le multi, et osu!direct.
 | `Conserver une copie des messages privés` | Les messages privés seront enregistrés dans le dossier `osu!/Logs`. | Case à cocher | `Désactivé` |
 | `Autoriser uniquement les messages privés de mes amis` | En activant cette option, les messages privés seront réservés aux amis. | Case à cocher | `Désactivé` |
 | `Utilisateurs à ignorer (séparer avec des espaces) :` | Les mots que vous mettez ici seront ignorés. | Texte | *(vide)* |
-| `Mots à notification (séparer avec des espaces) :` | Les mots que vous placez ici seront mis en évidence dans le tchat. | Texte | *(vide)* |
+| `Mots à notification (séparer avec des espaces) :` | Les mots que vous placez ici seront mis en [évidence dans le tchat](/wiki/Client/Interface/Chat_console/Highlight). | Texte | *(vide)* |
 
 ## Maintenance
 
@@ -394,7 +393,7 @@ Cette section concerne les beatmaps et les mises à jour.
 | `Marquer toutes les beatmaps comme étant jouées` | Marque toutes les beatmaps comme étant "jouées". | Bouton |
 | `Lancer le logiciel de mise à jour` | Ferme le client et ouvre le dispositif de mise à jour pour rechercher les mises à jour et les télécharger le cas échéant. | Bouton |
 
-En bas, le numéro de la version s'affiche. En cliquant dessus, vous ouvrirez [le journal des modifications](/wiki/Glossary/Changelog) de cette version dans votre navigateur internet.
+En bas, le numéro de la version s'affiche. En cliquant dessus, vous ouvrirez [le journal des modifications](/wiki/Changelog) de cette version dans votre navigateur internet.
 
 ### Debug
 

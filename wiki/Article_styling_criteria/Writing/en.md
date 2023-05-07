@@ -188,53 +188,21 @@ Good example:
 October 25, 2016 (11:45 UTC)
 ```
 
-## Game modes
-
-Game modes must be written as follows:
-
-- `osu!`
-- `osu!taiko`
-- `osu!catch`
-- `osu!mania`
-
-Referring to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) may be done if discussing said game mode's previous name.
-
 ## osu!
 
-The name of the game, osu!, must not be capitalised or italicised. The osu! official branding must not use any spaces. Examples include:
+When mentioning the game itself or any of the related projects or terms, follow the [brand identity guidelines](/wiki/Brand_identity_guidelines#osu!). Use proper names of the game modes, such as `osu!taiko`, except when in historical context.
 
-- `osu!academy`
-- `osu!api`
-- `osu!catch`
-- `osu!direct`
-- `osu!keyboard`
-- `osu!mania`
-- `osu!store`
-- `osu!stream`
-- `osu!supporter`
-- `osu!tablet`
-- `osu!taiko`
-- `osu!talk`
-- `osu!tourney`
+### User titles
 
 User titles that include `osu!` as part of the title name must be capitalised. Examples include:
 
 - `osu! Alumni`
 - `osu! Champion`
 
-For all other terms, osu! must be treated as a [qualifying noun](https://en.wikipedia.org/wiki/Noun_adjunct). This means adding a space between osu! and the noun it modifies. Examples include:
+### osu! in a sentence
 
-- `osu! tournaments`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
-- `osu! wiki`
-
----
-
-`osu!` should not end a sentence. If it does, use a full stop (`.`) or question mark to get `osu!.` or `osu!?`.
-
-`osu!` must not be followed by an exclamation mark (i.e. `osu!!`). The sentence must be rewritten to ensure that this will not occur.
+- `osu!` should not end a sentence. If it does, use a full stop (`.`) or question mark to get `osu!.` or `osu!?`.
+- `osu!` must not be followed by an exclamation mark (i.e. `osu!!`) — rewrite the sentence if necessary.
 
 ## Terminology
 
@@ -336,11 +304,11 @@ Contractions must not be used.
 
 The serial comma, also known as the Oxford or Harvard comma, must be used.
 
-### Em dash
+### Dashes
 
-Em dashes (`—`) must be used without spaces around them. Hyphens must not be used in their place.
+Refer to [Wikipedia's Manual of Style for dash usage](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Dashes). When punctuating a sentence however, use em dashes with spaces around them (" — "), not spaced en dashes (" – "). Hyphens ("-") must not be used in place of dashes.
 
-### Logical quotations
+### Logical quotation
 
 Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
 
@@ -349,6 +317,18 @@ From Wikipedia's Manual of Style:
 > Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
 
 By extension, [emphasis](/wiki/Article_styling_criteria/Formatting#emphasising), [links](/wiki/Article_styling_criteria/Formatting#links), and parentheses should follow the same rules regarding punctuation (i.e. whether they enclose a whole sentence or only part of one).
+
+### Block quotation
+
+When quoting text from someone, specify the person being quoted after the [blockquote](/wiki/Article_styling_criteria/Formatting#blockquotes) with an em dash (`—`). If the original quote is from a non-English source, specify it in parentheses.
+
+```markdown
+> plz enjoy game
+
+—rrtyui (translated from {language})
+```
+
+In general, the source of the quote should be specified above it. See the [above section](#logical-quotation) for an example. When quoting a written article or otherwise, and not necessarily a specific person, the writer does not need to be specified below the blockquote.
 
 ## Pronunciation
 

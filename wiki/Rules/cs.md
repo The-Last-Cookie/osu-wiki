@@ -26,7 +26,7 @@ Tato pravidla jsou základem, ze kterého pomáháme udržovat osu! komunitu zá
 6. **Dávejte si pozor na to, co sdílíte s ostatními, zvláště pokud je obsah potenciálně znepokojivý nebo velmi názorný.** Pokud si musíte dvakrát rozmyslet, zda je něco vhodného odkazovat, pravděpodobně to není v pořádku. Vyhněte se věcem s rychlými, stroboskopickými světly, krví, obrázky zneužívání nebo jiným grafickým materiálem.
 7. **Ponechejte si odkazy na relevantní a legální webové stránky.** Bootlegové streamovací webové stránky (oficiálně licencované jako Animelab a Crunchyroll jsou v pořádku) a cokoli souvisejícího s „warez“ nebo pirátským softwarem jakéhokoli druhu není v pořádku a my ne nechceme je v našem chatu. Inzerce odkazů Twitch na jiné videohry jsou v pořádku, ale POUZE v `#videogames`.
 8. **Neinzerujte žádné chatovací servery třetích stran, včetně serverů/skupin Discord, Teamspeak nebo Skype.** osu! chat je o osu! především a ne o sdílení odkazů na vaše osobní servery. Udělejte to přes PM, pokud nezbytně musíte.
-9. **Pokud se účastníte diskuse, musíte v kanálech pro konkrétní jazyky mluvit dominantním jazykem (angličtina pro „#english“, thajština pro „#thai“ atd.).** Pokud jazyk kanálu není výslovně uveden, je to vždy angličtina. Kanály `#lobby` a `#help` lze na rozdíl od jiných kanálů používat s jakýmkoli jazykem. *Členové [moderačního štábu](/wiki/People/The_Team/Global_Moderation_Team) nemusí při své práci dodržovat toto pravidlo.*
+9. **Pokud se účastníte diskuse, musíte v kanálech pro konkrétní jazyky mluvit dominantním jazykem (angličtina pro „#english“, thajština pro „#thai“ atd.).** Pokud jazyk kanálu není výslovně uveden, je to vždy angličtina. Kanály `#lobby` a `#help` lze na rozdíl od jiných kanálů používat s jakýmkoli jazykem. *Členové [moderačního štábu](/wiki/People/Global_Moderation_Team) nemusí při své práci dodržovat toto pravidlo.*
 
 ## Pravidla pro celé fórum
 
@@ -42,7 +42,7 @@ Tato pravidla jsou základem, ze kterého pomáháme udržovat osu! komunitu zá
 
 *Poznámka: Tato pravidla se vztahují na **všechny odeslané mapy**, nejen hodnocené. Podrobnější pravidla týkající se hodnocených beatmap naleznete v [Kritérii hodnocení](/wiki/Ranking_Criteria).*
 
-Tato pravidla platí striktně pro beatmapy odeslané prostřednictvím herního [Beatmap Submission System](/wiki/Submission). Tato vlákna/diskuze jsou vytvářeny prostřednictvím osu! klienta, když je beatmap odeslán prostřednictvím [editoru](/wiki/Client/Beatmap_editor).
+Tato pravidla platí striktně pro beatmapy odeslané prostřednictvím herního [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Tato vlákna/diskuze jsou vytvářeny prostřednictvím osu! klienta, když je beatmap odeslán prostřednictvím [editoru](/wiki/Client/Beatmap_editor).
 
 1. **Ujistěte se, že máte oprávnění používat jakýkoli obsah obsažený ve vaší beatmapě.** To zahrnuje písničky, videa, hity, grafiku a další obsah, který není vaší vlastní tvorbou. Pokud si nejste jisti, kde najít obsah, který je zdarma k použití, prohlédněte si naši rostoucí knihovnu [Vybraní umělci](https://osu.ppy.sh/beatmaps/artists) pro hudbu se 100% licencí pro použití v osu! a [Pokyny k používání obsahu](Content_Usage_Guidelines) pro další informace.
 2. **Držte se tématu v [diskuze o beatmapě](/wiki/Beatmap_discussion).** Tato vlákna/diskuze se týkají příslušné beatmapy a ničeho jiného. Pokud máte problém s něčím, co přímo nesouvisí s beatmapou, napište to do příslušného fóra.
@@ -66,6 +66,6 @@ Některé trestné činy mají minimální trvání (obvykle 42 hodin nebo více
 
 Pokud po několika porušeních budete nadále porušovat pravidla, váš účet může být [trvale a neodvolatelně omezen](/wiki/Help_centre/Account_restrictions).
 
-Omezené účty nemohou hrát online, nahrávat skóre, chatovat s ostatními uživateli a jsou pro všechny účely „banned“ z interakcí s komunitou. Omezení pro porušení pravidel komunity lze odstranit pouze na základě odvolání k personálu podpory po uplynutí 3 měsíců ([mohou platit další podmínky](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
+Omezené účty nemohou hrát online, nahrávat skóre, chatovat s ostatními uživateli a jsou pro všechny účely „banned“ z interakcí s komunitou. Omezení pro porušení pravidel komunity lze odstranit pouze na základě odvolání k personálu podpory po uplynutí 3 měsíců ([mohou platit další podmínky](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Závažné přestupky, které výrazně překračují rámec našich pravidel a spadají do jurisdikce nezákonného obsahu podle mezinárodního obecného práva, budou mít za následek okamžité ukončení účtu. To se týká téměř výhradně extrémně názorných nebo jinak ohavných trestných činů, jako je distribuce dětské pornografie nebo jiného zneužívání.

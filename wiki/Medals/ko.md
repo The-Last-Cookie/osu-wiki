@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # 메달
@@ -23,7 +23,7 @@ outdated: true
 
 ### Notes
 
-- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (예시) [Auto Pilot](/wiki/Game_modifier/Autopilot)).
+- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (예시) [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot)).
 - 맵을 플레이한 뒤, [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme)에서 **`클리어한 맵`** 상태가 되었다면 로컬에서 해당 맵을 삭제해도 상관없습니다.
 
 ## Skill
@@ -40,7 +40,7 @@ outdated: true
 
 ---
 
-난이도 기반(Star-based) 메달은 특정 Star 이상의 비트맵을 클리어하며 해금할 수 있으며, *Pass*, *S* 두 개의 종류가 있습니다. *Pass* 메달은 비트맵을 클리어(EZ/NF/HT 제외)하면 얻을 수 있고, *S* 메달은 Pass 메달의 조건 + [풀 콤보](/wiki/Full_combo)이면서 랭크를 S로 클리어하면 해금할 수 있습니다.
+난이도 기반(Star-based) 메달은 특정 Star 이상의 비트맵을 클리어하며 해금할 수 있으며, *Pass*, *S* 두 개의 종류가 있습니다. *Pass* 메달은 비트맵을 클리어(EZ/NF/HT 제외)하면 얻을 수 있고, *S* 메달은 Pass 메달의 조건 + [풀 콤보](/wiki/Gameplay/Full_combo)이면서 랭크를 S로 클리어하면 해금할 수 있습니다.
 
 메달 해금은 가장 가까운 별의 갯수에 해당하는 메달을 해금하게 됩니다. 예를 들어, 6, 7성 메달을 해금하지 못했지만 7.8성을 클리어한 경우 7성 메달만 해금하게 됩니다. HR/DT와 같은 난이도 증가 모드를 사용할 수도 있습니다 (증가된 별을 기준으로 함). 맵은 반드시 랭크된 맵이어야 합니다.
 
@@ -50,7 +50,7 @@ outdated: true
 
 ## Mod Introduction
 
-*참고: [Game Modifiers](/wiki/Game_modifier)*
+*참고: [Game Modifiers](/wiki/Gameplay/Game_modifier)*
 
 **Mod Introduction** 메달은 지정된 게임 난이도 변화 모드를 사용해 맵을 클리어하면 얻을 수 있습니다. 이 메달은 신규 플레이어들이 각각의 모드를 사용해보고 게임에 쉽게 적응할 수 있도록 하기 위해서 만들어졌습니다.
 

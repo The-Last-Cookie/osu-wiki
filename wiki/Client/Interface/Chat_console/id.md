@@ -12,8 +12,8 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 | Putih | Kamu |
 | Kuning Pucat | Bukan pengguna osu!supporter |
 | Kuning | Pengguna [osu!supporter](/wiki/osu!supporter) |
-| Merah | Anggota [Tim Moderasi Global (GMT)](/wiki/People/The_Team/Global_Moderation_Team) atau [Tim Penjamin Kualitas (NAT)](/wiki/Modding/Quality_Assurance_Team) |
-| Hijau | Baris yang berisi nama pengguna kamu atau berbagai kata kunci yang ditambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di kanal yang diperuntukkan untuk itu yaitu, `#highlight`. |
+| Merah | Anggota [Tim Moderasi Global (GMT)](/wiki/People/Global_Moderation_Team) atau [Tim Penjamin Kualitas (NAT)](/wiki/People/Quality_Assurance_Team) |
+| Hijau | Baris yang berisi nama pengguna kamu atau berbagai kata kunci yang ditambahkan ke daftar [highlight](Highlight). Salinan dari pesan itu juga akan muncul di kanal yang diperuntukkan untuk itu yaitu, `#highlight`. |
 | Biru | Pesan Pribadi |
 | Biru Terang | [peppy](https://osu.ppy.sh/users/2), pembuat osu! |
 | Merah Muda | [BanchoBot](/wiki/BanchoBot) |
@@ -24,7 +24,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 
 ## Konsol Chat yang Diperluas
 
-*[osu!academy](/wiki/Community/Video_series/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Multiplayer](/wiki/Gameplay/Multiplayer).*
+*[osu!academy](/wiki/Community/Video_series/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Chat yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
 
@@ -80,7 +80,7 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 | `/bb` | Mengirim sebuah pesan ke bancho untuk rank `[nomor]` | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [pengguna]` | Membuka sebuah tab obrolan baru dengan pengguna yang telah dispesifikasikan. | `/chat Amigo` | (Tab amigo akan terbuka) |
 | `/clear` | Menghapus obrolan yang telah dimuat. (Hanya terhapus pada layarmu saja) | `/clear` | (Menghapus segalanya pada tab yang sedang kamu buka) |
-| `/ignore [pengguna][@chp]` | Mengabaikan segala pesan dari pengguna yang telah dispesifikasikan pada sesi ini. Dengan menambahkan sebuah @ diikuti oleh huruf, c,h, dan/atau p, kamu mengabaikannya di obrolan, highlight, atau pesan pribadi secara berurut. | /ignore Amigo@chp | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Konsol chat kamu disetel untuk: mengabaikan teks apapun yang Amigo tulis \[c\], teks yang mungkin menghighlightmu dari Amigo \[h\] Pesan pribadi yang dikirim Amigo kepadamu \[p\]) |
+| `/ignore [pengguna][@chp]` | Mengabaikan segala pesan dari pengguna yang telah dispesifikasikan pada sesi ini. Dengan menambahkan sebuah @ diikuti oleh huruf, c,h, dan/atau p, kamu mengabaikannya di obrolan, [highlight](Highlight), atau pesan pribadi secara berurut. | /ignore Amigo@chp | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Konsol chat kamu disetel untuk: mengabaikan teks apapun yang Amigo tulis \[c\], teks yang mungkin menghighlightmu dari Amigo \[h\] Pesan pribadi yang dikirim Amigo kepadamu \[p\]) |
 | `/j [channel]` or `/join [channel]` | Bergabung ke spesifik kanal | `/join #lobby` | (Tab #lobby akan terbuka) |
 | `/p` or `/part` | Meninggalkan kanal yang sedang kamu masuki. | `/part` | n/a |
 | `/unignore [user]` | Berhenti mengabaikan pengguna ini pada sesi sekarang. | `/unignore Amigo` | You may now hear Amigo. (Konsol chat kamu akan memperbolehkan komentar apapun yang dibuat oleh Amigo muncul di konsol chat kamu) |

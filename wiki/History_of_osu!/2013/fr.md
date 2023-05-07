@@ -13,13 +13,13 @@ Liens :
 
 ## Février
 
-Une nouvelle version de l'éditeur osu!mania était en cours de développement. Le skin du mode Taiko comporte désormais une barre de "métadonnées" (titre de la musique et artiste sous le terrain de jeu), le terrain de jeu du mode Taiko n'est plus transparent et s'adapte au kiai time. La FAQ originale a été remplacée par le [osu! wiki](/wiki/FAQ).
+Une nouvelle version de l'éditeur osu!mania était en cours de développement. Le skin du mode Taiko comporte désormais une barre de "métadonnées" (titre de la musique et artiste sous le terrain de jeu), le terrain de jeu du mode Taiko n'est plus transparent et s'adapte au kiai time. La FAQ originale a été remplacée par l'[osu! wiki](/wiki/FAQ).
 
 La commande `!faq` de BanchoBot est ouverte au public depuis [traduction](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24). Le légendaire [BanchoBot](/wiki/BanchoBot) a enfin un [profil](https://osu.ppy.sh/users/3) ! L'affichage des panneaux de l'utilisateur s'ajuste maintenant pour afficher quatre colonnes sur tous les modes d'écran large.
 
 osu!mania supporte désormais le retournement vertical (à l'envers), ce qui rend le gameplay similaire à celui de DDR/o2jam. Le skinning prend désormais en charge les sprites à double résolution lorsque la largeur de la fenêtre est supérieure à 1600 pixels. Pour ajouter le support à un skin, ajoutez des images avec le double de la largeur/hauteur contenant le suffixe `@2x` devant l'extension du fichier (ex : `cursor@2x.png`).
 
-Un support de classement pour les mods [Hidden](/wiki/Game_modifier/Hidden) et [FadeIn](/wiki/Game_modifier/Fade_In) dans osu!mania et enfin, moins de limitations d'écran large dans l'éditeur quand il s'agit du placement et de la sélection.
+Un support de classement pour les mods [Hidden](/wiki/Gameplay/Game_modifier/Hidden) et [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) dans osu!mania et enfin, moins de limitations d'écran large dans l'éditeur quand il s'agit du placement et de la sélection.
 
 Liens :
 
@@ -30,7 +30,7 @@ Liens :
 
 ## Mars
 
-osu! a bénéficié d'une refonte complète de l'IU (interface utilisateur) ! Le mode de jeu osu! a reçu un nouveau symbole leitmotiv (auparavant, c'était un cercle avec "osu!", c'est maintenant un cercle avec un "1"). Les boutons de l'éditeur ont été mis à jour. Le mode spécial a été combiné avec le menu de sélection des beatmaps (nommé sous "Mods"), permettant aux joueurs de changer de mode plus rapidement et sans problème. Tous les boutons des [modificateurs de jeu](/wiki/Game_modifier) ont reçu leurs images respectives. L'écran des résultats affiche désormais l'image d'arrière-plan de la beatmap plutôt que celle du skin de l'utilisateur.
+osu! a bénéficié d'une refonte complète de l'IU (interface utilisateur) ! Le mode de jeu osu! a reçu un nouveau symbole leitmotiv (auparavant, c'était un cercle avec "osu!", c'est maintenant un cercle avec un "1"). Les boutons de l'éditeur ont été mis à jour. Le mode spécial a été combiné avec le menu de sélection des beatmaps (nommé sous "Mods"), permettant aux joueurs de changer de mode plus rapidement et sans problème. Tous les boutons des [modificateurs de jeu](/wiki/Gameplay/Game_modifier) ont reçu leurs images respectives. L'écran des résultats affiche désormais l'image d'arrière-plan de la beatmap plutôt que celle du skin de l'utilisateur.
 
 Le Hit-Offset peut maintenant être connu en survolant la précision à partir de l'écran des résultats. Notez qu'il disparaîtra et ne pourra pas être sauvegardé. Les résultats en ligne sont maintenant cachés sous l'écran des résultats plutôt que de vous forcer à les voir. Vous pouvez faire défiler l'écran pour le voir ou vous pouvez simplement cliquer sur le bouton et vous serez dirigé vers l'écran des résultats en ligne.
 
@@ -51,7 +51,7 @@ Liens :
 
 Les mises à jour de ce mois-ci consistaient principalement à corriger la mise à jour majeure précédente, mais cela ne signifie pas que c'était la fin ! Tout d'abord, l'implémentation initiale de la prise en charge des "Collections" qui remplaceront les "Favoris A/B" de longue date, ce qui permettra aux joueurs de regrouper leurs beatmaps préférés dans une "Collection" et de les partager avec d'autres en transférant les "Collections" plutôt que les "Favoris A/B".
 
-Les modes de jeu peuvent maintenant être facilement changés lors de la sélection des beatmaps en utilisant `Ctrl` + `1`, `2`, `3`, ou `4`. Un nouveau modificateur de jeu a été ajouté spécialement pour osu!mania, [Random](/wiki/Game_modifier/Random). Des ajustements ont été apportés au comportement du bouton `Quick Join` du multijoueur pour vous diriger vers une salle en fonction de votre moyenne de pp par rapport à l'écart de pp de la salle.
+Les modes de jeu peuvent maintenant être facilement changés lors de la sélection des beatmaps en utilisant `Ctrl` + `1`, `2`, `3`, ou `4`. Un nouveau modificateur de jeu a été ajouté spécialement pour osu!mania, [Random](/wiki/Gameplay/Game_modifier/Random). Des ajustements ont été apportés au comportement du bouton `Quick Join` du multijoueur pour vous diriger vers une salle en fonction de votre moyenne de pp par rapport à l'écart de pp de la salle.
 
 Pour les replays des beatmaps, le commentaire stale-standing a été remplacé par le style de commentaire mobile [nico-style](https://fr.wikipedia.org/wiki/Niconico) et la couleur du commentaire peut maintenant être personnalisée (pour les osu!supporter uniquement).
 
@@ -63,7 +63,7 @@ Liens :
 
 - [This week (month) in osu! – ppy blog](https://blog.ppy.sh/post/46924535831/this-week-month-in-osu-13)
 - [The end of the MAT](https://osu.ppy.sh/community/forums/topics/129165)
-- [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)
+- [osu! Public Release (09/2007)](https://osu.ppy.sh/community/forums/topics/130144)
 
 ## Mai
 
@@ -82,7 +82,7 @@ Trois nouvelles [Médailles](/wiki/Medals) pour osu!mania ont été publiées (4
 
 ## Juin
 
-Le [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) a commencé. Afin de lutter contre la création de nombreux comptes, la clarté des messages lors de l'inscription a été améliorée et une infographie montrant qu'il n'est pas possible de s'inscrire à partir de téléphones/tablettes a été ajoutée afin d'empêcher les joueurs de créer d'autres comptes pour des raisons personnelles.
+L'[osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) a commencé. Afin de lutter contre la création de nombreux comptes, la clarté des messages lors de l'inscription a été améliorée et une infographie montrant qu'il n'est pas possible de s'inscrire à partir de téléphones/tablettes a été ajoutée afin d'empêcher les joueurs de créer d'autres comptes pour des raisons personnelles.
 
 En plus des mesures de sécurité, les utilisateurs peuvent choisir le mode de jeu par défaut de leur profil (comme [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) et le support de [last.fm](https://last.fm) pour les profils. Les profils d'utilisateurs ont maintenant un classement des performances par pays sur leur profil et un nouveau graphique de pp.
 

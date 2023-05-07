@@ -6,13 +6,13 @@ Getting your beatmap [modded](/wiki/Modding) is an essential step in the [rankin
 
 Before looking for mods, you must first understand the different types of mod requests you can make. The two most commonly used are [normal mod requests](/wiki/Modding/Normal_mod) (NM req) and [mod for mod requests](/wiki/Modding/Mod_for_mod) (M4M req). These are not the only request types, though. There are a few other mod request types which are mainly used in `#modreqs`:
 
-- **Beatmap Nominator request (BN req):** Used only in Beatmap Nominator queues or in `#modreqs`, a BN request is used when you believe your beatmap cannot be improved by regular mods anymore, and requires a more experienced check from a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators).
+- **Beatmap Nominator request (BN req):** Used only in Beatmap Nominator queues or in `#modreqs`, a BN request is used when you believe your beatmap cannot be improved by regular mods anymore, and requires a more experienced check from a [Beatmap Nominator](/wiki/People/Beatmap_Nominators).
 - **Metadata check (Meta check):** Fairly self-explanatory, the [modder](/wiki/Modding/Modder) will check if the metadata of your beatmap is correct. Metadata is often checked in regular mods too.
 - **Hitsound check:** The modder will check your beatmap to make sure that your hitsounding represents the song correctly, is consistent, and is up to ranking standards.
 
 ## Modding queues
 
-Posting your beatmap in modding queues is the most effective and most widely used way of finding people to mod your beatmaps. Modding queues are threads posted in the [Modding Queues forum](https://osu.ppy.sh/community/forums/60) which allow the creator of the thread to find beatmaps to mod, and for others to easily find modders to mod their beatmaps. Using the forum to find mods is straightforward and effective—just follow the steps below to get started:
+Posting your beatmap in modding queues is the most effective and most widely used way of finding people to mod your beatmaps. Modding queues are threads posted in the [Modding Queues forum](https://osu.ppy.sh/community/forums/60) which allow the creator of the thread to find beatmaps to mod, and for others to easily find modders to mod their beatmaps. Using the forum to find mods is straightforward and effective — just follow the steps below to get started:
 
 1. Go to the [Modding Queues forum](https://osu.ppy.sh/community/forums/60).
 2. Browse through the list of queues, and find one that accepts beatmaps from the game mode which you have mapped for. Make sure it is marked as "open" in the title or opening post.

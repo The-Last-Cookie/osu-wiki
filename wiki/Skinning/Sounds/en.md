@@ -150,14 +150,6 @@ Notes:
 
 ---
 
-`menu-charts-click.wav`
-
-Notes:
-
-- Plays when clicking on `Charts` in the main menu.
-
----
-
 `menu-direct-click.wav`
 
 Notes:
@@ -291,14 +283,6 @@ Notes:
 Notes:
 
 - Plays when hovering above Back in the main menu.
-
----
-
-`menu-charts-hover.wav`
-
-Notes:
-
-- Plays when hovering above Charts in the main menu.
 
 ---
 
@@ -447,7 +431,7 @@ Notes:
 Notes:
 
 - Plays when the match is starting.
-- This is also the chat highlight sound.
+- This is also the [chat highlight](/wiki/Client/Interface/Chat_console/Highlight) sound.
 
 ### Metronome
 

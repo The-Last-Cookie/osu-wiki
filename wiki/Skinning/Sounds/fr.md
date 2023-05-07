@@ -1,3 +1,8 @@
+---
+outdated_since: 7f11c0debbe18e861931071cd38678a1ff0118e9
+outdated_translation: true
+---
+
 # Skinning des sons
 
 `.wav`, `.mp3`, et/ou `.ogg` sont des formats valides pour les sons.
@@ -10,7 +15,7 @@
 
 Notes :
 
-- Ce son est joué lorsque le curseur passe sur le osu!cookie dans le menu principal.
+- Ce son est joué lorsque le curseur passe sur l'osu!cookie dans le menu principal.
 
 ---
 
@@ -447,7 +452,7 @@ Notes :
 Notes :
 
 - Ce son est joué lorsque le match commence.
-- Il s'agit également du son des notifications dans le tchat.
+- Il s'agit également du son des [notifications dans le tchat](/wiki/Client/Interface/Chat_console/Highlight).
 
 ### Métronome
 

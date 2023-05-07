@@ -44,6 +44,7 @@ By default, many IRC clients inform you when a user joins or leaves a channel. F
 | [ircII](http://www.eterna.com.au/ircii/) | Type `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Type `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Type `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [Konversation](https://konversation.kde.org/) | Check "Hide Join/Part/Nick Events" under `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` |
 | [KVIrc](https://www.kvirc.net/) | (Refer to [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
 | [mIRC](https://www.mirc.com/) | Go to mIRC Options (`Tools` -> `Options`, or `Alt` + `O`), select `IRC`, click the `Events...` button and select `Hide` for joins and parts |
 | [Quassel IRC](https://quassel-irc.org/) | Right-click inside the chat and choose Joins/Parts/Quits in the "Hide Events" menu |
@@ -77,10 +78,10 @@ Type first few letters of the username, then use `Tab` to cycle through autocomp
 The IRC standard has a concept of channel modes, or sets of actions every user can perform. In osu!Bancho, two modes are used for special groups of chat users:
 
 - `+`, or "voice status": user is connected via external IRC client
-- `@`, or "chat operator status": user is a chat moderator ([GMT](/wiki/People/The_Team/Global_Moderation_Team) or [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@`, or "chat operator status": user is a chat moderator ([GMT](/wiki/People/Global_Moderation_Team) or [NAT](/wiki/People/Nomination_Assessment_Team))
 
 Users connected via osu! client or web site have no prefix.
 
 ### Someone sends messages, but they are not in the list of channel users!
 
-They are either using [the web version of chat](https://osu.ppy.sh/community/chat) or connected via [osu!(lazer)](https://github.com/ppy/osu).
+They are either using [the web version of chat](https://osu.ppy.sh/community/chat) or connected via [osu!(lazer)](/wiki/Client/Release_stream/Lazer).

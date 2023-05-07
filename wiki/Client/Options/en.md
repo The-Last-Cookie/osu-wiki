@@ -14,7 +14,7 @@ This section is about your account, language settings, and updates for osu!
 
 ### Sign-in
 
-If you are not signed in to the game client, it will automatically open the options menu on start-up, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](/wiki/Gameplay/Multiplayer).
+If you are not signed in to the game client, it will automatically open the options menu on start-up, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](/wiki/Client/Interface/Multiplayer).
 
 If you are a guest, these options will be shown:
 
@@ -92,8 +92,7 @@ This section is about the appearance of your game client, parts of the interface
 
 ---
 
-*Note: When the game client is not the active window, the fps limit is dropped to 30fps automatically.*
-
+*Note: When the game client is not the active window, the fps limit is dropped to 30fps automatically.*\
 *Caution to laptop users: using `Unlimited (gameplay)` may cause your laptop to overheat!*
 
 If you open the dropdown list for `Frame Limiter`, you will be presented with these options:
@@ -348,9 +347,9 @@ This section is about chat, spectators, multi, and osu!direct.
 | :-- | :-- | :-- | :-- |
 | `Chat ticker` | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | Checkbox | `Disabled` |
 | `Automatically hide chat during gameplay` | If chat is open during breaks or in-game menus, the game client will automatically hide it when gameplay starts again. | Checkbox | `Enabled` |
-| `Show a notification pop-up when someone says your name` | When someone mentions your username in chat, a notification will appear. | Checkbox | `Enabled` |
+| `Show a notification pop-up when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a notification will appear. | Checkbox | `Enabled` |
 | `Show chat message notifications` | Display a notification, when new chat messages arrive. | Checkbox | `Enabled` |
-| `Play a sound when someone says your name` | When someone mentions your username in chat, a sound will play. | Checkbox | `Enabled` |
+| `Play a sound when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a sound will play. | Checkbox | `Enabled` |
 | `Share your city location with others` | Share your city location in your user card (note that your country is already shared). | Checkbox | `Disabled` |
 | `Show spectators` | Show a list of current spectators on the left of the screen during gameplay. | Checkbox | `Enabled` |
 | `Automatically link beatmaps to spectators` | Send currently-playing beatmap to `#spectator` channel when you have spectators. | Checkbox | `Enabled` |
@@ -377,7 +376,7 @@ This section is about chat, spectators, multi, and osu!direct.
 | `Log private messages` | Private messages will be saved to the `osu!/Logs` folder. | Checkbox | `Disabled` |
 | `Block private messages from non-friends` | Enabling this will restrict private messages to friends only. | Checkbox | `Disabled` |
 | `Chat ignore list (space-separated list)` | Words you put here will be ignored. | Text | *(empty)* |
-| `Chat highlight words (space-separated list)` | Words you put here will be highlighted in chat. | Text | *(empty)* |
+| `Chat highlight words (space-separated list)` | Words you put here will be [highlighted](/wiki/Client/Interface/Chat_console/Highlight) in chat. | Text | *(empty)* |
 
 ## Maintenance
 
@@ -394,7 +393,7 @@ This section is about beatmaps and updates.
 | `Mark all maps as played` | Mark all maps as "played". | Button |
 | `Run osu! updater` | Close the game client and open the updater to search for updates and download if any. | Button |
 
-At the bottom, the version number will be displayed. Clicking this will open the [changelog](/wiki/Glossary/Changelog) for that version in your internet browser.
+At the bottom, the version number will be displayed. Clicking this will open the [changelog](/wiki/Changelog) for that version in your internet browser.
 
 ### Debug
 

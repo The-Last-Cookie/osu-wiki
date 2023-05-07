@@ -36,7 +36,7 @@ Pour les deux registres, toutes les règles de cette partie des critères de sty
 Les noms d'articles, lorsqu'ils sont écrits dans un paragraphe, ne doivent pas prendre de majuscule, sauf s'il s'agit d'un lien qui pointe vers l'article ou d'un nom propre (par exemple, BanchoBot). Voici un exemple :
 
 ```markdown
-Si vous voulez en savoir plus sur le tchat, reportez-vous à [Console de chat](/wiki/Client/Interface/Chat_console).
+Si vous voulez en savoir plus sur le tchat, reportez-vous à [Console de tchat](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Modificateurs de jeu
@@ -183,53 +183,21 @@ Un bon exemple :
 25 octobre 2016 (11:45 UTC)
 ```
 
-## Modes de jeu
-
-Les modes de jeu doivent être écrits comme suit :
-
-- `osu!`
-- `osu!taiko`
-- `osu!catch`
-- `osu!mania`
-
-Il est possible de faire référence aux anciens noms des modes de jeu (par exemple, "Catch the Beat", "Taiko" et "Mania") si l'on parle de l'ancien nom de ce mode de jeu.
-
 ## osu!
 
-Le nom du jeu, osu!, ne doit pas être mis en majuscule ou en italique. La marque officielle osu! ne doit pas utiliser d'espaces. Exemples :
+Lorsque vous mentionnez le jeu lui-même ou l'un des projets ou termes associés, suivez les [directives relatives à l'identité de la marque](/wiki/Brand_identity_guidelines#osu!). Utilisez les noms propres des modes de jeu, tels que `osu!taiko`, sauf dans un contexte historique.
 
-- `osu!academy`
-- `osu!api`
-- `osu!catch`
-- `osu!direct`
-- `osu!keyboard`
-- `osu!mania`
-- `osu!store`
-- `osu!stream`
-- `osu!supporter`
-- `osu!tablet`
-- `osu!taiko`
-- `osu!talk`
-- `osu!tourney`
+### Titres d'utilisateurs
 
 Les titres d'utilisateurs qui incluent `osu!` dans le nom du titre doivent prendre une majuscule. Voici quelques exemples :
 
 - `osu! Alumni`
 - `osu! Champion`
 
-Pour tous les autres termes, osu! doit être traité comme un nom seul. Cela signifie qu'il faut ajouter un espace entre osu! et le nom qu'il modifie. Voici quelques exemples :
+### osu! dans une phrase
 
-- `osu! tournament`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
-- `osu! wiki`
-
----
-
-`osu!` ne doit pas terminer une phrase. Si c'est le cas, utilisez un point (`.`) ou un point d'interrogation pour obtenir `osu!.` ou `osu! ?`.
-
-`osu!` ne doit pas être suivi d'un point d'exclamation (c'est-à-dire `osu! !`). La phrase doit être réécrite de manière à ce que cela ne se produise pas.
+- `osu!` ne devrait pas terminer une phrase. Si c'est le cas, utilisez un point (`.`) ou un point d'interrogation pour obtenir `osu!.` ou `osu! ?`.
+- `osu!` ne doit pas être suivi d'un point d'exclamation (c'est-à-dire `osu! !`). La phrase doit être réécrite de manière à ce que cela ne se produise pas.
 
 ## Terminologie
 
@@ -313,6 +281,10 @@ Les articles doivent utiliser de préférence une grammaire et une syntaxe fran�
 
 La virgule de série, également connue sous le nom de virgule d'Oxford ou de Harvard, doit être utilisée.
 
+### Tirets
+
+Voir la [page Wikipédia concernant les tirets](https://fr.wikipedia.org/wiki/Tiret).
+
 ### Citations
 
 Consultez les [conventions typographiques de Wikipédia concernant les citations](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Citation).
@@ -330,6 +302,18 @@ Exemple :
 > La cigale de la fable, « fort dépourvue », fut contrainte d'aller chercher secours « chez la fourmi sa voisine ».
 
 Par extension, les [mises en valeur](/wiki/Article_styling_criteria/Formatting#mise-en-valeur), les [liens](/wiki/Article_styling_criteria/Formatting#liens) et les parenthèses doivent suivre les mêmes règles de ponctuation (qu'elles englobent une phrase entière ou seulement une partie de celle-ci).
+
+### Bloc de citation
+
+Lorsque vous citez le texte de quelqu'un, précisez la personne citée après la [citation en bloc](/wiki/Article_styling_criteria/Formatting#citations-en-bloc) avec un tiret long (`—`). Si la citation originale provient d'une source non anglophone, précisez-la entre parenthèses.
+
+```markdown
+> svp profitez du jeu
+
+—rrtyui (traduit de {langue})
+```
+
+En général, la source de la citation doit être précisée au-dessus de celle-ci. Voir la [section ci-dessus](#citations) pour un exemple. Lorsque vous citez un article écrit ou autre, et pas nécessairement une personne spécifique, il n'est pas nécessaire de préciser l'auteur sous la citation.
 
 ## Prononciation
 

@@ -6,7 +6,7 @@ outdated: true
 
 # Tournament drawings
 
-The tournament drawings screen is used to livestream the sorting of teams into groups that will compete in the group stages for a tournament. It is only available in the [osu!(lazer)](https://github.com/ppy/osu/releases) client.
+The tournament drawings screen is used to livestream the sorting of teams into groups that will compete in the group stages for a tournament. It is only available in [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 Please note that the osu!(lazer) client is currently under development and there may be bugs.
 
@@ -32,7 +32,7 @@ The drawings screen is now ready to be previewed. It is important to understand 
 From the main menu, press `Ctrl + Shift + D` to access the drawings screen. The following should appear:
 ![](img/main-screen.png "The main drawings screen")
 
-There are two sections to this screen - the main section on the left with the world map as a background, and the control panel section on the right. Please **avoid** livestreaming the control panel.
+There are two sections to this screen: the main section on the left with the world map as a background, and the control panel section on the right. Please **avoid** livestreaming the control panel.
 
 There are 4 buttons in the control panel, let's go over them:
 
@@ -47,7 +47,7 @@ There are 4 buttons in the control panel, let's go over them:
 
 Press the `Begin random` and the `Stop random` buttons. When the scrolling stops on a flag at the centre of the screen, go back to the osu! folder and notice that an additional file has been created, called `drawings_results.txt`.
 
-Open the file and observe the format - this is where the results of the drawings process are stored, and should be imported into further tools to assist in managing the tournament, such as Google Spreadsheets.
+Open the file and observe the format — this is where the results of the drawings process are stored, and should be imported into further tools to assist in managing the tournament, such as Google Spreadsheets.
 
 **Please make sure to save the `drawings_results.txt` file in a safe location before pressing the Reset button, otherwise it will be destroyed!**
 

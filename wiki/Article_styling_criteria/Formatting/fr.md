@@ -16,7 +16,7 @@ Vous trouverez ci-dessous la liste des langues correctement prises en charge par
 | `cs.md` | Tchèque | Česky |
 | `da.md` | Danois | Dansk |
 | `de.md` | Allemand | Deutsch |
-| `gr.md` | Grec | Ελληνικά |
+| `el.md` | Grec | Ελληνικά |
 | `es.md` | Espagnol | Español |
 | `fi.md` | Finlandais | Suomi |
 | `fr.md` | Français | Français |
@@ -70,6 +70,20 @@ outdated: true
 ```
 
 Lorsque vous ajoutez cette balise à un article, vous devez également ajouter des [commentaires](#commentaires) pour expliquer ce qui doit être mis à jour pour supprimer la balise.
+
+### Traductions obsolètes
+
+Les articles traduits qui sont obsolètes doivent utiliser le tag `outdated_translation` lorsque la variante anglaise est mise à jour, à l'exception de reformulations mineures, d'ajustements grammaticaux et autres, qui n'affectent pas le sens de l'article.
+
+```yaml
+outdated_translation: true
+```
+
+Lorsque les traductions deviennent obsolètes, elles doivent également recevoir le tag `outdated_since` qui pointe vers le premier commit où la version anglaise est mise à jour.
+
+```yaml
+outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
+```
 
 ### Tags
 
@@ -326,8 +340,7 @@ Les rubriques ne doivent pas dépasser un niveau d'en-tête de 5 et ne doivent p
 
 ### Titres
 
-*Voir aussi : [Désignation de l'article](#désignation-de-l'article)*
-
+*Voir aussi : [Désignation de l'article](#désignation-de-l'article)*\
 *Attention : Les titres sont analysés en tant que texte brut ; ils ne doivent pas être espacés.*
 
 Le premier titre de tous les articles doit être un titre de niveau 1, c'est-à-dire le titre de l'article. Tous les titres suivants doivent être des [titres de section](#sections). Les titres ne doivent pas contenir de formatage, de liens ou d'images.
@@ -347,16 +360,16 @@ Les titres de section ne doivent pas sauter un niveau de titre (c'est-à-dire ne
 Il est possible de redéfinir l'identifiant d'une section, qui est utilisé pour y accéder directement. Les identifiants personnalisés doivent être utilisés dans le cas où ceux générés automatiquement sont trop longs ou contiennent des signes de ponctuation ou des images complexes :
 
 ```markdown
-## Mon délai de réflexion est passé. Comment puis-je faire appel ? {#appel}
+## Mon délai de réflexion est passé. Comment puis-je faire appel ? {id=appel}
 
-## Raisons de restriction communes et cooldowns {#raisons-communes}
+## Raisons de restriction communes et cooldowns {id=raisons-communes}
 ```
 
 Cette fonction peut également être utilisée pour baliser une partie spécifique de l'article qui n'a pas de titre. Utilisez-la avec parcimonie :
 
 ```markdown
 > Voilà, c'est fait ! Vous êtes sur la bonne voie pour devenir un champion du rythme d'osu!
-{#citation-tutoriel}
+{id=citation-tutoriel}
 ```
 
 ## Listes
@@ -503,12 +516,14 @@ Le texte préformaté (également connu sous le nom de blocs de code) doit être
 
 ## Liens
 
+*Voir également : [Notes de bas de page](#notes-de-bas-de-page)*
+
 Il existe deux types de liens : en ligne et de référence. Les liens en ligne ont deux styles.
 
 Voici un exemple des deux styles en ligne :
 
 ```markdown
-[Modificateurs de jeu](/wiki/Game_modifier)
+[Modificateurs de jeu](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -556,8 +571,8 @@ Voici de bons exemples :
 
 ```markdown
 [Critères de style des articles](/wiki/Article_styling_criteria)
-[Developers](/wiki/People/The_Team/Developers)
-[Developers](/wiki/People/The_Team/Developers#game-client-developers)
+[Developers](/wiki/People/Developers)
+[Developers](/wiki/People/Developers#game-client-developers)
 ```
 
 *Remarque : ne pas traduire les liens entre parenthèses, sinon la redirection ne fonctionnera plus.*
@@ -588,7 +603,7 @@ L'URL de la barre d'adresse de votre navigateur doit être copiée telle qu'elle
 
 Tous les noms d'utilisateur doivent être liés à la première occurrence. Les autres occurrences sont facultatives, mais doivent être cohérentes tout au long de l'article pour tous les noms d'utilisateur. S'il est difficile de déterminer l'identifiant de l'utilisateur, il peut être ignoré.
 
-Lorsque vous créez un lien vers un profil d'utilisateur, le numéro d'identification de l'utilisateur doit être utilisé. Utilisez le nouveau site web (`https://osu.ppy.sh/users/{username})`) pour obtenir l'id de l'utilisateur.
+Lorsque vous créez un lien vers un profil d'utilisateur, le numéro d'identification de l'utilisateur doit être utilisé. Utilisez le nouveau site web (`https://osu.ppy.sh/users/{username}`) pour obtenir l'id de l'utilisateur.
 
 Le texte du lien de l'utilisateur doit être le nom actuel de l'utilisateur.
 
@@ -654,6 +669,8 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 
 Les images doivent utiliser le style de lien en ligne. Les définitions des liens de référence doivent être placées au bas de l'article.
 
+Tous les blocs d'images de la page (qui n'ont rien d'autre sur la même ligne) sont combinés en une seule galerie, qui peut être parcourue à l'aide d'icônes fléchées des deux côtés de l'écran, de raccourcis clavier ou de balayages de l'écran sur les appareils mobiles.
+
 ### Texte alternatif et texte de titre
 
 Le texte figurant dans la première paire de crochets (*texte alternatif*) doit décrire l'image littéralement. Il est utilisé par les lecteurs d'écran ou lorsque le chargement de l'image échoue. Il peut être omis s'il est identique au texte du titre ou si l'image est incluse uniquement à des fins décoratives.
@@ -664,9 +681,9 @@ Le texte entre guillemets (*texte du titre*) doit donner un contexte supplément
 
 Si une image est le seul contenu d'un paragraphe, elle s'affiche comme un bloc centré. Sinon, elle se fond dans le texte en ligne qui l'entoure.
 
-Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image.
+Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image. Évitez d'ajouter des [commentaires HTML](#commentaires) ou tout autre texte sur la même ligne que l'image, car la légende ne sera pas affichée.
 
-Les images en bloc sont généralement associées au formatage des infobox afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
+Les images en bloc sont généralement associées au formatage des [infoboxes](#infoboxes) afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
 
 ```markdown
 ::: Infobox
@@ -793,14 +810,92 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 | Maria | Pas de concours | Mocha |  |
 ```
 
+## Infoboxes
+
+Une infobox est un bloc de largeur fixe qui est aligné sur le côté droit de l'article. Il peut contenir une image pertinente, qui explique le texte environnant, ou un bloc de navigation qui renvoie à d'autres articles de la même catégorie.
+
+Exemple d'utilisation, rendu à droite (ou au-dessus, sur les petits écrans) :
+
+::: Infobox
+![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
+:::
+
+```markdown
+::: Infobox
+![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
+:::
+```
+
+Les infoboxes doivent être utilisées avec prudence dans les cas suivants :
+
+- Les sections courtes : le titre de la section suivante apparaît sous les infoboxes, laissant un grand vide après le texte.
+- Plusieurs images à la fois : utilisez plutôt des infoboxes individuelles pour un meilleur rendu.
+
+Seuls les niveaux de titre 4 et 5 sont autorisés dans une infobox. Ceux-ci n'apparaissent pas dans la table des matières et tout ce qui est inférieur est trop grand. Toute [erreur de CI check](/wiki/osu!_wiki/Maintenance#ci-checks) peut avoir besoin d'être contournée pour cette raison.
+
+## Notes de bas de page
+
+Les notes de bas de page sont de courtes notes situées à la fin de la page. Elles sont utilisées pour citer des sources ou fournir des informations d'arrière-plan qui, autrement, perturberaient le contenu de l'article. Les notes de bas de page peuvent contenir du texte mis en forme et des liens.
+
+Dans l'osu! wiki, les notes de bas de page sont implémentées en utilisant une syntaxe spéciale (`[^identifiant]`). Les notes de bas de page peuvent utiliser n'importe quel identifiant, mais elles seront automatiquement rendues en exposant avec des numéros croissants dans l'ordre de leur première apparition. Les traductions ne doivent pas modifier les identifiants des notes de bas de page.
+
+Les notes de bas de page sont placées directement après les mots, expressions ou phrases qu'elles expliquent, sans espace entre elles. Ces références doivent être placées après la ponctuation, à l'exception des parenthèses, lorsqu'elles se rapportent au contenu, et des tirets.
+
+Les notes de bas de page elles-mêmes doivent être placées dans un titre de second niveau distinct à la fin de l'article. Selon le contenu, le titre utilisé peut être "Références", "Notes" ou "Notes et références".
+
+Exemples d'utilisation correcte :
+
+```markdown
+L'osu! wiki est un projet destiné à remplacer l'ancien système de FAQ.[^wiki-faq] Il a été nommé d'après le jeu de rythme osu![^osu] et la plus grande encyclopédie en ligne ouverte, Wikipédia. Dès le début, il a attiré des traducteurs[^wiki-tl] et des rédacteurs compétents.
+
+## Références
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Citations
+
+Les citations, ou références, sont utilisées pour identifier une source d'information. Les citations par le biais de notes de bas de page doivent être préférées aux liens en ligne.
+
+Les citations doivent, dès que possible, préciser l'auteur, la date, le service/la plateforme et le titre. Le format exact peut varier en fonction des citations, avec une préférence pour la brièveté.
+
+Exemples :
+
+```markdown
+La première version de l'osu!api a été mise à disposition le 2 juillet 2013.[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise] Une nouvelle version de l'API, publiée plusieurs années plus tard, contient beaucoup plus de capacités.[^api-v2-2020] Le versionnage des points de terminaison est courant parmi les API web.[^web-api]
+
+## Références
+
+[^api-first-usage]: [Forum de discussion par peppy (02/07/2013) "osu!api bêta ouverte"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Post par Menshi (02/11/2013) sur "osu!api bêta ouverte"](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tweet de @ppy (20/03/2020)](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: ["Web API" sur Wikipedia](https://en.wikipedia.org/wiki/Web_API)
+```
+
+### Notes
+
+Les notes de bas de page peuvent être utilisées pour stocker des explications ou des remarques tangentielles qui ne peuvent pas être intégrées sans nuire à la lisibilité de l'article, ou qui sont moins importantes que l'article lui-même. Ces notes de bas de page peuvent utiliser du texte libre.
+
+Exemple : 
+
+```markdown
+Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de staff non accompli et sans réputation.[^staff]
+
+## Notes
+
+[^staff]: Un staff *inexpérimenté* est vaguement défini comme quelqu'un qui joue à osu! depuis moins d'une heure au total.
+```
+
 ## Citations en bloc
 
-Les citations en bloc sont limitées à la citation du texte d'une personne. Elles ne doivent pas être utilisées pour formater le texte. Le nom de la personne citée qui suit la citation doit être précédé d'un tiret (`-`) comme suit :
+La citation est limitée à [citer quelqu'un ou quelque chose](/wiki/Article_styling_criteria/Writing#bloc-de-citation). Elle ne doit pas être utilisée pour formater le texte autrement.
 
 ```markdown
 > profitez du jeu
 
--rrtyui
+—rrtyui
 ```
 
 ## Ruptures thématiques

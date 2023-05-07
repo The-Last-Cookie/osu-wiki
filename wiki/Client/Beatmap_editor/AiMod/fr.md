@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f190215ac0713a6c6e4d92a6708f6f335c50d7ea
+---
+
 # AiMod
 
 ![](img/AiMod-FR.png "La fenêtre AiMod liste les avertissements et les erreurs concernant une beatmap.")
@@ -126,7 +131,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
-| Le stack leniency est supérieure à 0,9 ou inférieure à 0,3. | Le stack leniency dans l'onglet Advanced de Song Setup est réglé sur 2 ou 10. | Réglez le slider de manière à ce qu'il se situe entre 3 et 9. |
+| Le [stack leniency](/wiki/Beatmap/Stack_leniency) est supérieure à 0,9 ou inférieure à 0,3. | Le stack leniency dans l'onglet Advanced de Song Setup est réglé sur 2 ou 10. | Réglez le slider de manière à ce qu'il se situe entre 3 et 9. |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->L'artiste romanisé contient de l'unicode. |  |  |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Le titre romanisé contient de l'unicode. |  |  |
 | Le compte à rebours n'est pas autorisé en mode osu!mania. | beatmaps osu!mania uniquement ! | Décochez la case `Enable countdown` dans l'onglet `Design` de l'onglet Song Setup. |
@@ -166,13 +171,9 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 
 ## Défauts
 
-<!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
-
 - **AiMod ne peut pas détecter un grand nombre de problèmes** qui sont considérés comme non classables par les [critères de classement](/wiki/Ranking_Criteria), tels que les objets potentiellement mal rythmés, les hitsounds retardés, les fichiers d'arrière-plan de plus de 2,5 Mo, etc.
 - **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les beatmaps nécessitent deux difficultés du mode osu! sur une beatmap [marathon](/wiki/Beatmap/Marathon) et que l'option [kiai time](/wiki/Gameplay/Kiai_time) soit activée pendant moins de 15 secondes.
 - **Si `Check distance snap` est activé, AiMod ne vérifiera pas la distance snap entre les combos.**
 - **S'il y a plusieurs fichiers MP3 dans le dossier beatmap, AiMod peut vous avertir de la présence de plusieurs fichiers**, Toutefois, les fichiers MP3 peuvent également être utilisés pour des effets sonores tels que des applaudissements.
 
-Il est recommandé d'utiliser d'autres programmes tels que [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases) par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) en plus d'AiMod si vous cherchez à faire [classer](/wiki/Beatmap/Category#classée) votre beatmap. D'autres programmes sont plus à jour avec les critères de classement actuels et peuvent détecter beaucoup plus de problèmes qu'AiMod. Cependant, n'ignorez pas complètement AiMod car certaines règles des critères de classement en dépendent.
-
-[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+Il est recommandé d'utiliser d'autres programmes tels que [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases) par ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) en plus d'AiMod si vous cherchez à faire [classer](/wiki/Beatmap/Category#classée) votre beatmap. D'autres programmes sont plus à jour avec les critères de classement actuels et peuvent détecter beaucoup plus de problèmes qu'AiMod. Cependant, n'ignorez pas complètement AiMod car certaines règles des critères de classement en dépendent.

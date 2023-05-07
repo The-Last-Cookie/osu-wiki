@@ -2,7 +2,7 @@
 
 ![](img/logo.png "osu!academy logo")
 
-The **osu!academy** is a video series hosted by the [osu! team](/wiki/People/The_Team) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in between.
+The **osu!academy** is a video series hosted by the [osu! team](/wiki/People/osu!_team) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in between.
 
 Throughout the years, osu!academy has been hosted by multiple members of the community, the most prominent of which being [ztrot](https://osu.ppy.sh/users/6347), who has maintained the series for many years and is the face of the project.
 
@@ -14,7 +14,7 @@ The main series of osu!academy serves as a general introduction to the broad wor
 
 | No. | Title | Description |
 | :-: | :-- | :-- |
-| 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) covers the process of installing the osu!(lazer) client. |
+| 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) covers the process of installing the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client. |
 | 1 | [osu! Installation/Account Setup/Beatmap Downloads](https://www.youtube.com/watch?v=0V5GwzmMhpU) | [pishifat](https://osu.ppy.sh/users/3178418) explains how to install osu!, create an account, and download new beatmaps. |
 | 2 | [Standard Gameplay/Settings Adjustments](https://www.youtube.com/watch?v=mswLEXK0eDk) | [ztrot](https://osu.ppy.sh/users/6347) goes over the osu! mode, and explains how to adjust gameplay settings. |
 | 3 | [Introduction to osu!mania](https://www.youtube.com/watch?v=UAomychlbic) | [LoliFlan](https://osu.ppy.sh/users/447818) covers the basics of the osu!mania mode, including gameplay, keyboard shortcuts, hit objects, and more. |
@@ -39,7 +39,7 @@ The main series of osu!academy serves as a general introduction to the broad wor
 | 19 | [Reporting Misbehaving Players](https://www.youtube.com/watch?v=ZoBAZCl9wXY) | [ztrot](https://osu.ppy.sh/users/6347) explains how to report users, who break the community rules, in-game and on the website. |
 | 20 | [Video Encoding](https://www.youtube.com/watch?v=exyuI9lv_OI) | [ztrot](https://osu.ppy.sh/users/6347) explains how to change the bitrate of your beatmap's video file to meet the ranking criteria. |
 | 21 | [Basic Live Streaming Guide](https://www.youtube.com/watch?v=59Tm9LvYk3Q) | [ztrot](https://osu.ppy.sh/users/6347) presents how to use OBS to livestream osu! on Twitch. |
-| 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) presents the benefits of becoming an osu!supporter, including osu!direct—an overlay that allows downloading beatmaps in-game. |
+| 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) presents the benefits of becoming an osu!supporter, including osu!direct — an overlay that allows downloading beatmaps in-game. |
 | 23 | [Community Modding](https://www.youtube.com/watch?v=MxlB__wjt9A) | [ztrot](https://osu.ppy.sh/users/6347) and [Shiro](https://osu.ppy.sh/users/113005) explain the concept of community modding, a team-based modding effort. |
 | 24 | [Streaming Improvement (Gameplay)](https://www.youtube.com/watch?v=pq33jvMitRk) | [ztrot](https://osu.ppy.sh/users/6347) and [Kyonko Hizara](https://osu.ppy.sh/users/444868) present tips on how to improve your streaming ability in the osu! mode. |
 | 25 | *Video removed* | *N/A* |

@@ -36,7 +36,7 @@ This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot o
 | `ScreenshotFormat` | String | Screenshot format |
 | `MenuSnow` | 0 or 1 | Snow |
 | `MenuParallax` | 0 or 1 | Parallax |
-| `ShowMenuTips` | 0 or 1 | Menu tips |
+| `ShowMenuTips` | 0 or 1 | [Menu tips](/wiki/Client/Menu_tips) |
 | `MenuVoice` | 0 or 1 | Interface voices |
 | `MenuMusic` | 0 or 1 | osu! music theme |
 | `SeasonalBackgrounds` | String | Seasonal backgrounds |
@@ -83,9 +83,9 @@ This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot o
 | `EditorStacking` | 0 or 1 | Stacking |
 | `Ticker` | 0 or 1 | Chat ticker |
 | `AutoChatHide` | 0 or 1 | Automatically hide chat during gameplay |
-| `ChatHighlightName` | 0 or 1 | Show a notification pop-up when someone says your name |
+| `ChatHighlightName` | 0 or 1 | Show a notification pop-up when someone [says your name](/wiki/Client/Interface/Chat_console/Highlight) |
 | `ChatMessageNotification` | 0 or 1 | Show chat message notifications |
-| `ChatAudibleHighlight` | 0 or 1 | Play a sound when someone says your name |
+| `ChatAudibleHighlight` | 0 or 1 | Play a sound when someone [says your name](/wiki/Client/Interface/Chat_console/Highlight) |
 | `DisplayCityLocation` | 0 or 1 | Share your city location with others |
 | `ShowSpectators` | 0 or 1 | Show spectators |
 | `AutoSendNowPlaying` | 0 or 1 | Automatically link beatmaps to spectators |
@@ -102,7 +102,7 @@ This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot o
 | `LogPrivateMessages` | 0 or 1 | Log private messages |
 | `BlockNonFriendPM` | 0 or 1 | Block private messages from non-friends |
 | `IgnoreList` | Space-separated list of strings | Chat ignore list |
-| `HighlightWords` | Space-separated list of strings | Chat highlight words |
+| `HighlightWords` | Space-separated list of strings | Chat [highlight](/wiki/Client/Interface/Chat_console/Highlight) words |
 
 ### Key binds
 
@@ -198,8 +198,8 @@ More osu!mania layout options can be found in the current skin's [skin.ini](/wik
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `EditorGridSize` | Integer | Grid size in [osu! pixels](/wiki/osupixel) |
-| `EditorGridSizeDesign` | Integer | Design grid size in [osu! pixels](/wiki/osupixel) |
+| `EditorGridSize` | Integer | Grid size in [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
+| `EditorGridSizeDesign` | Integer | Design grid size in [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | `EditorDim` | 0 or 1 | Whether or not the background will be dimmed while test playing |
 | `EditorGrid` | 0 or 1 | Whether or not grid snap is enabled |
 | `EditorBeatDivisor` | Integer | Last used beat snap divisor |
@@ -260,14 +260,14 @@ More osu!mania layout options can be found in the current skin's [skin.ini](/wik
 | `ConfirmExit` | 0 or 1 | Whether or not osu! will ask for confirmation before exiting the game |
 | `CustomFrameLimit` | Integer | Third FPS limiter option available in-game |
 | `Display` | Integer | Index of the monitor that osu! should open on |
-| `EditorTip` | Integer | Index of the next editor tip to be shown |
+| `EditorTip` | Integer | Index of the next [editor tip](/wiki/Client/Menu_tips#editor) to be shown |
 | `GuideTips` | String | Tracks guide tips that have been shown before so that they aren't shown again |
 | `HighResolution` | 0 or 1 | Forces HD skin element support |
 | `IgnoreBarline` | 0 or 1 | Whether or not osu!mania barlines should be hidden |
 | `LastVersion` | String | Current client version |
 | `LastVersionPermissionsFailed` | String | Client version that last needed computer admin permissions to complete an update |
 | `LowResolution` | 0 or 1 | Forces SD skin elements to be used (overrides `HighResolution`) |
-| `MenuTip` | Integer | Index of the next menu tip to be shown |
+| `MenuTip` | Integer | Index of the next [menu tip](/wiki/Client/Menu_tips#main-menu) to be shown |
 | `MyPcSucks` | 0 or 1 | Disables all fancy graphics settings |
 | `OverrideRefreshRate` | 0 or 1 | Whether or not `RefreshRate` is used |
 | `RefreshRate` | Integer | Custom refresh rate |

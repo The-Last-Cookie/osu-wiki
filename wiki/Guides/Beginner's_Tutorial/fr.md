@@ -4,7 +4,7 @@ Bienvenue dans le tutoriel pour débutants d'osu! Le monde d'osu! peut parfois �
 
 ## Types d'entrées
 
-*Page principale : [Styles de jeu](/wiki/Play_style)*
+*Page principale : [Styles de jeu](/wiki/Gameplay/Play_style)*
 
 Par défaut, beaucoup de joueurs commenceront par utiliser la souris, car c'est de loin l'outil de visée le plus rapide. Mais il existe en fait plusieurs moyens d'entrée pour contrôler le curseur et faire apparaître les cercles :
 
@@ -104,7 +104,7 @@ Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. 
 
 *Voir également : [Skinning](/wiki/Skinning)*
 
-Il y a beaucoup, beaucoup de skins parmi lesquels choisir ; vous pouvez les trouver sur les forums, dans le chat, ou même en demandant aux autres utilisateurs ! Bien qu'ils n'améliorent pas votre jeu, ils peuvent vous aider à vous motiver ou à rendre le jeu plus agréable à regarder. Ou, si vous préférez ne pas avoir beaucoup de HUD, vous pouvez trouver un skin avec une approche minimale. Vous pouvez même trouver des skins créés par des [professionnels](https://osu.ppy.sh/community/forums/topics/87675) et voir ce qui fait le succès de ces skins. Certains skins ont été construits pour faciliter la vue, tandis que d'autres sont excentriques et juste pour le plaisir. Hélas, c'est une autre façon de tirer plus de plaisir d'osu! et de rendre votre expérience en gravissant les échelons un peu plus agréable.
+Il y a beaucoup, beaucoup de skins parmi lesquels choisir ; vous pouvez les trouver sur les forums, dans le tchat, ou même en demandant aux autres utilisateurs ! Bien qu'ils n'améliorent pas votre jeu, ils peuvent vous aider à vous motiver ou à rendre le jeu plus agréable à regarder. Ou, si vous préférez ne pas avoir beaucoup de HUD, vous pouvez trouver un skin avec une approche minimale. Vous pouvez même trouver des skins créés par des [professionnels](https://osu.ppy.sh/community/forums/topics/87675) et voir ce qui fait le succès de ces skins. Certains skins ont été construits pour faciliter la vue, tandis que d'autres sont excentriques et juste pour le plaisir. Hélas, c'est une autre façon de tirer plus de plaisir d'osu! et de rendre votre expérience en gravissant les échelons un peu plus agréable.
 
 ## Beatmaps pour débutants
 

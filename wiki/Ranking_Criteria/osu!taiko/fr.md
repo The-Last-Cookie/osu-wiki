@@ -1,13 +1,13 @@
 ---
-outdated: true
-outdated_since: d633a607717a959ee2c6371c9afdd52f951c8667
+outdated_translation: true
+outdated_since: c4cb59021d4e076aea3aa13c257a8b0a7fb70a6c
 ---
 
 # Critères de classement d'osu!taiko
 
-Les **critères de classement d'osu!taiko** sont des règles et des directives qui s'appliquent à la création de difficultés spécifiques à osu!taiko. Pour qu'une difficulté spécifique à osu!taiko soit classée, il est obligatoire que la création obéisse aux critères énumérés. Bien que **toutes les règles doivent être suivies en toute circonstance**, les directives peuvent être ignorées dans des circonstances exceptionnelles. Ces circonstances exceptionnelles doivent être justifiées par une explication exhaustive de la raison pour laquelle la directive a été ignorée et pourquoi le fait de ne pas l'ignorer nuira à la qualité globale de la création.
+***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
 
-Ces règles et directives ont été discutées dans le [sous-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). De nouvelles règles peuvent être suggérées dans ce forum et cette page sera mise à jour une fois que les discussions auront abouti à un accord.
+Cette liste de **critères de classement d'osu!taiko** définit les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!taiko](/wiki/Game_mode/osu!taiko) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glossaire
 
@@ -143,8 +143,8 @@ Si une difficulté Futsuu est requise et utilisée comme *difficulté la plus fa
 - **Les patterns en 1/4 ne doivent pas dépasser cinq notes.** Tout ce qui est plus long risque d'être trop éprouvant pour les joueurs intermédiaires.
 - **Le snapping principal doit consister principalement en des rythmes 1/2, 1/1 ou plus lents.** L'utilisation occasionnelle de rythmes en 1/4 est acceptable.
 - **Il doit y avoir au moins 1/2 de distance entre un spinner et la note qui la précède.** Cela permet de s'assurer qu'ils ne se chevauchent pas de manière substantielle et de garantir la lisibilité.
-- **Au moins un moment de repos de 3/2 ou plus doit être inséré après 16/1 à 20/1 de mapping continu.** L'utilisation moins fréquente de moments de repos est acceptable si le rythme de la musique rend les moments de repos contre-intuitifs ou si la partie mappée en continu est globalement plus indulgente pour le joueur.
-- **La manipulation du slider velocity est autorisée**, mais le slider velocity ne doit être modifié que pour les sections de la musique ayant des rythmes différents et ne doit pas être radicalement variable.
+- **Au moins un moment de repos de 3/2 ou plus doit être inséré après 16/1 à 20/1 de mapping continu.** Utiliser au moins 3 moments de repos consécutifs qui sont en 1/1 est un substitut acceptable si le rythme de la musique rend les moments de repos contre-intuitifs ou si la partie mappée en continu est globalement plus indulgente pour le joueur.
+- **La manipulation de la slider velocity est autorisée**, mais la slider velocity ne doit être modifiée que pour les sections de la musique ayant des rythmes différents et ne doit pas être radicalement variable.
 - **Les patterns 1/4 avec un ou plusieurs changements de couleur doivent être utilisés avec parcimonie.** Ils doivent être évités en conjonction avec d'autres patterns de cette nature, car le public cible de ce niveau de difficulté n'est pas habitué à des patterns de cette complexité.
 - **Les patterns de 1/4 qui sont plus longs que trois notes doivent consister en un changement de couleur au maximum, qui doit avoir lieu au début ou à la fin du pattern.** Des patterns plus complexes que cela seraient trop exigeants pour les joueurs intermédiaires. Ces patterns doivent être suivis d'un moment de repos.
 

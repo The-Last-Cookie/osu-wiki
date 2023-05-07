@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
 ---
 
@@ -40,7 +40,7 @@ Os seguintes comandos de *chat* são fornecidos para gerenciamento remoto de sal
 - `!mp addref <username> [<username>] …` - Adiciona um árbitro para a sala. Um máximo de 8 árbitros podem ser adicionados. Apenas o criador da sala pode adicionar um árbitro.
   - Árbitros devem entrar na sala dentro do jogo, ou entrar no canal de *chat* da sala com `/join #mp_<room_id>` no IRC.
   - Árbitros podem gerenciar a sala como o criador, porém não podem adicionar ou remover outros árbitros.
-  - O [cliente osu!tourney](/wiki/osu!tourney) mostrará o *chat* da sala para árbitros.
+  - O [cliente osu!tourney](/wiki/osu!_tournament_client/osu!tourney) mostrará o *chat* da sala para árbitros.
 - `!mp removeref <username> [<username>] …` - Remove um árbitro da sala. Apenas o criador da sala pode remover um árbitro.
 - `!mp listrefs` - Lista todos os árbitros na sala.
 - `!mp close` - Fecha a sala.

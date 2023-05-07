@@ -14,14 +14,14 @@ Dieser Abschnitt ist über deinen Account, Spracheinstellungen und Aktualisierun
 
 ### Einloggen
 
-Wenn du nicht in den Spiel-Client eingeloggt bist, wird das Optionsmenü automatisch beim Start geöffnet und du wirst aufgefordert, dich einzuloggen. Du kannst das durch das Drücken von `Esc`, das Klicken der Zurück-Taste oder durch das Navigieren zur Songauswahl ignorieren. Sofern du dich nicht einloggst, wird der Spiel-Client dich als "Guest" kennzeichnen und du wirst nicht in der Lage sein, Online-Scores abzurufen, Scores einzureichen oder [Multi](/wiki/Gameplay/Multiplayer) zu spielen.
+Wenn du nicht in den Spiel-Client eingeloggt bist, wird das Optionsmenü automatisch beim Start geöffnet und du wirst aufgefordert, dich einzuloggen. Du kannst das durch das Drücken von `Esc`, das Klicken der Zurück-Taste oder durch das Navigieren zur Songauswahl ignorieren. Sofern du dich nicht einloggst, wird der Spiel-Client dich als "Guest" kennzeichnen und du wirst nicht in der Lage sein, Online-Scores abzurufen, Scores einzureichen oder [Multi](/wiki/Client/Interface/Multiplayer) zu spielen.
 
 Wenn du ein Gast bist, stehen dir diese Optionen zur Verfügung:
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Benutzername` | Gebe deinen Benutzernamen an. | Text | *(leer)* |
-| `Passwort` | Gebe dein Passwort an. | Passwort | *(leer)* |
+| `Benutzername` | Gib deinen Benutzernamen an. | Text | *(leer)* |
+| `Passwort` | Gib dein Passwort an. | Passwort | *(leer)* |
 | `Benutzername speichern` | Sofern angekreuzt, wird der Spiel-Client den eingegebenen Benutzernamen speichern. | Checkbox | `Aktiviert` |
 | `Passwort speichern` | Sofern angekreuzt, wird der Spiel-Client das eingegebene Passwort speichern. Dadurch bleibst du eingeloggt. | Checkbox | `Deaktiviert` |
 | `Einloggen` | Logge dich mit den angegebenen Anmeldedaten bei osu! ein. Das Drücken von `Enter` im Benutzernamen- oder Passwortfeld funktioniert ebenfalls. | Button |  |
@@ -92,8 +92,7 @@ Dieser Abschnitt ist über das Aussehen des Spiel-Clients, Teile der Benutzerobe
 
 ---
 
-*Tipp: Wenn der Spiel-Client nicht das aktive Fenster ist, dann wird das FPS-Limit automatisch auf 30 FPS gesetzt.*
-
+*Anmerkung: Wenn der Spiel-Client nicht das aktive Fenster ist, dann wird das FPS-Limit automatisch auf 30 FPS gesetzt.*\
 *Vorsicht für Laptop-Nutzer: `Unbegrenzt (nur im Spiel)` zu benutzen, kann dafür sorgen, dass dein Laptop überhitzt!*
 
 Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen sehen:
@@ -348,9 +347,9 @@ Dieser Abschnitt ist über den Chat, Zuschauer, Mehrspieler und osu!direct.
 | :-- | :-- | :-- | :-- |
 | `Chat-Ticker` | Zeigt neue Chatnachrichten am unteren Bildschirmrand an. Die Nachricht ist von dem Kanal, den du gerade ausgewählt hast. | Checkbox | `Deaktiviert` |
 | `Chat automatisch ausblenden` | Wenn der Chat während Pausen oder in Spiel-Menüs offen ist, wird der Spiel-Client den Chat automatisch verbergen, sobald das Spiel weitergeht. | Checkbox | `Aktiviert` |
-| `Bei Highlight Hinweis-Popup anzeigen` | Wenn jemand deinen Nutzernamen im Chat erwähnt, wird eine Nachricht erscheinen. | Checkbox | `Aktiviert` |
+| `Bei Highlight Hinweis-Popup anzeigen` | Wenn jemand deinen [Nutzernamen im Chat erwähnt](/wiki/Client/Interface/Chat_console/Highlight), wird eine Nachricht erscheinen. | Checkbox | `Aktiviert` |
 | `Über neue Chatnachrichten informieren` | Zeigt eine Nachricht an, sobald neue Chatnachrichten ankommen. | Checkbox | `Aktiviert` |
-| `Bei Highlight Sound abspielen` | Wenn jemand deinen Nutzernamen im Chat erwähnt, wird ein Sound abgespielt. | Checkbox | `Aktiviert` |
+| `Bei Highlight Sound abspielen` | Wenn jemand deinen [Nutzernamen im Chat erwähnt](/wiki/Client/Interface/Chat_console/Highlight), wird ein Sound abgespielt. | Checkbox | `Aktiviert` |
 | `Deinen Standort mit anderen teilen` | Teile deine Stadt in deiner Benutzerkarte (bedenke, dass dein Land bereits dort angezeigt wird). | Checkbox | `Deaktiviert` |
 | `Zuschauer-Liste während des Spielens anzeigen` | Zeigt eine Liste an aktuellen Zuschauern auf der linken Seite des Bildschirms während des Spielens. | Checkbox | `Aktiviert` |
 | `Automatisch Beatmaps für Zuschauer verlinken` | Sende die aktuell aktive Beatmap in den Kanal `#spectator`, falls du Zuschauer hast. | Checkbox | `Aktiviert` |
@@ -377,7 +376,7 @@ Dieser Abschnitt ist über den Chat, Zuschauer, Mehrspieler und osu!direct.
 | `Private Nachrichten automatisch speichern` | Private Nachrichten werden im Ordner `osu!/Logs` gespeichert. | Checkbox | `Deaktiviert` |
 | `Private Nachrichten nur von Freunden` | Sofern aktiviert, werden nur private Nachrichten von Freunden akzeptiert. | Checkbox | `Deaktiviert` |
 | `Ignorierliste (leerzeichengetrennt)` | Wörter, die du hier platzierst, werden ignoriert. | Text | *(leer)* |
-| `Highlight-Wörter (leerzeichengetrennt)` | Wörter, die du hier platzierst, werden im Chat hervorgehoben. | Text | *(leer)* |
+| `Highlight-Wörter (leerzeichengetrennt)` | Wörter, die du hier platzierst, werden [im Chat hervorgehoben](/wiki/Client/Interface/Chat_console/Highlight). | Text | *(leer)* |
 
 ## Wartung
 
@@ -394,7 +393,7 @@ Dieser Abschnitt ist über Beatmaps und Aktualisierungen.
 | `Alle Maps als "Gespielt" markieren` | Markiert alle Maps als "Gespielt". | Button |
 | `osu!-Updater starten` | Schließt den Spiel-Client und öffnet den Updater, um nach Aktualisierungen zu suchen und herunterzuladen, sofern verfügbar. | Button |
 
-Weiter unten wird die Versionsnummer angezeigt. Bei einem Klick wird das [Änderungsprotokoll](/wiki/Glossary/Changelog) für diese Version in deinem Webbrowser geöffnet.
+Weiter unten wird die Versionsnummer angezeigt. Bei einem Klick wird das [Änderungsprotokoll](/wiki/Changelog) für diese Version in deinem Webbrowser geöffnet.
 
 ### Debug
 

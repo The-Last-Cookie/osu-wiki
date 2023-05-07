@@ -36,7 +36,7 @@ Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pe
 | `ScreenshotFormat` | Teks | Format Screenshot |
 | `MenuSnow` | 0 atau 1 | Tampilkan visualisasi salju di menu utama |
 | `MenuParallax` | 0 atau 1 | Efek paralaks |
-| `ShowMenuTips` | 0 atau 1 | Tampilkan ragam fakta ringan pada menu utama |
+| `ShowMenuTips` | 0 atau 1 | Tampilkan [ragam fakta](/wiki/Client/Menu_tips) ringan pada menu utama |
 | `MenuVoice` | 0 atau 1 | Putar suara antarmuka |
 | `MenuMusic` | 0 atau 1 | Gunakan musik khusus osu! |
 | `SeasonalBackgrounds` | Teks | Seasonal backgrounds |
@@ -83,9 +83,9 @@ Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pe
 | `EditorStacking` | 0 atau 1 | Penumpukan |
 | `Ticker` | 0 atau 1 | Tampilkan chat ticker |
 | `AutoChatHide` | 0 atau 1 | Otomatis sembunyikan chat ketika bermain |
-| `ChatHighlightName` | 0 atau 1 | Tampilkan pop-up ketika Anda di-highlight |
+| `ChatHighlightName` | 0 atau 1 | Tampilkan pop-up ketika Anda di-[highlight](/wiki/Client/Interface/Chat_console/Highlight) |
 | `ChatMessageNotification` | 0 atau 1 | Perlihatkan notifikasi pemberitahuan pesan |
-| `ChatAudibleHighlight` | 0 atau 1 | Mainkan suara ketika nama Anda disebut. |
+| `ChatAudibleHighlight` | 0 atau 1 | Mainkan suara ketika [nama Anda disebut](/wiki/Client/Interface/Chat_console/Highlight). |
 | `DisplayCityLocation` | 0 atau 1 | Tampilkan lokasi kota Anda kepada pengguna lain |
 | `ShowSpectators` | 0 atau 1 | Tampilkan daftar penonton selama permainan |
 | `AutoSendNowPlaying` | 0 atau 1 | Kirim beatmap ke kanal #spectator secara otomatis |
@@ -102,7 +102,7 @@ Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pe
 | `LogPrivateMessages` | 0 atau 1 | Simpan catatan(log) pesan pribadi secara otomatis |
 | `BlockNonFriendPM` | 0 atau 1 | Tolak pesan pribadi dari pemain selain teman Anda |
 | `IgnoreList` | Daftar teks yang dipisahkan oleh spasi | Daftar pengabaian |
-| `HighlightWords` | Daftar teks yang dipisahkan oleh spasi | Daftar kata yang disorot |
+| `HighlightWords` | Daftar teks yang dipisahkan oleh spasi | Daftar kata yang [disorot](/wiki/Client/Interface/Chat_console/Highlight) |
 
 ### Konfigurasi tombol
 
@@ -198,8 +198,8 @@ Opsi tata letak pada osu!mania lebih lanjut dapat ditemukan di berkas [skin.ini]
 
 | Opsi | Tipe nilai | Deskripsi |
 | :-- | :-- | :-- |
-| `EditorGridSize` | Bilangan Bulat | Ukuran grid di [osu! pixels](/wiki/osupixel) |
-| `EditorGridSizeDesign` | Bilangan Bulat | Ukuran grid tab Design di [osu! pixels](/wiki/osupixel) |
+| `EditorGridSize` | Bilangan Bulat | Ukuran grid di [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
+| `EditorGridSizeDesign` | Bilangan Bulat | Ukuran grid tab Design di [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | `EditorDim` | 0 atau 1 | Mengaktifkan atau menonaktifkan opsi latar belakang akan diredupkan selama pengujian map |
 | `EditorGrid` | 0 atau 1 | Mengaktifkan atau menonaktifkan grid snap |
 | `EditorBeatDivisor` | Bilangan Bulat | Beat snap divisor terakhir yang digunakan |
@@ -260,14 +260,14 @@ Opsi tata letak pada osu!mania lebih lanjut dapat ditemukan di berkas [skin.ini]
 | `ConfirmExit` | 0 atau 1 | Mengaktifkan atau menonaktifkan osu! akan menanyakan konfirmasi sebelum keluar dari game |
 | `CustomFrameLimit` | Bilangan Bulat | Opsi pembatas FPS ketiga yang akan muncul dalam permainan |
 | `Display` | Bilangan Bulat | Nomor monitor dimana osu! dapat berjalan |
-| `EditorTip` | Bilangan Bulat | Nomor tip editor yang akan ditampilkan |
+| `EditorTip` | Bilangan Bulat | Nomor [tip editor](/wiki/Client/Menu_tips#editor) yang akan ditampilkan |
 | `GuideTips` | Teks | Membuat daftar tip bantuan yang telah ditampilkan sehingga tip tersebut tidak ditampilkan lagi |
 | `HighResolution` | 0 atau 1 | Memaksa pengunaan elemen skin dengan kualitas tinggi |
 | `IgnoreBarline` | 0 atau 1 | Mengaktifkan atau menonaktifkan opsi garis osu!mania seharusnya tersembunyi |
 | `LastVersion` | Teks | Versi klien saat ini |
 | `LastVersionPermissionsFailed` | Teks | Versi klien terakhir yang membutuhkan akses admin untuk menyelesaikan update |
 | `LowResolution` | 0 atau 1 | Memaksa pengunaan elemen skin dengan kualitas standar (menimpa opsi `HighResolution`) |
-| `MenuTip` | Bilangan Bulat | Nomor tip menu yang akan ditampilkan |
+| `MenuTip` | Bilangan Bulat | Nomor [tip menu](/wiki/Client/Menu_tips#main-menu) yang akan ditampilkan |
 | `MyPcSucks` | 0 atau 1 | Menonaktifkan seluruh settingan grafis yang bagus |
 | `OverrideRefreshRate` | 0 atau 1 | Mengaktifkan atau menonaktifkan penggunaan nilai `RefreshRate` |
 | `RefreshRate` | Bilangan Bulat | Refresh rate yang kustom |
