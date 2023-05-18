@@ -1,4 +1,6 @@
-# Melden von schlechtem Verhalten
+<!--Translate button texts and add german images where possible, delete backup-reporting-behaviour branch -->
+
+# Melden von schlechtem Verhalten<!--Schlechtes Verhalten melden?-->
 
 osu! hat [ein Team von Moderatoren](/wiki/People/Global_Moderation_Team), die sich dem Sauberhalten und dem Schutz der Community verschrieben haben. Wenn dir regelbrechendes Verhalten oder anstößiger Inhalt auffällt, dann melde es über eine der unten beschriebenen Methoden. Alternativ darfst du auch eine der Moderatoren direkt ansprechen, sofern deine Meldung nicht in einem angemessenen Zeitraum bearbeitet wurde — mache dies nur als letzte Möglichkeit.
 
@@ -18,11 +20,11 @@ Für alles andere, siehe die Anweisungen weiter unten.
 
 ## Chat im Spiel
 
-### Der !report-Befehl
+### Der Befehl !report
 
 ![](img/report-command.jpg "Beispiel von der Benutzung des !report-Befehls")
 
-Fehlverhalten im Chat ist der häufigste Verstoß. Um das zu melden, benutze den [`!report`](https://osu.ppy.sh/community/forums/topics/34843) Befehl, vorzugsweise in dem Channel, in dem der Verstoß stattfand. Fühle dich nicht unter Druck gesetzt: wenn deine Nachricht mit `!report` und einem Leerzeichen beginnt, **dann ist es nur für Moderatoren sichtbar** und niemanden sonst im Chat. Du kannst auch die Meldefunktion via dem [Spiel-Overlay](#spiel-overlay) wie unten beschrieben nutzen, wenn du immer noch Bedenken hast.
+Fehlverhalten im Chat ist der häufigste Verstoß. Um das zu melden, benutze den Befehl [`!report`](https://osu.ppy.sh/community/forums/topics/34843), vorzugsweise in dem Channel, in dem der Verstoß stattfand. Fühle dich nicht unter Druck gesetzt: wenn deine Nachricht mit `!report` und einem Leerzeichen beginnt, **dann ist es nur für Moderatoren sichtbar** und niemanden sonst im Chat. Du kannst auch die Meldefunktion via dem [Spiel-Overlay](#spiel-overlay) wie unten beschrieben nutzen, wenn du immer noch Bedenken hast.
 
 Die Befehlssyntax hat zwei Formen:
 
@@ -39,7 +41,7 @@ Wenn sich Leerzeichen im Benutzernamen befinden, ersetze diese mit Unterstrichen
 
 ### Spiel-Overlay
 
-![](img/report-user-1.png "Benutzeraktion mit dem Report-Button")
+![](img/report-user-1.png "Aktionsmenü mit dem Meldebutton")
 
 ![](img/report-user-2.png "Meldedialog im Spiel")
 
@@ -71,7 +73,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 ![](img/report-user-comment.png "Der Meldebutton in einem Kommentar auf der Webseite")
 
-1. Klicke auf den `Report`-Link.
+1. Klicke auf den Link `Report`.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Beatmap
@@ -85,7 +87,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 ![](img/report-user-discussion.png "Der Meldebutton in einem Diskussionsbeitrag")
 
-1. Klicke den `Report`-Link unter dem Diskussionsbeitrag.
+1. Klicke den Link `Report` unter dem Diskussionsbeitrag.
 2. Wähle die Kategorie und füge Details hinzu (optional).
 
 ### Scoreliste
