@@ -2,7 +2,7 @@
 
 Los **osu! originals** son canciones que se hicieron específicamente para (o estrenadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists). Si bien no todos los osu! originals tienen licencia oficial y están incluidos en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists), las canciones que sí lo tienen se distinguen comúnmente por la etiqueta `ORIGINAL` en las páginas de sus respectivos artistas.
 
-Todos los osu! originals que han sido licenciados por el juego están autorizados para su uso en osu! bajo términos no exclusivos según la [política de licencias de música de osu!](/wiki/Legal/Music_licensing). Por el contrario, osu! originals sin licencia pueden requerir permiso para su uso. Consulte las [directrices de uso de contenido](/wiki/Rules/Content_Usage_Guidelines) para obtener más información.
+Todos los osu! originals que han sido licenciados por el juego están autorizados para su uso en osu! bajo términos no exclusivos según la [política de licencias de música de osu!](/wiki/Legal/Music_licensing). Por el contrario, osu! originals sin licencia pueden requerir permiso para su uso. Consulte las [directrices de uso de contenido](/wiki/Rules/Content_usage_guidelines) para obtener más información.
 
 ## Lista de osu! originals
 
@@ -280,6 +280,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | Daily197 - Sirius | [#1](https://osu.ppy.sh/beatmapsets/1964081) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/taiko.png) [cavoe's osu! event's Global Taiko Showdown 2023](/wiki/Tournaments/GTS/COEGTS_2023)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [NormalM & SiLiS - Global DJ Smackdown](https://soundcloud.com/normalmusiccc/silis-and-normalm-global-dj-smackdown) |  | Tema principal |
+
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
 | Canción | Beatmap | Notas |
@@ -425,6 +431,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [Sparxe - Zinnober](https://www.youtube.com/watch?v=P_THfvY2ID4) | [#1](https://osu.ppy.sh/beatmapsets/1754903) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown 2023
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Altermis - Chronaria](https://soundcloud.com/altermisdesu/chronaria-igts-2023-grand-finals-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1996407) | Desempate de la gran final |
+
 #### ![](/wiki/shared/mode/mania.png) Jaye's One Key Event 2: Spacebar Jam
 
 | Canción | Beatmap | Notas |
@@ -442,6 +454,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [pm04034 - Invenzione No. 3N&3R: Sonatina for a Dying Lord](https://soundcloud.com/gtssoundteam/invenzione-no-3n-3r-sonatina) | [#1](https://osu.ppy.sh/beatmapsets/1569783) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/osu.png) Manten's European Bluelock
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Flamme Du Savoir & Rayes Music - Tabula Rasa](https://open.spotify.com/album/6e9favyeV6o8wVI72F5yNB) | [#1](https://osu.ppy.sh/beatmapsets/1994973) | Desempate de la final |
 
 #### ![](/wiki/shared/mode/osu.png) PsychedelicMush's Scuffed AF Summer Tournament
 
