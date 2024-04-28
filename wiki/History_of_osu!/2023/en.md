@@ -1,10 +1,26 @@
 # 2023
 
-<!--I don't think I will continue with writing newer history articles. It gets too tedious rather quickly, especially because I don't know what to include other than what is already covered in news posts. I don't want this thing to become a mere "table of contents" for news posts.
+<!--## Preface
 
-2022 was an awesome year to cover due to many events (see for example r/place). 2023 was also great and fun to collect info on. However, going forward, I will probably focus on improving the older history articles in style and content. Those need some care too.
+Before talking about the actual changes, I would like to address something that has been bothering me.
+
+I don't think I will continue with writing newer history articles. It gets too tedious rather quickly, especially because I don't know what to include other than what is already covered in news posts. I don't want this thing to become a mere "table of contents" for news posts.
+
+2022 was an awesome year to cover due to many events (see for example r/place[^place]). 2023 was also great and fun to collect info on. However, going forward, I will probably focus on improving the older history articles in style and content. Those need some care too.
 
 The years 2019 to 2021 is a difficult hole to fill in for example.
+
+## Notes
+
+Okay, continuing with the article.
+
+I left some stuff out that should likely reside in the news posts alone:
+
+- The Roundtable 2
+- [reese interview](https://osu.ppy.sh/home/news/2023-06-02-the-osu-youtube-legacy-of-reesewashere)
+- [ephemeral interview](https://osu.ppy.sh/home/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals)
+
+[^place]: My notes still wait to be used for a dedicated article :eyes:
 -->
 
 ## January
