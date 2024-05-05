@@ -2,9 +2,9 @@
 
 <!--## Preface
 
-Before talking about the actual changes, I would like to address something that has been bothering me.
+Before talking about the actual article, I would like to address something that has been bothering me.
 
-I don't think I will continue with writing newer history articles. It gets too tedious rather quickly, especially because I don't know what to include other than what is already covered in news posts. I don't want this thing to become a mere "table of contents" for news posts.
+I don't think I will continue with writing newer history articles. It gets too tedious rather quickly, especially because I don't know what to include other than what is already covered in news posts. I don't want this thing to become a mere "table of contents" for news posts (and I strongly feel like it already is due to the many news post links).
 
 2022 was an awesome year to cover due to many events (see for example r/place[^place]). 2023 was also great and fun to collect info on. However, going forward, I will probably focus on improving the older history articles in style and content. Those need some care too.
 
@@ -19,6 +19,7 @@ I left some stuff out that should likely reside in the news posts alone:
 - The Roundtable 2
 - [reese interview](https://osu.ppy.sh/home/news/2023-06-02-the-osu-youtube-legacy-of-reesewashere)
 - [ephemeral interview](https://osu.ppy.sh/home/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals)
+- [Mapper's choice awards](https://osu.ppy.sh/home/news/2023-03-03-mappers-choice-awards)
 
 [^place]: My notes still wait to be used for a dedicated article :eyes:
 -->
@@ -36,6 +37,7 @@ The download page on the osu! website received a redesign, with an additional do
 ## February
 
 - [osu!monthly](https://osu.ppy.sh/home/news/2023-03-02-osumonthly-8)
+  - accuracy challenge mod, multitouch tapping support for osu!, ability to remove the blur from the song select background
 - osu! community meeting
   - [VOD](https://www.youtube.com/watch?v=idmI03A8jR8)
   - [notes](https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE/edit)
@@ -46,10 +48,10 @@ The markdown language [BBCode](/wiki/BBCode) which is used in the osu! forums an
 
 ## March
 
-- [Mapper's choice awards](https://osu.ppy.sh/home/news/2023-03-03-mappers-choice-awards)
 - [interview between peppy and pishifat](https://twitter.com/osugame/status/1636925240881348609)
   - problem of serving both casual and tournament players?
 - [lazer update (2023-03-01)](https://www.youtube.com/watch?v=Kmm5VlFCYE8)
+  - skin editor clipboard and element depth reordering
 - [lazer update (2023-03-26)](https://www.youtube.com/watch?v=5Yg9Qo5qFXc)
 
 In 2022's [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022), users were able to vote for their most favourite skin. The top three entries from 3rd to 1st place, respectively by [BatuhanYtho](https://osu.ppy.sh/users/12091015), [moonstaar](https://osu.ppy.sh/users/27339355), and [- Koshiin -](https://osu.ppy.sh/users/19135423), received custom badges as the contest's price. Each finalist ranging from place #1 to #10 was gifted different amounts of osu!supporter.[^soty-results]
@@ -116,11 +118,11 @@ Every player's country of residence is shown via a flag on their profile. Due to
 
 ## August
 
-- skinning contest [icons of an era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) (osu! 15th anniversary)
-  - [results](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results)
 - [lazer update (2023-08-11)](https://osu.ppy.sh/home/news/2023-08-11-osulazer-updates-august-11-2023)
 - [osu! Malaysian event](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki)
 - [community meeting (2023-08-21)](https://www.youtube.com/watch?v=O2j00E6AVW8): discussing the missing pieces to lazer ranked play
+
+From May through August, the [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) skinning contest was organised to celebrate 15 years of osu! in the form of [skins](/wiki/Skin) representing popular beatmaps or mascots. [thetasigma](https://osu.ppy.sh/users/6234482), [Chromasia](https://osu.ppy.sh/users/7306251), and [Spoo](https://osu.ppy.sh/users/11805037) won the third, second, and first place in the contest respectively. The prize included a custom badge and varying amounts of osu!supporter.[^icons-of-an-era]
 
 [Dynam1cNET](https://osu.ppy.sh/users/12540789) wanted to show what is possible with the me! page and implemented a custom version of r/place, an event on [Reddit](https://www.reddit.com) where users were able to *place* coloured pixels on a canvas.[^me-page-place]
 
@@ -180,6 +182,7 @@ Similar to the other [release streams](/wiki/Client/Release_stream), osu!(lazer)
 [^flag-issue]: [Issue by peppy (2023-07-18) "Add support for user initiated flag changes"](https://github.com/ppy/osu-web/issues/10382)
 [^flag-news]: [News post by Blushing and Walavouchey (2023-07-28) "Enabling Country Flag Changes"](https://osu.ppy.sh/home/news/2023-07-28-enabling-country-flag-changes)
 
+[^icons-of-an-era]: [News post by RockRoller (2023-08-10) "Skinning Contest: Icons of an Era - Results"](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results)
 [^me-page-place]: [Forum thread by Dynam1cNET (2023-08-19) "I've made a r/place clone for my about me section"](https://osu.ppy.sh/community/forums/topics/1809912?n=1)
 
 [^winter-fanart]: [News post by Ephemeral (2023-12-07) "Winter 2023 Fanart Contest Results"](https://osu.ppy.sh/home/news/2023-12-07-winter-fanart-contest-results)
