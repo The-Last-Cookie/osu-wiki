@@ -6,6 +6,8 @@ Before talking about the actual article, I would like to address something that 
 
 I don't think I will continue with writing newer history articles. It gets too tedious rather quickly, especially because I don't know what to include other than what is already covered in news posts. I don't want this thing to become a mere "table of contents" for news posts (and I strongly feel like it already is due to the many news post links).
 
+Not to mention the contests that are organised each year anyway, like the Halloween drawing contest.
+
 2022 was an awesome year to cover due to many events (see for example r/place[^place]). 2023 was also great and fun to collect info on. However, going forward, I will probably focus on improving the older history articles in style and content. Those need some care too.
 
 The years 2019 to 2021 is a difficult hole to fill in for example.
@@ -20,6 +22,8 @@ I left some stuff out that should likely reside in the news posts alone:
 - [reese interview](https://osu.ppy.sh/home/news/2023-06-02-the-osu-youtube-legacy-of-reesewashere)
 - [ephemeral interview](https://osu.ppy.sh/home/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals)
 - [Mapper's choice awards](https://osu.ppy.sh/home/news/2023-03-03-mappers-choice-awards)
+- [osu! manga](https://osu.ppy.sh/home/news/2023-11-20-the-first-osu-manga-osu-combat-championship)
+- [Halloween 2023](https://osu.ppy.sh/home/news/2023-09-24-halloween-fanart-contest) and [results](https://osu.ppy.sh/home/news/2023-10-22-halloween-descends)
 
 [^place]: My notes still wait to be used for a dedicated article :eyes:
 -->
@@ -134,19 +138,19 @@ From May through August, the [Icons of an Era](https://osu.ppy.sh/home/news/2023
 
 - [osu!(lazer) Updates: October 8, 2023](https://osu.ppy.sh/home/news/2023-10-08-osulazer-updates-october-8)
 - [osu!(lazer) Updates: October 26, 2023](https://osu.ppy.sh/home/news/2023-10-26-osulazer-updates-october-26)
-- [Halloween 2023](https://osu.ppy.sh/home/news/2023-09-24-halloween-fanart-contest)
-  - [results](https://osu.ppy.sh/home/news/2023-10-22-halloween-descends)
 
 ## November
 
 - [osu!(lazer) Updates: November 14, 2023](https://osu.ppy.sh/home/news/2023-11-14-osulazer-updates-november-14)
 - [osu!(lazer) Updates: November 30, 2023](https://osu.ppy.sh/home/news/2023-11-30-osulazer-updates-november-30)
-- [Community Contributors 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
-- [osu! manga](https://osu.ppy.sh/home/news/2023-11-20-the-first-osu-manga-osu-combat-championship)
+
+Several people were commended and awarded with a Community Contributor badge for their remarkable assistance in the osu! community in 2022 and 2023.[^contributors]
 
 ## December
 
 - [osu!(lazer) Updates & Preparing For Ranked Play](https://osu.ppy.sh/home/news/2023-12-18-osulazer-updates-preparing-for-ranked-play)
+
+<!--With the last update of the year being released, the team wanted more people to try out lazer before locking gameplay mechanics and adding the pp system.-->
 
 This year, the [Winter Fanart Contest](https://osu.ppy.sh/home/news/2023-11-07-winter-fanart-contest) ran under the theme "osu! mascots enjoying a seasonal feast". Due to this broad theme, the participants had a lot of freedom and creativity for designs. All finalists obtained three months of osu!supporter, while the top 3 winners received a custom [profile badge](/wiki/Community/Profile_badge) on top.[^winter-fanart]
 
@@ -184,6 +188,8 @@ Similar to the other [release streams](/wiki/Client/Release_stream), osu!(lazer)
 
 [^icons-of-an-era]: [News post by RockRoller (2023-08-10) "Skinning Contest: Icons of an Era - Results"](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results)
 [^me-page-place]: [Forum thread by Dynam1cNET (2023-08-19) "I've made a r/place clone for my about me section"](https://osu.ppy.sh/community/forums/topics/1809912?n=1)
+
+[^contributors]: [News post by osu! team (2023-11-19) "Community Contributors: 2022 & 2023"](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
 
 [^winter-fanart]: [News post by Ephemeral (2023-12-07) "Winter 2023 Fanart Contest Results"](https://osu.ppy.sh/home/news/2023-12-07-winter-fanart-contest-results)
 [^lazer-user-count]: [Tweet by peppy (2023-12-15)](https://twitter.com/ppy/status/1735606671031091389)
