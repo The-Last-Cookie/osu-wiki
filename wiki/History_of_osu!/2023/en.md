@@ -123,6 +123,8 @@ Every player's country of residence is shown via a flag on their profile. Due to
 ## August
 
 - [lazer update (2023-08-11)](https://osu.ppy.sh/home/news/2023-08-11-osulazer-updates-august-11-2023)
+  - kiai fountains
+  - Tournament client improvements
 - [osu! Malaysian event](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki)
 - [community meeting (2023-08-21)](https://www.youtube.com/watch?v=O2j00E6AVW8): discussing the missing pieces to lazer ranked play
 
@@ -133,16 +135,27 @@ From May through August, the [Icons of an Era](https://osu.ppy.sh/home/news/2023
 ## September
 
 - [osu!(lazer) update (2023-09-08)](https://osu.ppy.sh/home/news/2023-09-08-osulazer-updates-the-path-to-ranked-play)
+  - ranked play: GitHub project board; discussion with a handful of top players
+  - Sorting by difficulty splits difficulties into individual panels
 
 ## October
 
 - [osu!(lazer) Updates: October 8, 2023](https://osu.ppy.sh/home/news/2023-10-08-osulazer-updates-october-8)
+  - argon skin changes
+  - Extended information on mod icons
+  - Lower maximum required spinner RPM cap based on Overall Difficulty
 - [osu!(lazer) Updates: October 26, 2023](https://osu.ppy.sh/home/news/2023-10-26-osulazer-updates-october-26)
+  - Player invites for multiplayer rooms
 
 ## November
 
 - [osu!(lazer) Updates: November 14, 2023](https://osu.ppy.sh/home/news/2023-11-14-osulazer-updates-november-14)
+  - new argon design
+  - new main menu sound effects
 - [osu!(lazer) Updates: November 30, 2023](https://osu.ppy.sh/home/news/2023-11-30-osulazer-updates-november-30)
+  - Free-hand slider drawing
+  - HP drain rate now matches osu!(stable)
+  - skin editor accessible from the main menu
 
 Several people were commended and awarded with a Community Contributor badge for their remarkable assistance in the osu! community in 2022 and 2023.[^contributors]
 
