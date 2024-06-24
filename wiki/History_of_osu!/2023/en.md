@@ -161,7 +161,7 @@ Several people were commended and awarded with a Community Contributor badge for
 
 ## December
 
-In parallel to this year's last update, the osu! team wanted more people to try out osu!(lazer) and give feedback via the forum before locking gameplay mechanics and adding the pp system.[^feedback] Gaining a miss caused less penalty for high combos (`combo^1.5` compared to `combo^2`). The combo–accuracy split was rebalanced, making accuracy account for a bigger portion in a score. Sliders became more lenient. osu!catch's grading in osu!(lazer) was changed to match the grading of osu!(stable) to simplify obtaining high accuracy values.[^lazer-12-18]
+In parallel to this year's last update, the osu! team wanted more people to try out osu!(lazer) and give feedback via the forum before locking gameplay mechanics and adding the pp system.[^feedback] Gaining a miss caused less penalty for high combos (`combo^1.5` compared to `combo^2`). The combo–accuracy split was rebalanced, making accuracy account for a bigger portion in a score. osu!catch's grading in osu!(lazer) was changed to match the grading of osu!(stable) to simplify obtaining high accuracy values. At last, sliders became more lenient.[^lazer-12-18]
 
 The 2024's [Winter Fanart Contest](https://osu.ppy.sh/home/news/2023-11-07-winter-fanart-contest) ran under the theme "osu! mascots enjoying a seasonal feast". Due to this broad theme, the participants had a lot of freedom and creativity for designs. All finalists obtained three months of osu!supporter, while the top 3 winners received a custom [profile badge](/wiki/Community/Profile_badge) on top.[^winter-fanart]
 
