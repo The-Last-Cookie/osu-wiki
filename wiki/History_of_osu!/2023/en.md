@@ -53,7 +53,7 @@ The markdown language [BBCode](/wiki/BBCode) which is used in the osu! forums an
 ## March
 
 - [interview between peppy and pishifat](https://twitter.com/osugame/status/1636925240881348609)
-  - problem of serving both casual and tournament players?
+  - problem of serving, casual, tournament players, and mappers? (due to timing constraints) (e.g. editor improvements)
 - [lazer update (2023-03-01)](https://www.youtube.com/watch?v=Kmm5VlFCYE8)
   - skin editor clipboard and element depth reordering
 - [lazer update (2023-03-26)](https://www.youtube.com/watch?v=5Yg9Qo5qFXc)
@@ -109,7 +109,6 @@ The third season of [osu!monthly](/wiki/Community/osu!monthly) ended with the [9
 - [kudosu ranking page](https://osu.ppy.sh/p/kudosu) was [reimplemented on new website](https://github.com/ppy/osu-web/pull/10344)
 - [lazer update (2023-07-16)](https://osu.ppy.sh/home/news/2023-07-16-osulazer-updates-july-16-2023)
   - score recalculation to ScoreV2
-  - new notification sounds and new osu!taiko hitsounds (argon skin)
   - more search options at song select
 - [community meeting (2023-07-07)](https://osu.ppy.sh/home/news/2023-07-11-community-meeting-recap)
 - beach episode art contest
