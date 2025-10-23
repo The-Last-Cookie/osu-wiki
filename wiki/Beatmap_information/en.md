@@ -37,7 +37,7 @@ Further below these action buttons from left to right may be present, allowing t
 - **Favourite:** Add this beatmap to the favourites section in the user profile.
 - **Download:** Download the beatmap. If the beatmap has a background video, the user can choose to download the beatmap with or without the video.
 - **osu!direct**: Download the beatmap directly in the game client without requiring to manually open the file.
-- **Report:** If the beatmap is in either the [graveyard](/wiki/Beatmap/Category#graveyard), or the [WIP and the pending](/wiki/Beatmap/Category#wip-and-pending), the user has the ability to [report the beatmap](/wiki/Reporting_bad_behaviour#beatmap), should there be any rule-violating content. By clicking on the 3 dots, a dropdown menu appears, revealing the `report` button.
+- **Report:** If the beatmap is in either the [graveyard](/wiki/Beatmap/Category#graveyard), or the [WIP and the pending](/wiki/Beatmap/Category#wip-and-pending) category, the user has the ability to [report the beatmap](/wiki/Reporting_bad_behaviour#beatmap), should there be any rule-violating content. By clicking on the 3 dots, a dropdown menu appears, revealing the `report` button.
 
 ### Statistics panel
 
@@ -94,7 +94,7 @@ In addition to gameplay-related statistics, every beatmap includes metadata fiel
 
 The nominator section is added as soon as the beatmap is nominated by [beatmap nominators](/wiki/People/Beatmap_Nominators) for becoming ranked.
 
-After the beatmap is ranked, users are able to add [user tags](/wiki/Beatmap/Beatmap_tags#user-tags). Upon reaching 5 votes on an user tag, the respective tag will be displayed in the `user tag` segment in this section.
+After the beatmap is ranked, users are able to vote for [user tags](/wiki/Beatmap/Beatmap_tags#user-tags). Upon reaching 5 votes on an user tag, the respective tag will be displayed in the `user tag` segment in this section.
 
 ### Success rate display
 
@@ -114,9 +114,9 @@ If a beatmap is WIP or pending, the hype train section is visible where users ca
 
 If a beatmap is qualified or ranked, it has access to leaderboards, on which players can compete against each other.
 
-At the top of the rankings menu are the 3 tabs `Global Ranking`, `Country Ranking`, and `Friend Ranking` available respectively, of which the last two require [osu!supporter](/wiki/osu!supporter) for usage. Selecting one of the tabs will display the leaderboard in the score listing below. Clicking on one or several mod icons in the filter menu allows the user to show solely scores with that exact mod combination.
+At the top of the rankings menu are the 3 tabs `Global Ranking`, `Country Ranking`, and `Friend Ranking` available respectively, of which the last two require [osu!supporter](/wiki/osu!supporter) for usage. Selecting one of the tabs will display the leaderboard in the score listing below<!--this needs refining-->. Clicking on one or several mod icons in the filter menu allows the user to show solely scores with that exact mod combination.
 
-The score listing shows up to 50 top scores, while the best score is highlighted specifically with an enlarged score card<!-- better phrasing? -->.
+The score listing shows up to 50 top scores, while the best score is highlighted specifically with an enlarged score card.
 
 Hovering over a score will reveal 3 dots at the right side of the menu. Clicking on the dots opens up a menu with 3 options:
 
