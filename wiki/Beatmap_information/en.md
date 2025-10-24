@@ -67,7 +67,7 @@ At the bottom of the statistics panel is the [star rating](/wiki/Beatmap/Star_ra
 ![](img/user-rating.png "User rating")
 :::
 
-If the beatmap is qualified, ranked, or loved, a user rating will be displayed below the statistics panel. User rating is a feature in osu!(stable) where after passing a beatmap users are able to vote between 1 and 10 stars based on how much they liked it.
+If the beatmap is [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked), or [loved](/wiki/Beatmap/Category#loved), a user rating will be displayed below the statistics panel. User rating is a feature in osu!(stable) where after passing a beatmap users are able to vote between 1 and 10 stars based on how much they liked it.
 
 If the user votes 6 stars or more (positive vote), the bar will be coloured green, otherwise yellow (negative vote). The numbers to the side of the bar describe the number of users that have voted either positively or negatively. Above the bar is a number in brackets displaying the average number of stars every user voted for.
 
@@ -114,7 +114,7 @@ If a beatmap is WIP or pending, the hype train section is visible where users ca
 
 If a beatmap is qualified or ranked, it has access to leaderboards, on which players can compete against each other.
 
-At the top of the rankings menu are the 3 tabs `Global Ranking`, `Country Ranking`, and `Friend Ranking` available respectively, of which the last two require [osu!supporter](/wiki/osu!supporter) for usage. Selecting one of the tabs will display the leaderboard in the score listing below<!--this needs refining-->. Clicking on one or several mod icons in the filter menu allows the user to show solely scores with that exact mod combination.
+osu! offers the 3 leaderboards `Global Ranking`, `Country Ranking`, and `Friend Ranking`, of which the last two require [osu!supporter](/wiki/osu!supporter) for usage. Selecting one of the tabs at the top of the menu will display the respective leaderboard in the score listing below. Clicking on one or several mod icons in the filter menu allows the user to show solely scores with that exact [mod](/wiki/Gameplay/Game_modifier) combination.
 
 The score listing shows up to 50 top scores, while the best score is highlighted specifically with an enlarged score card.
 
@@ -126,7 +126,7 @@ Hovering over a score will reveal 3 dots at the right side of the menu. Clicking
 
 ## Comments
 
-![](img/comments.png "Textbox for posting comments")
+![](img/comments.png "Textbox for posting comments and sorting options")
 
 In the comment section, users are able to exchange their opinions about the beatmap. The beatmap host also has the ability to pin a comment, which will cause it to be displayed at the top of the section. The number at the top reflects the number of total comments. Comments can be sorted by either most recent, oldest, or comments with the most upvotes by selecting the respective sort mode below the input box. To publish a new comment, write something in the textbox, and click `Post` or press `Enter`.
 
