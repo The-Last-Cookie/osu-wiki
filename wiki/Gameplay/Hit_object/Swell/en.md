@@ -7,7 +7,7 @@ tags:
 
 ![](/wiki/shared/Taiko_spinner.jpg "osu!taiko swell")
 
-The **swell** is a circular [hit object](/wiki/gameplay/Hit_object) in [osu!taiko](/wiki/Game_mode/osu!taiko) [beatmaps](/wiki/Beatmap) looking like a whirl. Upon reaching the white judgement circle on the left side of the conveyer belt, the swell increases in size to take up the screen and players need to alternate between hitting the drum's center and rim as fast as possible until the swell disappears.
+The **swell** is a circular [hit object](/wiki/gameplay/Hit_object) in [osu!taiko](/wiki/Game_mode/osu!taiko) [beatmaps](/wiki/Beatmap) looking like a whirl. Upon reaching the white judgement circle on the left side of the conveyer belt, the swell will be displayed as a big circle, taking up the entire screen. At this point, players need to alternate between hitting the drum's center and rim as fast as possible until the swell disappears.
 
 It does not matter which part of the drum is hit first. Hitting the same drum part on repeat will not progress the swell. Failing to complete the swell will incur a health penalty, but will not break combo.
 
