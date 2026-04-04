@@ -192,7 +192,7 @@ In dichten Patterns ist es nun leichter, nach Verfehlen eines Hit-Objekts weiter
 
 ![](img/slideracc.gif)
 
-In stable musste man bei Slidern bisher mindestens einen 50er/eine MEH-Beurteilung erreichen, um einen perfekten Score zu bekommen. Das geschah aus historischen Gründen, aber fühlt sich in einem Rhythmusspiel nicht richtig an. Bei Slidern wird nun beim initialen Treffen die Genauigkeit erfasst.
+In stable musste man bei Slidern bisher nur die Genauigkeit einer MEH-Beurteilung (50er) erreichen, um eine perfekte Beurteilung zu bekommen. Das geschah aus historischen Gründen, fühlt sich aber in einem Rhythmusspiel nicht richtig an. Sliderköpfe erfassen nun die Genauigkeit.
 
 |  |  |
 | :-- | :-: |
@@ -282,7 +282,7 @@ Die erforderliche RPM, um die maximale Punktzahl zu bekommen, ist wie folgt:
 
 ![](img/aspire-slider.gif)
 
-Einige experimentelle Beatmaps nutzen Programmfehler im Stable-Client aus, die abartige Slidermechaniken ermöglichen. Dies geht von Slidern der Länge null, die sich wie unsichtbare Kreise verhalten, bis hin zu Slidern, die über den gesamten Bildschirm verteilt sind.
+Einige experimentelle Beatmaps nutzen Programmfehler im Stable-Client aus, die abartige Slidermechaniken ermöglichen. Dies geht von Slidern der Länge null, die sich wie unsichtbare Kreise verhalten, bis hin zu Slidern, die sich über den gesamten Bildschirm erstrecken oder die sehr stark gequetscht sind.
 
 Es steht noch zur Debatte, in wie weit Aspire-Beatmaps kompatibel sein sollen in Zukunft. Beispielsweise könnten unsichtbare Kreise eine tatsächlich unterstützte Funktion sein.
 
