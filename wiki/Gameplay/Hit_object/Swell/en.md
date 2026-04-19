@@ -18,4 +18,4 @@ Swells do not increment the combo counter, and do not recover the health bar in 
 ## Trivia
 
 - In [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin), swells are called denden.
-- Due to their similar look to osu!'s [spinners](/wiki/Gameplay/Hit_object/Spinner), swells are sometimes called spinners too.
+- Due to technically being the same object type as [spinners](/wiki/Gameplay/Hit_object/Spinner) in `.osu` files and other game modes sharing the osu! mode's editor in osu!(stable), swells are sometimes called spinners too.
